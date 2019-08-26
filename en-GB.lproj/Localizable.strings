@@ -30,8 +30,6 @@
 "Failed to check for update." = "Failed to check for update."
 "An update is available." = "An update is available."
 "Already up to date." = "Already up to date."
-"An update is available." = "An update is available."
-"Already up to date." = "Already up to date."
 "SpringBoard will be restarted." = "SpringBoard will be restarted."
 "Unable to get task port for backboardd." = "Unable to get task port for backboardd."
 "Unable to make backboardd exit." = "Unable to make backboardd exit."
