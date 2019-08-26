@@ -59,8 +59,8 @@
 "This option makes the jailbreak set the persistent com.apple.System.boot-nonce variable in non-volatile random-access memory NVRAM which may be required to downgrade to an unsigned iOS firmware by using SHSH files." = "هذا الخيار يجعل الجيلبريك يقوم بتعيين متغير com.apple.System.boot-nonce المستمر في ذاكرة NVRAM غير المتغيرة ذات الوصول العشوائي والتي قد تكون مطلوبة للرجوع إلى إصدار iOS ذو نافذة مغلقة باستخدام ملفات SHSH."
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 على arm64/arm64e SoCs A7-A12X."
 "Export TFP0" = "تصدير TFP0"
-"This option makes the jailbreak modify the host-port to grant any process access to the host-priv-port." = ""
-"This option effectively grants any process access to the kernel task port TFP0 and allows re-jailbreaking without exploiting again." = "This option effectively grants any process access to the kernel task port TFP0 and allows re-jailbreaking without exploiting again."
+"This option makes the jailbreak modify the host-port to grant any process access to the host-priv-port." = "هذا الخيار يجعل الجيلبريك يقوم بتعديل host-part لمنح أي عملية وصول إلى host-priv-port."
+"This option effectively grants any process access to the kernel task port TFP0 and allows re-jailbreaking without exploiting again." = ""
 "This option is considered unsafe as the privilege this option effectively grants to processes can be used for bad purposes by malicous apps." = "This option is considered unsafe as the privilege this option effectively grants to processes can be used for bad purposes by malicous apps."
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.",
 "Restore RootFS" = "Restore RootFS"
