@@ -351,7 +351,7 @@
 "Loading Tweaks..." = "טוען Tweaks..."
 "Unable to load tweaks." = "שגיאה בטעינת tweaks."
 "Loaded Tweaks.\n" = "Tweaks נטענו.\n"
-"Deinitializing jailbreak..." = "פורק jailbreak..."
+"Deinitializing jailbreak..." = "מאלתחל jailbreak..."
 "Unable to make my task a non-platform task." = "שגיאה בהפיכת הtask שלי ל non-platform task."
 "Unable to make my codesign blob a non-platform blob." = "שגיאה בחתימת blob שהוא non-platform blob."
 "Unable to drop kernel's credentials." = "שגיאה בהורדת מזהי הקרנל."
