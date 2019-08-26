@@ -96,7 +96,7 @@
 "GsM-At-dw9.text" = "RootFS только для чтения";
 
 /* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "HS8-A8-Kos"; */
-"HS8-A8-Kos.normalTitle" = "Перезагрузка";
+"HS8-A8-Kos.normalTitle" = "Перезагрузить";
 
 /* Class = "UILabel"; text = "placeholder"; ObjectID = "ITG-pW-yHc"; */
 "ITG-pW-yHc.text" = "placeholder";
@@ -153,7 +153,7 @@
 "T5g-8V-gBQ.placeholder" = "XXXXXXXXXXXXXXXX";
 
 /* Class = "UILabel"; text = "Uptime"; ObjectID = "TmA-aA-qbT"; */
-"TmA-aA-qbT.text" = "Аптайм";
+"TmA-aA-qbT.text" = "Время работы";
 
 /* Class = "UIButton"; normalTitle = "@theninjaprawn (Development)"; ObjectID = "V0w-3F-HRY"; */
 "V0w-3F-HRY.normalTitle" = "@theninjaprawn (Разработка)";
