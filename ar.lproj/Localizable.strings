@@ -60,8 +60,8 @@
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 على arm64/arm64e SoCs A7-A12X."
 "Export TFP0" = "تصدير TFP0"
 "This option makes the jailbreak modify the host-port to grant any process access to the host-priv-port." = "هذا الخيار يجعل الجيلبريك يقوم بتعديل host-part لمنح أي عملية وصول إلى host-priv-port."
-"This option effectively grants any process access to the kernel task port TFP0 and allows re-jailbreaking without exploiting again." = ""
-"This option is considered unsafe as the privilege this option effectively grants to processes can be used for bad purposes by malicous apps." = "This option is considered unsafe as the privilege this option effectively grants to processes can be used for bad purposes by malicous apps."
+"This option effectively grants any process access to the kernel task port TFP0 and allows re-jailbreaking without exploiting again." = "هذا الخيار يمنح بشكل فعلي أي عملية وصول إلى kernel task port TFP0 ويسمح بإعادة تفعيل الجيلبريك دون الاستغلال مرة أخرى."
+"This option is considered unsafe as the privilege this option effectively grants to processes can be used for bad purposes by malicous apps." = ""
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.",
 "Restore RootFS" = "Restore RootFS"
 "This option makes the jailbreak restore the root filesystem RootFS to the snapshot which is created by the system when the device is restored." = "This option makes the jailbreak restore the root filesystem RootFS to the snapshot which is created by the system when the device is restored."
