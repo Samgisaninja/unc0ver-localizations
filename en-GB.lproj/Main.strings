@@ -114,7 +114,7 @@
 "M40-fy-KdS.text" = "substitutor";
 
 /* Class = "UIButton"; normalTitle = "Open Cydia"; ObjectID = "MCD-u6-GW4"; */
-"MCD-u6-GW4.normalTitle" = "Otevřít Cydii";
+"MCD-u6-GW4.normalTitle" = "Otevřít aplikaci Cydi";
 
 /* Class = "UIButton"; normalTitle = "Restart SpringBoard"; ObjectID = "MKZ-Zb-eq1"; */
 "MKZ-Zb-eq1.normalTitle" = "Restartovat SpringBoard";
@@ -144,7 +144,7 @@
 "S6S-NE-WJ9.text" = "Nastavit get-task-allow";
 
 /* Class = "UILabel"; text = "Reinstall Cydia"; ObjectID = "SRa-i1-KjM"; */
-"SRa-i1-KjM.text" = "Reinstalovat Cydii";
+"SRa-i1-KjM.text" = "Reinstalovat aplikaci Cydia";
 
 /* Class = "UILabel"; text = "Refresh Icon Cache"; ObjectID = "SVp-PX-97M"; */
 "SVp-PX-97M.text" = "Obnovit cache ikon";
