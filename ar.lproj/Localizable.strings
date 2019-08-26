@@ -86,15 +86,15 @@
 
 "Description:\n\nThis option makes the jailbreak create a copy of the system APTicket located at /System/Library/Caches/apticket.der at its Documents directory which is accessible via iTunes File Sharing.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "هذا الخيار يجعل الجيلبريك يقوم بإنشاء نسخة من نظام APTicket الموجودة في /System/Library/Caches/apticket.der في دليل Documents والذي يمكن الوصول إليه عبر مشاركة الملفات بواسطة iTunes.\n\nالتوافق:\n\niOS 11.0-12.1.2 على arm64/arm64e SoCs (A7-A12X)."
 
-"Refresh Icon Cache" = "Refresh Icon Cache"
+"Refresh Icon Cache" = "تحديث ذاكرة الأيقونات المؤقتة"
 
-"Description:\n\n" = "Description:"
+"Description:\n\n" = "الوصف:"
 
-"This option makes the jailbreak regenerate SpringBoard's system application installation cache to cause newly installed .app bundles to appear on the icon list." = "This option makes the jailbreak regenerate SpringBoard's system application installation cache to cause newly installed .app bundles to appear on the icon list."
+"This option makes the jailbreak regenerate SpringBoard's system application installation cache to cause newly installed .app bundles to appear on the icon list." = "هذا الخيار يجعل الجيلبريك يقوم بإعادة تجديد ذاكرة التخزين المؤقتة لتطبيقات واجهة النظام المثبتة مما سيتسبب في إظهار أيقونات التطبيقات المثبتة حديثًا."
 
-"iOS 11.0-12.2 and 12.4 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.2 and 12.4 on arm64/arm64e SoCs A7-A12X."
+"iOS 11.0-12.2 and 12.4 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.2 و 12.4 على arm64/arm64e SoCs A7-A12X"
 
-"Disable Updates" = "Disable Updates"
+"Disable Updates" = "تعطيل التحديثات"
 
 "This option makes the jailbreak effectively disable the system's software update mechanism to prevent the system from automatically upgrading to the latest available firmware which may not be supported by the jailbreak at that time." = "This option makes the jailbreak effectively disable the system's software update mechanism to prevent the system from automatically upgrading to the latest available firmware which may not be supported by the jailbreak at that time."
 
