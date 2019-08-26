@@ -6,7 +6,7 @@
   Copyright © 2019 Pwn20wnd. All rights reserved.
 */
 
-"Bundled Resources version missing." = "Falta la version del paquete de recursos."
+"Bundled Resources version missing." = "Falta la versión del paquete de recursos."
 "Unsupported" = "No esta soportado"
 "Restore RootFS" = "Restaurar RootFS"
 "Ready to restore RootFS" = "Listo para restaurar RootFS"
@@ -15,7 +15,7 @@
 "Jailbreak" = "Jailbreak"
 "Ready to jailbreak" = "Listo para jailbreak"
 "Error" = "Error"
-"Bundled Resources version is missing. This build is invalid." = "Falta la version del paquete de recursos. Esta compilacion es invalida."
+"Bundled Resources version is missing. This build is invalid." = "Falta la versión del paquete de recursos. Esta compilacion es invalida."
 "Days" = "Días"
 "Invalid Entry" = "Entrada Invalida"
 "The boot nonce entered could not be parsed" = "No se pudo analizar el nonce de inicio ingresado"
@@ -29,7 +29,7 @@
 "Would you like to copy ECID to clipboard?" = "Te gustaria copiar el ECID al portapapeles?"
 "Failed to check for update." = "No fue posible verificar actualizaciones."
 "An update is available." = "Hay una actualizacion disponible."
-"Already up to date." = "Esta version es la mas actual."
+"Already up to date." = "Esta versión es la mas actual."
 "SpringBoard will be restarted." = "El SpringBoard sera reiniciado."
 "Unable to get task port for backboardd." = "Unable to get task port for backboardd."
 "Unable to make backboardd exit." = "Unable to make backboardd exit."
@@ -331,7 +331,7 @@
 "Removing Electra's Cydia Upgrade Helper..." = "Removing Electra's Cydia Upgrade Helper..."
 "Unable to remove Electra's Cydia Upgrade Helper." = "Unable to remove Electra's Cydia Upgrade Helper."
 "Installing Cydia..." = "Installing Cydia..."
-"Unable to get Cydia version." = "Unable to get Cydia version."
+"Unable to get Cydia version." = "Unable to get Cydia versión."
 "Unable to reinstall Cydia." = "Unable to reinstall Cydia."
 "Installed Cydia.\n" = "Installed Cydia.\n"
 "Loading Daemons..." = "Loading Daemons..."
