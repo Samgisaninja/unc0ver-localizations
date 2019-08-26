@@ -82,9 +82,9 @@
 "This option hides the log window or console in the jailbreak app for a more clean look." = "هذا الخيار يقوم بإخفاء نافذة السجل أو وحدة التحكم في تطبيق الجيلبريك وذلك للحصول على مظهر أكثر نظافة."
 "Reset Cydia Cache" = "إعادة تعيين ذاكرة Cydia المؤقتة"
 "This option makes the jailbreak reset Cydia's cache." = "هذا الخيار يجعل الجيلبريك يقوم بإعادة تعيين ذاكرة تخزين Cydia المؤقتة."
-"This option will cause Cydia to regenerate the repo lists and its cache." = ""
-"SSH Only" = "SSH Only"
-"This option makes the jailbreak skip installing Cydia and Substrate." = "This option makes the jailbreak skip installing Cydia and Substrate."
+"This option will cause Cydia to regenerate the repo lists and its cache." = "هذا الخيار سيؤدي Cydia إلى تجديد قوائم المستودعات وذاكرة التخزين المؤقتة الخاصة بهم."
+"SSH Only" = "SSH فقط"
+"This option makes the jailbreak skip installing Cydia and Substrate." = ""
 "This option starts SSH on 127.0.0.1 localhost on port 22 via dropbear." = "This option starts SSH on 127.0.0.1 localhost on port 22 via dropbear."
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.", = "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.",
 "Set get-task-allow" = "Set get-task-allow"
