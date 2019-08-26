@@ -1,33 +1,33 @@
 
 /* Class = "UILabel"; text = "Export TFP0"; ObjectID = "0lM-oV-NGn"; */
-"0lM-oV-NGn.text" = "Export TFP0";
+"0lM-oV-NGn.text" = "Exporter TFP0";
 
 /* Class = "UIButton"; normalTitle = "Clean Diagnostics Data"; ObjectID = "2He-sb-oZG"; */
-"2He-sb-oZG.normalTitle" = "Clean Diagnostics Data";
+"2He-sb-oZG.normalTitle" = "Nettoyer les données de diagnostic";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2mQ-1t-c11"; */
-"2mQ-1t-c11.title" = "Settings";
+"2mQ-1t-c11.title" = "Réglages";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "36t-As-Rhs"; */
-"36t-As-Rhs.normalTitle" = "Done";
+"36t-As-Rhs.normalTitle" = "Terminé";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "380-mY-NVs"; */
-"380-mY-NVs.normalTitle" = "Done";
+"380-mY-NVs.normalTitle" = "Terminé";
 
 /* Class = "UIButton"; normalTitle = "@benjweaverdev (Development)"; ObjectID = "4tc-UD-CU7"; */
 "4tc-UD-CU7.normalTitle" = "@benjweaverdev (Development)";
 
 /* Class = "UILabel"; text = "Set Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
-"5Ee-VR-cUR.text" = "Set Boot Nonce";
+"5Ee-VR-cUR.text" = "Définir le démarrage nonce";
 
 /* Class = "UIButton"; normalTitle = "@Jakeashacks (Development)"; ObjectID = "6Ub-TS-0eH"; */
 "6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Development)";
 
 /* Class = "UINavigationItem"; title = "Special Thanks"; ObjectID = "6zY-vq-3l3"; */
-"6zY-vq-3l3.title" = "Special Thanks";
+"6zY-vq-3l3.title" = "Remerciement spécial";
 
 /* Class = "UILabel"; text = "Disable Updates"; ObjectID = "78K-TY-Swa"; */
-"78K-TY-Swa.text" = "Disable Updates";
+"78K-TY-Swa.text" = "Désactiver les mises à jour";
 
 /* Class = "UIButton"; normalTitle = "@Externalist (Development)"; ObjectID = "7IF-fV-7yG"; */
 "7IF-fV-7yG.normalTitle" = "@Externalist (Development)";
@@ -36,10 +36,10 @@
 "7Jo-bD-IJb.text" = "25/33";
 
 /* Class = "UIButton"; normalTitle = "Share Diagnostics Data"; ObjectID = "8U8-1D-Tj2"; */
-"8U8-1D-Tj2.normalTitle" = "Share Diagnostics Data";
+"8U8-1D-Tj2.normalTitle" = "Partager les données de diagnostic";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9r5-4K-fy9"; */
-"9r5-4K-fy9.normalTitle" = "Button";
+"9r5-4K-fy9.normalTitle" = "Bouton";
 
 /* Class = "UILabel"; text = "u0"; ObjectID = "A1X-qf-Qzr"; */
 "A1X-qf-Qzr.text" = "u0";
@@ -75,10 +75,10 @@
 "Dwp-7m-i0T.normalTitle" = "@Morpheus______ (Development)";
 
 /* Class = "UILabel"; text = "by "; ObjectID = "E4E-uK-b4Q"; */
-"E4E-uK-b4Q.text" = "by ";
+"E4E-uK-b4Q.text" = "par ";
 
 /* Class = "UILabel"; text = "UI by"; ObjectID = "EAd-Mn-rsm"; */
-"EAd-Mn-rsm.text" = "UI by";
+"EAd-Mn-rsm.text" = "UI par";
 
 /* Class = "UIButton"; normalTitle = "placeholder"; ObjectID = "ELb-9J-7YK"; */
 "ELb-9J-7YK.normalTitle" = "placeholder";
@@ -93,10 +93,10 @@
 "GIt-S3-wBe.text" = "Reload Daemons";
 
 /* Class = "UILabel"; text = "Read-Only RootFS"; ObjectID = "GsM-At-dw9"; */
-"GsM-At-dw9.text" = "Read-Only RootFS";
+"GsM-At-dw9.text" = "RootFS en lecture seule";
 
 /* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "HS8-A8-Kos"; */
-"HS8-A8-Kos.normalTitle" = "Restart";
+"HS8-A8-Kos.normalTitle" = "Redémarrer";
 
 /* Class = "UILabel"; text = "placeholder"; ObjectID = "ITG-pW-yHc"; */
 "ITG-pW-yHc.text" = "placeholder";
@@ -105,7 +105,7 @@
 "K0V-OH-Xnc.normalTitle" = "ECID";
 
 /* Class = "UILabel"; text = "Disable Revokes"; ObjectID = "Lop-s2-QoX"; */
-"Lop-s2-QoX.text" = "Disable Revokes";
+"Lop-s2-QoX.text" = "Désactiver le révoque";
 
 /* Class = "UITextField"; placeholder = "exploit"; ObjectID = "M40-fy-KdS"; */
 "M40-fy-KdS.placeholder" = "exploit";
@@ -114,46 +114,46 @@
 "M40-fy-KdS.text" = "substitutor";
 
 /* Class = "UIButton"; normalTitle = "Open Cydia"; ObjectID = "MCD-u6-GW4"; */
-"MCD-u6-GW4.normalTitle" = "Open Cydia";
+"MCD-u6-GW4.normalTitle" = "Ouvrir Cydia";
 
 /* Class = "UIButton"; normalTitle = "Restart SpringBoard"; ObjectID = "MKZ-Zb-eq1"; */
-"MKZ-Zb-eq1.normalTitle" = "Restart SpringBoard";
+"MKZ-Zb-eq1.normalTitle" = "Redémarrer SpringBoard";
 
 /* Class = "UIButton"; normalTitle = "View Source Code"; ObjectID = "MpC-W0-1eR"; */
-"MpC-W0-1eR.normalTitle" = "View Source Code";
+"MpC-W0-1eR.normalTitle" = "Voir le code source";
 
 /* Class = "UILabel"; text = "Restore RootFS"; ObjectID = "Mpp-g3-bNI"; */
-"Mpp-g3-bNI.text" = "Restore RootFS";
+"Mpp-g3-bNI.text" = "Restaurer RootFS";
 
 /* Class = "UILabel"; text = "Load Tweaks"; ObjectID = "MyV-qW-zdt"; */
-"MyV-qW-zdt.text" = "Load Tweaks";
+"MyV-qW-zdt.text" = "Charge les Tweaks";
 
 /* Class = "UIButton"; normalTitle = "@umanghere (Development)"; ObjectID = "N6S-5q-UzE"; */
 "N6S-5q-UzE.normalTitle" = "@umanghere (Development)";
 
 /* Class = "UILabel"; text = "Hide Log Window"; ObjectID = "NGj-U7-Rke"; */
-"NGj-U7-Rke.text" = "Hide Log Window";
+"NGj-U7-Rke.text" = "Masquer la fenêtre du journal";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NHc-vO-PPf"; */
-"NHc-vO-PPf.normalTitle" = "Button";
+"NHc-vO-PPf.normalTitle" = "Bouton";
 
 /* Class = "UILabel"; text = "Max Memory Limit"; ObjectID = "PFy-VA-xz7"; */
-"PFy-VA-xz7.text" = "Max Memory Limit";
+"PFy-VA-xz7.text" = "Limite de mémoire maximale";
 
 /* Class = "UILabel"; text = "Set get-task-allow"; ObjectID = "S6S-NE-WJ9"; */
 "S6S-NE-WJ9.text" = "Set get-task-allow";
 
 /* Class = "UILabel"; text = "Reinstall Cydia"; ObjectID = "SRa-i1-KjM"; */
-"SRa-i1-KjM.text" = "Reinstall Cydia";
+"SRa-i1-KjM.text" = "Réinstallez Cydia";
 
 /* Class = "UILabel"; text = "Refresh Icon Cache"; ObjectID = "SVp-PX-97M"; */
-"SVp-PX-97M.text" = "Refresh Icon Cache";
+"SVp-PX-97M.text" = "Actualiser le cache d'icônes";
 
 /* Class = "UITextField"; placeholder = "XXXXXXXXXXXXXXXX"; ObjectID = "T5g-8V-gBQ"; */
 "T5g-8V-gBQ.placeholder" = "XXXXXXXXXXXXXXXX";
 
 /* Class = "UILabel"; text = "Uptime"; ObjectID = "TmA-aA-qbT"; */
-"TmA-aA-qbT.text" = "Uptime";
+"TmA-aA-qbT.text" = "La disponibilité";
 
 /* Class = "UIButton"; normalTitle = "@theninjaprawn (Development)"; ObjectID = "V0w-3F-HRY"; */
 "V0w-3F-HRY.normalTitle" = "@theninjaprawn (Development)";
@@ -162,7 +162,7 @@
 "V2Q-wP-Ruc.normalTitle" = "@HiMyNameIsUbik";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "VHD-vl-rR6"; */
-"VHD-vl-rR6.title" = "Settings";
+"VHD-vl-rR6.title" = "Réglages";
 
 /* Class = "UIButton"; normalTitle = "@MidnightChip (Testing)"; ObjectID = "Vdc-gW-04x"; */
 "Vdc-gW-04x.normalTitle" = "@MidnightChip (Testing)";
@@ -174,10 +174,10 @@
 "Wla-bb-g2P.normalTitle" = "@AppleDry05 (Testing)";
 
 /* Class = "UILabel"; text = "SSH Only"; ObjectID = "Wpf-g8-fV1"; */
-"Wpf-g8-fV1.text" = "SSH Only";
+"Wpf-g8-fV1.text" = "SSH seulement";
 
 /* Class = "UIButton"; normalTitle = "Check For Update"; ObjectID = "XvB-ex-qh5"; */
-"XvB-ex-qh5.normalTitle" = "Check For Update";
+"XvB-ex-qh5.normalTitle" = "Vérifier la mise à jour";
 
 /* Class = "UILabel"; text = "unc0ver"; ObjectID = "YW6-UO-a5e"; */
 "YW6-UO-a5e.text" = "unc0ver";
@@ -192,10 +192,10 @@
 "ZwM-0f-kRC.text" = "Exploiting";
 
 /* Class = "UITextField"; placeholder = "365 Days"; ObjectID = "Zx2-Kx-0aV"; */
-"Zx2-Kx-0aV.placeholder" = "365 Days";
+"Zx2-Kx-0aV.placeholder" = "365 Jours";
 
 /* Class = "UILabel"; text = "Auto respring"; ObjectID = "b6w-j2-Rh6"; */
-"b6w-j2-Rh6.text" = "Auto respring";
+"b6w-j2-Rh6.text" = "Respring automatique";
 
 /* Class = "UILabel"; text = "Load Daemons"; ObjectID = "bBi-OR-hpE"; */
 "bBi-OR-hpE.text" = "Load Daemons";
@@ -252,10 +252,10 @@
 "mVJ-nV-a4v.footerTitle" = "PLACEHOLDER";
 
 /* Class = "UITableViewSection"; headerTitle = "Utilities"; ObjectID = "mVJ-nV-a4v"; */
-"mVJ-nV-a4v.headerTitle" = "Utilities";
+"mVJ-nV-a4v.headerTitle" = "Utilitaires";
 
 /* Class = "UITextField"; placeholder = "365 Days"; ObjectID = "min-G7-4yH"; */
-"min-G7-4yH.placeholder" = "365 Days";
+"min-G7-4yH.placeholder" = "365 Jours";
 
 /* Class = "UIButton"; normalTitle = "@AyyItzRob (Testing)"; ObjectID = "nxt-hY-cmG"; */
 "nxt-hY-cmG.normalTitle" = "@AyyItzRob (Testing)";
@@ -282,19 +282,19 @@
 "usK-kT-lNG.normalTitle" = "@nitoTV (Development)";
 
 /* Class = "UILabel"; text = "Special Thanks"; ObjectID = "usV-YE-yxE"; */
-"usV-YE-yxE.text" = "Special Thanks";
+"usV-YE-yxE.text" = "Remerciement spécial";
 
 /* Class = "UIButton"; normalTitle = "@FCE365 (Development)"; ObjectID = "w92-OW-keF"; */
 "w92-OW-keF.normalTitle" = "@FCE365 (Development)";
 
 /* Class = "UIButton"; normalTitle = "Generator"; ObjectID = "xim-1p-tCK"; */
-"xim-1p-tCK.normalTitle" = "Generator";
+"xim-1p-tCK.normalTitle" = "Générateur";
 
 /* Class = "UIButton"; normalTitle = "@xerub (Development)"; ObjectID = "yj7-t7-Qxc"; */
 "yj7-t7-Qxc.normalTitle" = "@xerub (Development)";
 
 /* Class = "UINavigationItem"; title = "Credits"; ObjectID = "ymO-Kj-nkN"; */
-"ymO-Kj-nkN.title" = "Credits";
+"ymO-Kj-nkN.title" = "Crédits";
 
 /* Class = "UILabel"; text = "for iOS 11.0 - 12.4"; ObjectID = "zFb-Nx-58A"; */
-"zFb-Nx-58A.text" = "for iOS 11.0 - 12.4";
+"zFb-Nx-58A.text" = "Pour iOS 11.0 - 12.4";
