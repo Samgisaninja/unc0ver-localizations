@@ -76,9 +76,9 @@
 
 "Load Tweaks" = "تحميل الأدوات"
 
-"Description:\n\nThis option makes Substrate load extensions that are commonly referred to as tweaks in newly started processes.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64 SoCs (A7-A11)." = "Description:\n\nThis option makes Substrate load extensions that are commonly referred to as tweaks in newly started processes.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64 SoCs (A7-A11)."
+"Description:\n\nThis option makes Substrate load extensions that are commonly referred to as tweaks in newly started processes.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64 SoCs (A7-A11)." = "الوصف:\n\nهذا الخيار يجعل Substrate تقوم بتحميل الملحقات التي يطلق عليها عادةً اسم أدوات إلى العمليات التي بدأت حديثًا.\n\nالتوافق:\n\niOS 11.0-12.1.2 على arm64 SoCs (A7-A11)."
 
-"Load Daemons" = "Load Daemons"
+"Load Daemons" = "تحميل العمليات الخفية"
 
 "Description:\n\nThis option makes the jailbreak load the launch daemons located at /Library/LaunchDaemons and execute files located at /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "الوصف:\n\nهذا الخيار يجعل الجيلبريك يقوم بتحميل موقع بدء العمليات الخفية في /Library/LaunchDaemons وموقع الملفات المنفذة في /etc/rc.d.\n\nالتوافق:\n\niOS 11.0-12.1.2 على arm64/arm64e SoCs (A7-A12X)."
 
