@@ -364,6 +364,6 @@
 "Unable to create success file." = "Unable to create success file."
 "Jailbreak Completed with Status:" = "Jailbreak Completed with Status:"
 "The device will now respring." = "The device will now respring."
-"The app will now exit." = "The app will now exit."
+"The app will now exit." = "سيتم إغلاق التطبيق."
 "Unable to restart SpringBoard." = "Unable to restart SpringBoard."
 "Unable to exit." = "Unable to exit."
