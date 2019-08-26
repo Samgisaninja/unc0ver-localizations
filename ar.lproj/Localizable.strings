@@ -96,11 +96,11 @@
 
 "Disable Updates" = "تعطيل التحديثات"
 
-"This option makes the jailbreak effectively disable the system's software update mechanism to prevent the system from automatically upgrading to the latest available firmware which may not be supported by the jailbreak at that time." = "This option makes the jailbreak effectively disable the system's software update mechanism to prevent the system from automatically upgrading to the latest available firmware which may not be supported by the jailbreak at that time."
+"This option makes the jailbreak effectively disable the system's software update mechanism to prevent the system from automatically upgrading to the latest available firmware which may not be supported by the jailbreak at that time." = "هذا الخيار يجعل الجيلبريك يقوم بتعطيل آلية تحديث البرنامج بشكل فعال وذلك لمنع النظام من الترقية تلقائيًا إلى أحدث إصدار والذي لا يدعم الجيلبريك في ذلك الوقت."
 
-"iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X."
+"iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 على arm64/arm64e SoCs A7-A12X."
 
-"Disable Revokes" = "Disable Revokes"
+"Disable Revokes" = "تعطيل إيقاف الشهادات"
 
 "This option makes the jailbreak effectively disable the system's online certificate status protocol system to prevent enterprise certificates which the jailbreak may be signed with from getting revoked." = "This option makes the jailbreak effectively disable the system's online certificate status protocol system to prevent enterprise certificates which the jailbreak may be signed with from getting revoked."
 
