@@ -88,8 +88,8 @@
 "This option starts SSH on 127.0.0.1 localhost on port 22 via dropbear." = "هذا الخيار يبدأ SSH على المضيف المحلي 127.0.0.1 على منفذ 22 عبر dropbear."
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.", = "iOS 11.0-12.1.2 على arm64/arm64e SoCs A7-A12X.",
 "Set get-task-allow" = "تعيين get-task-allow"
-"This option makes the jailbreak dynamically enable the get-task-allow entitlement for every new process." = ""
-"This option makes dyld treat the processes unrestricted." = "This option makes dyld treat the processes unrestricted."
+"This option makes the jailbreak dynamically enable the get-task-allow entitlement for every new process." = "هذا الخيار يجعل الجيلبريك يقوم بشكل ديناميكي بتفعيل get-task-allow لكل عملية جديدة."
+"This option makes dyld treat the processes unrestricted." = ""
 "This option enables dyld environment variables such as DYLD_INSERT_LIBRARIES." = "This option enables dyld environment variables such as DYLD_INSERT_LIBRARIES."
 "Set CS_DEBUGGED" = "Set CS_DEBUGGED"
 "This option makes the jailbreak dynamically set the CS_DEBUGGED codesign flag for every new process." = "This option makes the jailbreak dynamically set the CS_DEBUGGED codesign flag for every new process."
