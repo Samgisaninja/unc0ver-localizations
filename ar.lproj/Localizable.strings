@@ -64,8 +64,8 @@
 "This option is considered unsafe as the privilege this option effectively grants to processes can be used for bad purposes by malicous apps." = "هذا الخيار يعتبر غير آمن لأن الامتياز الذي يمنحه هذا الخيار بفعالية للعمليات يمكن استخدامه لأغراض سيئة بواسطة التطبيقات الضارة."
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 على arm64/arm64e SoCs A7-A12X.",
 "Restore RootFS" = "استعادة RootFS"
-"This option makes the jailbreak restore the root filesystem RootFS to the snapshot which is created by the system when the device is restored." = ""
-"This option effectively allows uninstalling the jailbreak without losing any user data." = "This option effectively allows uninstalling the jailbreak without losing any user data."
+"This option makes the jailbreak restore the root filesystem RootFS to the snapshot which is created by the system when the device is restored." = "هذا الخيار يجعل الجيلبريك يقوم باستعادة ملفات نظام الجذر RootFS إلى snapshot التي يتم إنشاؤها بواسطة النظام عند استعادة الجهاز."
+"This option effectively allows uninstalling the jailbreak without losing any user data." = ""
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.", = "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.",
 "Max Memory Limit" = "Max Memory Limit"
 "This option makes the jailbreak modify the Jetsam configuration file to increase the memory limit that is enforced upon processes by Jetsam to the maximum value to effectively bypass that mechanism." = "This option makes the jailbreak modify the Jetsam configuration file to increase the memory limit that is enforced upon processes by Jetsam to the maximum value to effectively bypass that mechanism."
