@@ -80,11 +80,11 @@
 
 "Load Daemons" = "تحميل العمليات الخفية"
 
-"Description:\n\nThis option makes the jailbreak load the launch daemons located at /Library/LaunchDaemons and execute files located at /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "الوصف:\n\nهذا الخيار يجعل الجيلبريك يقوم بتحميل موقع بدء العمليات الخفية في /Library/LaunchDaemons وموقع الملفات المنفذة في /etc/rc.d.\n\nالتوافق:\n\niOS 11.0-12.1.2 على arm64/arm64e SoCs (A7-A12X)."
+"Description:\n\nThis option makes the jailbreak load the launch daemons located at /Library/LaunchDaemons and execute files located at /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "الوصف:\n\nهذا الخيار يجعل الجيلبريك يقوم بتحميل بدء العمليات الخفية الموجودة في /Library/LaunchDaemons والملفات المنفذة الوجودة في /etc/rc.d.\n\nالتوافق:\n\niOS 11.0-12.1.2 على arm64/arm64e SoCs (A7-A12X)."
 
-"Dump APTicket" = "Dump APTicket"
+"Dump APTicket" = "تفريغ APTicket"
 
-"Description:\n\nThis option makes the jailbreak create a copy of the system APTicket located at /System/Library/Caches/apticket.der at its Documents directory which is accessible via iTunes File Sharing.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "Description:\n\nThis option makes the jailbreak create a copy of the system APTicket located at /System/Library/Caches/apticket.der at its Documents directory which is accessible via iTunes File Sharing.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)."
+"Description:\n\nThis option makes the jailbreak create a copy of the system APTicket located at /System/Library/Caches/apticket.der at its Documents directory which is accessible via iTunes File Sharing.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "هذا الخيار يجعل الجيلبريك يقوم بإنشاء نسخة من نظام APTicket الموجودة في /System/Library/Caches/apticket.der في دليل Documents والذي يمكن الوصول إليه عبر مشاركة الملفات بواسطة iTunes.\n\nالتوافق:\n\niOS 11.0-12.1.2 على arm64/arm64e SoCs (A7-A12X)."
 
 "Refresh Icon Cache" = "Refresh Icon Cache"
 
