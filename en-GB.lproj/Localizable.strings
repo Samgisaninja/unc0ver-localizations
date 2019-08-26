@@ -6,7 +6,7 @@
   Copyright © 2019 Pwn20wnd. All rights reserved.
 */
 
-"Bundled Resources version missing." = "Chybí verze Bundled Resources."
+"Bundled Resources version missing." = "Chybí verze přibalených zdrojů."
 "Unsupported" = "Nepodporováno!"
 "Restore RootFS" = "Obnovit RootFS"
 "Ready to restore RootFS" = "Připraveno na obnovu RootFS"
@@ -15,7 +15,7 @@
 "Jailbreak" = "Jailbreakovat"
 "Ready to jailbreak" = "Připraveno na Jailbreak"
 "Error" = "Chyba"
-"Bundled Resources version is missing. This build is invalid." = "Chybí verze Bundled Resources. Tento build je neplatný."
+"Bundled Resources version is missing. This build is invalid." = "Chybí verze přibalených zdrojů. Toto sestavení je neplatné."
 "Days" = "Dnů"
 "Invalid Entry" = "Neplatný příkaz"
 "The boot nonce entered could not be parsed" = "The boot nonce entered could not be parsed"
