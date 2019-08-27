@@ -45,10 +45,10 @@
 "A1X-qf-Qzr.text" = "u0";
 
 /* Class = "UITextField"; placeholder = "exploit"; ObjectID = "ATy-h0-ALy"; */
-"ATy-h0-ALy.placeholder" = "漏洞";
+"ATy-h0-ALy.placeholder" = "利用漏洞";
 
 /* Class = "UITextField"; text = "exploit"; ObjectID = "ATy-h0-ALy"; */
-"ATy-h0-ALy.text" = "漏洞";
+"ATy-h0-ALy.text" = "利用漏洞";
 
 /* Class = "UIButton"; normalTitle = "@iBSparkes (Development)"; ObjectID = "Aay-Mz-cvw"; */
 "Aay-Mz-cvw.normalTitle" = "@iBSparkes (开发)";
@@ -108,7 +108,7 @@
 "Lop-s2-QoX.text" = "禁用证书吊销";
 
 /* Class = "UITextField"; placeholder = "exploit"; ObjectID = "M40-fy-KdS"; */
-"M40-fy-KdS.placeholder" = "漏洞";
+"M40-fy-KdS.placeholder" = "利用漏洞";
 
 /* Class = "UITextField"; text = "substitutor"; ObjectID = "M40-fy-KdS"; */
 "M40-fy-KdS.text" = "底层框架";
@@ -294,7 +294,7 @@
 "yj7-t7-Qxc.normalTitle" = "@xerub (开发)";
 
 /* Class = "UINavigationItem"; title = "Credits"; ObjectID = "ymO-Kj-nkN"; */
-"ymO-Kj-nkN.title" = "感谢";
+"ymO-Kj-nkN.title" = "贡献";
 
 /* Class = "UILabel"; text = "for iOS 11.0 - 12.4"; ObjectID = "zFb-Nx-58A"; */
 "zFb-Nx-58A.text" = "适用于 iOS 11.0 - 12.4";
