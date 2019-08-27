@@ -18,7 +18,7 @@
 "4tc-UD-CU7.normalTitle" = "@benjweaverdev (Entwicklung)";
 
 /* Class = "UILabel"; text = "Set Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
-"5Ee-VR-cUR.text" = "Boot Nonce setzen";
+"5Ee-VR-cUR.text" = "Boot-Nonce setzen";
 
 /* Class = "UIButton"; normalTitle = "@Jakeashacks (Development)"; ObjectID = "6Ub-TS-0eH"; */
 "6Ub-TS-0eH.normalTitle" = "Jakeashacks (Entwicklung)";
@@ -93,7 +93,7 @@
 "GIt-S3-wBe.text" = "Systemdienste neu laden";
 
 /* Class = "UILabel"; text = "Read-Only RootFS"; ObjectID = "GsM-At-dw9"; */
-"GsM-At-dw9.text" = "RootFS Schreibgeschützt";
+"GsM-At-dw9.text" = "Stammdateisystem schreibgeschützt";
 
 /* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "HS8-A8-Kos"; */
 "HS8-A8-Kos.normalTitle" = "Neustart";
@@ -123,7 +123,7 @@
 "MpC-W0-1eR.normalTitle" = "Quellcode anzeigen";
 
 /* Class = "UILabel"; text = "Restore RootFS"; ObjectID = "Mpp-g3-bNI"; */
-"Mpp-g3-bNI.text" = "RootFS wiederherstellen";
+"Mpp-g3-bNI.text" = "Stammdateisystem wiederherstellen";
 
 /* Class = "UILabel"; text = "Load Tweaks"; ObjectID = "MyV-qW-zdt"; */
 "MyV-qW-zdt.text" = "Tweaks laden";
@@ -147,7 +147,7 @@
 "SRa-i1-KjM.text" = "Cydia neu installieren";
 
 /* Class = "UILabel"; text = "Refresh Icon Cache"; ObjectID = "SVp-PX-97M"; */
-"SVp-PX-97M.text" = "Icon Cache aktualisieren";
+"SVp-PX-97M.text" = "Symbole aktualisieren";
 
 /* Class = "UITextField"; placeholder = "XXXXXXXXXXXXXXXX"; ObjectID = "T5g-8V-gBQ"; */
 "T5g-8V-gBQ.placeholder" = "XXXXXXXXXXXXXXXX";
@@ -174,10 +174,10 @@
 "Wla-bb-g2P.normalTitle" = "@AppleDry05 (Tester)";
 
 /* Class = "UILabel"; text = "SSH Only"; ObjectID = "Wpf-g8-fV1"; */
-"Wpf-g8-fV1.text" = "Nur SSH";
+"Wpf-g8-fV1.text" = "Nur SSH aktivieren";
 
 /* Class = "UIButton"; normalTitle = "Check For Update"; ObjectID = "XvB-ex-qh5"; */
-"XvB-ex-qh5.normalTitle" = "Updates suchen";
+"XvB-ex-qh5.normalTitle" = "Nach Updates suchen";
 
 /* Class = "UILabel"; text = "unc0ver"; ObjectID = "YW6-UO-a5e"; */
 "YW6-UO-a5e.text" = "unc0ver";
