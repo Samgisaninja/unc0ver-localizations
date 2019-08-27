@@ -3,34 +3,34 @@
 "0lM-oV-NGn.text" = "Exportar TFP0";
 
 /* Class = "UIButton"; normalTitle = "Clean Diagnostics Data"; ObjectID = "2He-sb-oZG"; */
-"2He-sb-oZG.normalTitle" = "Limpiar los datos de diagnostico";
+"2He-sb-oZG.normalTitle" = "Limpiar datos de diagnostico";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2mQ-1t-c11"; */
 "2mQ-1t-c11.title" = "Configuración";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "36t-As-Rhs"; */
-"36t-As-Rhs.normalTitle" = "Hecho";
+"36t-As-Rhs.normalTitle" = "Completado";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "380-mY-NVs"; */
-"380-mY-NVs.normalTitle" = "Hecho";
+"380-mY-NVs.normalTitle" = "Completado";
 
 /* Class = "UIButton"; normalTitle = "@benjweaverdev (Development)"; ObjectID = "4tc-UD-CU7"; */
-"4tc-UD-CU7.normalTitle" = "@benjweaverdev (Desarrollador)";
+"4tc-UD-CU7.normalTitle" = "@benjweaverdev (Desarrollo)";
 
 /* Class = "UILabel"; text = "Set Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
 "5Ee-VR-cUR.text" = "Establecer Boot Nonce";
 
 /* Class = "UIButton"; normalTitle = "@Jakeashacks (Development)"; ObjectID = "6Ub-TS-0eH"; */
-"6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Desarrollador)";
+"6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Desarrollo)";
 
 /* Class = "UINavigationItem"; title = "Special Thanks"; ObjectID = "6zY-vq-3l3"; */
 "6zY-vq-3l3.title" = "Agradecimientos Especiales";
 
 /* Class = "UILabel"; text = "Disable Updates"; ObjectID = "78K-TY-Swa"; */
-"78K-TY-Swa.text" = "Desactivar Actualzaciones";
+"78K-TY-Swa.text" = "Desactivar Actualizaciones";
 
 /* Class = "UIButton"; normalTitle = "@Externalist (Development)"; ObjectID = "7IF-fV-7yG"; */
-"7IF-fV-7yG.normalTitle" = "@Externalist (Desarrollador)";
+"7IF-fV-7yG.normalTitle" = "@Externalist (Desarrollo)";
 
 /* Class = "UILabel"; text = "25/33"; ObjectID = "7Jo-bD-IJb"; */
 "7Jo-bD-IJb.text" = "25/33";
@@ -45,22 +45,22 @@
 "A1X-qf-Qzr.text" = "u0";
 
 /* Class = "UITextField"; placeholder = "exploit"; ObjectID = "ATy-h0-ALy"; */
-"ATy-h0-ALy.placeholder" = "explot";
+"ATy-h0-ALy.placeholder" = "exploit";
 
 /* Class = "UITextField"; text = "exploit"; ObjectID = "ATy-h0-ALy"; */
 "ATy-h0-ALy.text" = "exploit";
 
 /* Class = "UIButton"; normalTitle = "@iBSparkes (Development)"; ObjectID = "Aay-Mz-cvw"; */
-"Aay-Mz-cvw.normalTitle" = "@iBSparkes (Desarrollador)";
+"Aay-Mz-cvw.normalTitle" = "@iBSparkes (Desarrollo)";
 
 /* Class = "UILabel"; text = "&"; ObjectID = "BXF-lt-fpr"; */
 "BXF-lt-fpr.text" = "&";
 
 /* Class = "UIButton"; normalTitle = "@saurik (Development)"; ObjectID = "BXZ-in-r3I"; */
-"BXZ-in-r3I.normalTitle" = "@saurik (Desarrollador)";
+"BXZ-in-r3I.normalTitle" = "@saurik (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "@stek29 (Development)"; ObjectID = "BYM-yS-ubl"; */
-"BYM-yS-ubl.normalTitle" = "@stek29 (Desarrollador)";
+"BYM-yS-ubl.normalTitle" = "@stek29 (Desarrollo)";
 
 /* Class = "UILabel"; text = "Expiry"; ObjectID = "DB2-gn-cs4"; */
 "DB2-gn-cs4.text" = "Expiración";
@@ -72,7 +72,7 @@
 "Dhz-O8-Ohi.text" = "(Re)Instalación de OpenSSH";
 
 /* Class = "UIButton"; normalTitle = "@Morpheus______ (Development)"; ObjectID = "Dwp-7m-i0T"; */
-"Dwp-7m-i0T.normalTitle" = "@Morpheus______ (Desarrollador)";
+"Dwp-7m-i0T.normalTitle" = "@Morpheus______ (Desarrollo)";
 
 /* Class = "UILabel"; text = "by "; ObjectID = "E4E-uK-b4Q"; */
 "E4E-uK-b4Q.text" = "por ";
@@ -90,10 +90,10 @@
 "Ffi-fg-qBW.text" = "Substitutor";
 
 /* Class = "UILabel"; text = "Reload Daemons"; ObjectID = "GIt-S3-wBe"; */
-"GIt-S3-wBe.text" = "Releer Daemons";
+"GIt-S3-wBe.text" = "Recargar Daemons";
 
 /* Class = "UILabel"; text = "Read-Only RootFS"; ObjectID = "GsM-At-dw9"; */
-"GsM-At-dw9.text" = "Leer-Solo RootFS";
+"GsM-At-dw9.text" = "RootFS de solo lectura";
 
 /* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "HS8-A8-Kos"; */
 "HS8-A8-Kos.normalTitle" = "Reiniciar";
@@ -129,7 +129,7 @@
 "MyV-qW-zdt.text" = "Cargar Tweaks";
 
 /* Class = "UIButton"; normalTitle = "@umanghere (Development)"; ObjectID = "N6S-5q-UzE"; */
-"N6S-5q-UzE.normalTitle" = "@umanghere (Desarrollador)";
+"N6S-5q-UzE.normalTitle" = "@umanghere (Desarrollo)";
 
 /* Class = "UILabel"; text = "Hide Log Window"; ObjectID = "NGj-U7-Rke"; */
 "NGj-U7-Rke.text" = "Ocultar ventana de registro";
@@ -138,7 +138,7 @@
 "NHc-vO-PPf.normalTitle" = "Botón";
 
 /* Class = "UILabel"; text = "Max Memory Limit"; ObjectID = "PFy-VA-xz7"; */
-"PFy-VA-xz7.text" = "Límite Máx Memoria";
+"PFy-VA-xz7.text" = "Límite Máximo de Memoria";
 
 /* Class = "UILabel"; text = "Set get-task-allow"; ObjectID = "S6S-NE-WJ9"; */
 "S6S-NE-WJ9.text" = "Establecer get-task-allow";
@@ -147,7 +147,7 @@
 "SRa-i1-KjM.text" = "Reinstalar Cydia";
 
 /* Class = "UILabel"; text = "Refresh Icon Cache"; ObjectID = "SVp-PX-97M"; */
-"SVp-PX-97M.text" = "Refrescar la Cache Icon";
+"SVp-PX-97M.text" = "Refrescar Cache de Iconos";
 
 /* Class = "UITextField"; placeholder = "XXXXXXXXXXXXXXXX"; ObjectID = "T5g-8V-gBQ"; */
 "T5g-8V-gBQ.placeholder" = "XXXXXXXXXXXXXXXX";
@@ -156,7 +156,7 @@
 "TmA-aA-qbT.text" = "Tiempo de actividad";
 
 /* Class = "UIButton"; normalTitle = "@theninjaprawn (Development)"; ObjectID = "V0w-3F-HRY"; */
-"V0w-3F-HRY.normalTitle" = "@theninjaprawn (Desarrollador)";
+"V0w-3F-HRY.normalTitle" = "@theninjaprawn (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "@HiMyNameIsUbik"; ObjectID = "V2Q-wP-Ruc"; */
 "V2Q-wP-Ruc.normalTitle" = "@HiMyNameIsUbik";
@@ -183,7 +183,7 @@
 "YW6-UO-a5e.text" = "unc0ver";
 
 /* Class = "UIButton"; normalTitle = "@DennisBednarz (Design)"; ObjectID = "Yjg-h2-gt3"; */
-"Yjg-h2-gt3.normalTitle" = "@DennisBednarz (Diseñador)";
+"Yjg-h2-gt3.normalTitle" = "@DennisBednarz (Diseño)";
 
 /* Class = "UIButton"; normalTitle = "@pwn20wnd "; ObjectID = "Zd3-Uw-Mck"; */
 "Zd3-Uw-Mck.normalTitle" = "@pwn20wnd ";
@@ -201,37 +201,37 @@
 "bBi-OR-hpE.text" = "Cargar Daemons";
 
 /* Class = "UITextView"; text = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container for systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user settings.\n"; ObjectID = "bvv-3a-l9y"; */
-"bvv-3a-l9y.text" = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Nombre de Maquina: iPhone10,5\n[*] Nombre Modelo: D211AP\n[*] Version de Kernel: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Tamaño Paginacion Kernel: 0x4000\n[*] Versión del Sistema: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Versión de los paquetes de recursos: 1.0~b21\n[*] Estado: No Soportado\n[*] Progreso: No Soportado\n[MC] Contenedor de grupo del sistema para la ruta systemgroup.com.apple.configurationprofiles es /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Lectura desde la configuración pública efectiva del usuario.\n";
+"bvv-3a-l9y.text" = "[*] Version de unc0ver: 3.1.3+7.gf5833f2\n[*] Nombre de Maquina: iPhone10,5\n[*] Nombre Modelo: D211AP\n[*] Version de Kernel: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Tamaño Paginacion Kernel: 0x4000\n[*] Versión del Sistema: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Versión de los paquetes de recursos: 1.0~b21\n[*] Estado: No Soportado\n[*] Progreso: No Soportado\n[MC] Contenedor de grupo del sistema parala ruta systemgroup.com.apple.configurationprofiles es /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Lectura desde la configuración pública efectiva del usuario.\n";
 
 /* Class = "UIButton"; normalTitle = "@MiscMisty (Development)"; ObjectID = "cUa-LX-1Nb"; */
-"cUa-LX-1Nb.normalTitle" = "@MiscMisty (Desarrollador)";
+"cUa-LX-1Nb.normalTitle" = "@MiscMisty (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "@realBrightiup (Development)"; ObjectID = "egd-uq-xg0"; */
-"egd-uq-xg0.normalTitle" = "@realBrightiup (Desarrollador)";
+"egd-uq-xg0.normalTitle" = "@realBrightiup (Desarrollo)";
 
 /* Class = "UILabel"; text = "Reset Cydia Cache"; ObjectID = "fyE-Sj-TNL"; */
-"fyE-Sj-TNL.text" = "Resetear Cache Cydia";
+"fyE-Sj-TNL.text" = "Resetear Cache de Cydia";
 
 /* Class = "UIButton"; normalTitle = "@i41nbeer (Development)"; ObjectID = "gQp-2a-3sA"; */
-"gQp-2a-3sA.normalTitle" = "@i41nbeer (Desarrollador)";
+"gQp-2a-3sA.normalTitle" = "@i41nbeer (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "@_Matchstic (Development)"; ObjectID = "gSs-Qr-0L6"; */
-"gSs-Qr-0L6.normalTitle" = "@_Matchstic (Desarrollador)";
+"gSs-Qr-0L6.normalTitle" = "@_Matchstic (Desarrollo)";
 
 /* Class = "UILabel"; text = "Dump APTicket"; ObjectID = "gi9-pl-mUW"; */
-"gi9-pl-mUW.text" = "Dump APTicket";
+"gi9-pl-mUW.text" = "Deshechar APTicket";
 
 /* Class = "UIButton"; normalTitle = "Samg_is_a_Ninja (Development)"; ObjectID = "h4e-3L-EW3"; */
-"h4e-3L-EW3.normalTitle" = "Samg_is_a_Ninja (Desarrollador)";
+"h4e-3L-EW3.normalTitle" = "Samg_is_a_Ninja (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "Automatically Select Exploit"; ObjectID = "hxh-hf-wUi"; */
 "hxh-hf-wUi.normalTitle" = "Seleccionar Exploit Automaticamente";
 
 /* Class = "UIButton"; normalTitle = "@s1guza (Development)"; ObjectID = "ifQ-0r-Hnb"; */
-"ifQ-0r-Hnb.normalTitle" = "@s1guza (Desarrollador)";
+"ifQ-0r-Hnb.normalTitle" = "@s1guza (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "@_bazad (Development)"; ObjectID = "k2H-ae-KOW"; */
-"k2H-ae-KOW.normalTitle" = "@_bazad (Desarrollador)";
+"k2H-ae-KOW.normalTitle" = "@_bazad (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "@sbingner"; ObjectID = "lRa-u8-NKk"; */
 "lRa-u8-NKk.normalTitle" = "@sbingner";
@@ -252,7 +252,7 @@
 "mVJ-nV-a4v.footerTitle" = "PLACEHOLDER";
 
 /* Class = "UITableViewSection"; headerTitle = "Utilities"; ObjectID = "mVJ-nV-a4v"; */
-"mVJ-nV-a4v.headerTitle" = "Utilizades";
+"mVJ-nV-a4v.headerTitle" = "Utilidades";
 
 /* Class = "UITextField"; placeholder = "365 Days"; ObjectID = "min-G7-4yH"; */
 "min-G7-4yH.placeholder" = "365 Dias";
@@ -261,7 +261,7 @@
 "nxt-hY-cmG.normalTitle" = "@AyyItzRob (Tester)";
 
 /* Class = "UIButton"; normalTitle = "@Apple (Development)"; ObjectID = "pkT-ku-Khx"; */
-"pkT-ku-Khx.normalTitle" = "@Apple (Desarrollador)";
+"pkT-ku-Khx.normalTitle" = "@Apple (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "@jailbreakbuster (Testing)"; ObjectID = "qTU-ae-H2n"; */
 "qTU-ae-H2n.normalTitle" = "@jailbreakbuster (Tester)";
@@ -276,25 +276,25 @@
 "tpd-rk-NGn.text" = "Exploit";
 
 /* Class = "UIButton"; normalTitle = "@NedWilliamson (Development)"; ObjectID = "uAL-CS-AqY"; */
-"uAL-CS-AqY.normalTitle" = "@NedWilliamson (Desarrollador)";
+"uAL-CS-AqY.normalTitle" = "@NedWilliamson (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "@nitoTV (Development)"; ObjectID = "usK-kT-lNG"; */
-"usK-kT-lNG.normalTitle" = "@nitoTV (Desarrollador)";
+"usK-kT-lNG.normalTitle" = "@nitoTV (Desarrollo)";
 
 /* Class = "UILabel"; text = "Special Thanks"; ObjectID = "usV-YE-yxE"; */
 "usV-YE-yxE.text" = "Agradecimientos Especiales";
 
 /* Class = "UIButton"; normalTitle = "@FCE365 (Development)"; ObjectID = "w92-OW-keF"; */
-"w92-OW-keF.normalTitle" = "@FCE365 (Desarrollador)";
+"w92-OW-keF.normalTitle" = "@FCE365 (Desarrollo)";
 
 /* Class = "UIButton"; normalTitle = "Generator"; ObjectID = "xim-1p-tCK"; */
 "xim-1p-tCK.normalTitle" = "Generador";
 
 /* Class = "UIButton"; normalTitle = "@xerub (Development)"; ObjectID = "yj7-t7-Qxc"; */
-"yj7-t7-Qxc.normalTitle" = "@xerub (Desarrollador)";
+"yj7-t7-Qxc.normalTitle" = "@xerub (Desarrollo)";
 
 /* Class = "UINavigationItem"; title = "Credits"; ObjectID = "ymO-Kj-nkN"; */
 "ymO-Kj-nkN.title" = "Creditos";
 
 /* Class = "UILabel"; text = "for iOS 11.0 - 12.4"; ObjectID = "zFb-Nx-58A"; */
-"zFb-Nx-58A.text" = "Para iOS 11.0 - 12.4";
+"zFb-Nx-58A.text" = "para iOS 11.0 - 12.4";
