@@ -1,0 +1,300 @@
+
+/* Class = "UILabel"; text = "Export TFP0"; ObjectID = "0lM-oV-NGn"; */
+"0lM-oV-NGn.text" = "TFP0 내보내기";
+
+/* Class = "UIButton"; normalTitle = "Clean Diagnostics Data"; ObjectID = "2He-sb-oZG"; */
+"2He-sb-oZG.normalTitle" = "진단 데이터 지우기";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2mQ-1t-c11"; */
+"2mQ-1t-c11.title" = "설정";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "36t-As-Rhs"; */
+"36t-As-Rhs.normalTitle" = "완료";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "380-mY-NVs"; */
+"380-mY-NVs.normalTitle" = "완료";
+
+/* Class = "UIButton"; normalTitle = "@benjweaverdev (Development)"; ObjectID = "4tc-UD-CU7"; */
+"4tc-UD-CU7.normalTitle" = "@benjweaverdev (개발)";
+
+/* Class = "UILabel"; text = "Set Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
+"5Ee-VR-cUR.text" = "Boot Nonce 설정";
+
+/* Class = "UIButton"; normalTitle = "@Jakeashacks (Development)"; ObjectID = "6Ub-TS-0eH"; */
+"6Ub-TS-0eH.normalTitle" = "@Jakeashacks (개발)";
+
+/* Class = "UINavigationItem"; title = "Special Thanks"; ObjectID = "6zY-vq-3l3"; */
+"6zY-vq-3l3.title" = "특별한 감사";
+
+/* Class = "UILabel"; text = "Disable Updates"; ObjectID = "78K-TY-Swa"; */
+"78K-TY-Swa.text" = "업데이트 비활성화";
+
+/* Class = "UIButton"; normalTitle = "@Externalist (Development)"; ObjectID = "7IF-fV-7yG"; */
+"7IF-fV-7yG.normalTitle" = "@Externalist (개발)";
+
+/* Class = "UILabel"; text = "25/33"; ObjectID = "7Jo-bD-IJb"; */
+"7Jo-bD-IJb.text" = "25/33";
+
+/* Class = "UIButton"; normalTitle = "Share Diagnostics Data"; ObjectID = "8U8-1D-Tj2"; */
+"8U8-1D-Tj2.normalTitle" = "진단 데이터 공유";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9r5-4K-fy9"; */
+"9r5-4K-fy9.normalTitle" = "버튼";
+
+/* Class = "UILabel"; text = "u0"; ObjectID = "A1X-qf-Qzr"; */
+"A1X-qf-Qzr.text" = "u0";
+
+/* Class = "UITextField"; placeholder = "exploit"; ObjectID = "ATy-h0-ALy"; */
+"ATy-h0-ALy.placeholder" = "exploit";
+
+/* Class = "UITextField"; text = "exploit"; ObjectID = "ATy-h0-ALy"; */
+"ATy-h0-ALy.text" = "exploit";
+
+/* Class = "UIButton"; normalTitle = "@iBSparkes (Development)"; ObjectID = "Aay-Mz-cvw"; */
+"Aay-Mz-cvw.normalTitle" = "@iBSparkes (개발)";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "BXF-lt-fpr"; */
+"BXF-lt-fpr.text" = "&";
+
+/* Class = "UIButton"; normalTitle = "@saurik (Development)"; ObjectID = "BXZ-in-r3I"; */
+"BXZ-in-r3I.normalTitle" = "@saurik (개발)";
+
+/* Class = "UIButton"; normalTitle = "@stek29 (Development)"; ObjectID = "BYM-yS-ubl"; */
+"BYM-yS-ubl.normalTitle" = "@stek29 (개발)";
+
+/* Class = "UILabel"; text = "Expiry"; ObjectID = "DB2-gn-cs4"; */
+"DB2-gn-cs4.text" = "만료일";
+
+/* Class = "UIButton"; normalTitle = "@xerusdesign (Testing)"; ObjectID = "DMu-MO-TiW"; */
+"DMu-MO-TiW.normalTitle" = "@xerusdesign (테스팅)";
+
+/* Class = "UILabel"; text = "(Re)Install OpenSSH"; ObjectID = "Dhz-O8-Ohi"; */
+"Dhz-O8-Ohi.text" = "OpenSSH (재)설치";
+
+/* Class = "UIButton"; normalTitle = "@Morpheus______ (Development)"; ObjectID = "Dwp-7m-i0T"; */
+"Dwp-7m-i0T.normalTitle" = "@Morpheus______ (개발)";
+
+/* Class = "UILabel"; text = "by "; ObjectID = "E4E-uK-b4Q"; */
+"E4E-uK-b4Q.text" = "by ";
+
+/* Class = "UILabel"; text = "UI by"; ObjectID = "EAd-Mn-rsm"; */
+"EAd-Mn-rsm.text" = "UI by";
+
+/* Class = "UIButton"; normalTitle = "placeholder"; ObjectID = "ELb-9J-7YK"; */
+"ELb-9J-7YK.normalTitle" = "플레이스홀더";
+
+/* Class = "UILabel"; text = "Set CS_DEBUGGED"; ObjectID = "Eq9-Ns-zey"; */
+"Eq9-Ns-zey.text" = "CS_DEBUGGED 설정";
+
+/* Class = "UILabel"; text = "Substitutor"; ObjectID = "Ffi-fg-qBW"; */
+"Ffi-fg-qBW.text" = "Substitutor";
+
+/* Class = "UILabel"; text = "Reload Daemons"; ObjectID = "GIt-S3-wBe"; */
+"GIt-S3-wBe.text" = "Daemons 다시 로드";
+
+/* Class = "UILabel"; text = "Read-Only RootFS"; ObjectID = "GsM-At-dw9"; */
+"GsM-At-dw9.text" = "RootFS 읽기 전용";
+
+/* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "HS8-A8-Kos"; */
+"HS8-A8-Kos.normalTitle" = "재시작";
+
+/* Class = "UILabel"; text = "placeholder"; ObjectID = "ITG-pW-yHc"; */
+"ITG-pW-yHc.text" = "플레이스홀더";
+
+/* Class = "UIButton"; normalTitle = "ECID"; ObjectID = "K0V-OH-Xnc"; */
+"K0V-OH-Xnc.normalTitle" = "ECID";
+
+/* Class = "UILabel"; text = "Disable Revokes"; ObjectID = "Lop-s2-QoX"; */
+"Lop-s2-QoX.text" = "폐기 비활성화";
+
+/* Class = "UITextField"; placeholder = "exploit"; ObjectID = "M40-fy-KdS"; */
+"M40-fy-KdS.placeholder" = "exploit";
+
+/* Class = "UITextField"; text = "substitutor"; ObjectID = "M40-fy-KdS"; */
+"M40-fy-KdS.text" = "substitutor";
+
+/* Class = "UIButton"; normalTitle = "Open Cydia"; ObjectID = "MCD-u6-GW4"; */
+"MCD-u6-GW4.normalTitle" = "Cydia 열기";
+
+/* Class = "UIButton"; normalTitle = "Restart SpringBoard"; ObjectID = "MKZ-Zb-eq1"; */
+"MKZ-Zb-eq1.normalTitle" = "SpringBoard 재시작";
+
+/* Class = "UIButton"; normalTitle = "View Source Code"; ObjectID = "MpC-W0-1eR"; */
+"MpC-W0-1eR.normalTitle" = "소스코드 보기";
+
+/* Class = "UILabel"; text = "Restore RootFS"; ObjectID = "Mpp-g3-bNI"; */
+"Mpp-g3-bNI.text" = "RootFS 복원";
+
+/* Class = "UILabel"; text = "Load Tweaks"; ObjectID = "MyV-qW-zdt"; */
+"MyV-qW-zdt.text" = "Tweaks 로드";
+
+/* Class = "UIButton"; normalTitle = "@umanghere (Development)"; ObjectID = "N6S-5q-UzE"; */
+"N6S-5q-UzE.normalTitle" = "@umanghere (개발)";
+
+/* Class = "UILabel"; text = "Hide Log Window"; ObjectID = "NGj-U7-Rke"; */
+"NGj-U7-Rke.text" = "로그 창 숨김";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NHc-vO-PPf"; */
+"NHc-vO-PPf.normalTitle" = "버튼";
+
+/* Class = "UILabel"; text = "Max Memory Limit"; ObjectID = "PFy-VA-xz7"; */
+"PFy-VA-xz7.text" = "메모리 제한 늘리기";
+
+/* Class = "UILabel"; text = "Set get-task-allow"; ObjectID = "S6S-NE-WJ9"; */
+"S6S-NE-WJ9.text" = "get-task-allow 설정";
+
+/* Class = "UILabel"; text = "Reinstall Cydia"; ObjectID = "SRa-i1-KjM"; */
+"SRa-i1-KjM.text" = "Cydia 재설치";
+
+/* Class = "UILabel"; text = "Refresh Icon Cache"; ObjectID = "SVp-PX-97M"; */
+"SVp-PX-97M.text" = "아이콘 캐시 새로 고침";
+
+/* Class = "UITextField"; placeholder = "XXXXXXXXXXXXXXXX"; ObjectID = "T5g-8V-gBQ"; */
+"T5g-8V-gBQ.placeholder" = "XXXXXXXXXXXXXXXX";
+
+/* Class = "UILabel"; text = "Uptime"; ObjectID = "TmA-aA-qbT"; */
+"TmA-aA-qbT.text" = "구동 시간";
+
+/* Class = "UIButton"; normalTitle = "@theninjaprawn (Development)"; ObjectID = "V0w-3F-HRY"; */
+"V0w-3F-HRY.normalTitle" = "@theninjaprawn (개발)";
+
+/* Class = "UIButton"; normalTitle = "@HiMyNameIsUbik"; ObjectID = "V2Q-wP-Ruc"; */
+"V2Q-wP-Ruc.normalTitle" = "@HiMyNameIsUbik";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "VHD-vl-rR6"; */
+"VHD-vl-rR6.title" = "설정";
+
+/* Class = "UIButton"; normalTitle = "@MidnightChip (Testing)"; ObjectID = "Vdc-gW-04x"; */
+"Vdc-gW-04x.normalTitle" = "@MidnightChip (테스팅)";
+
+/* Class = "UITabBarItem"; title = "Jailbreak"; ObjectID = "W8d-XC-the"; */
+"W8d-XC-the.title" = "탈옥";
+
+/* Class = "UIButton"; normalTitle = "@AppleDry05 (Testing)"; ObjectID = "Wla-bb-g2P"; */
+"Wla-bb-g2P.normalTitle" = "@AppleDry05 (테스팅)";
+
+/* Class = "UILabel"; text = "SSH Only"; ObjectID = "Wpf-g8-fV1"; */
+"Wpf-g8-fV1.text" = "오직 SSH만";
+
+/* Class = "UIButton"; normalTitle = "Check For Update"; ObjectID = "XvB-ex-qh5"; */
+"XvB-ex-qh5.normalTitle" = "업데이트 확인";
+
+/* Class = "UILabel"; text = "unc0ver"; ObjectID = "YW6-UO-a5e"; */
+"YW6-UO-a5e.text" = "unc0ver";
+
+/* Class = "UIButton"; normalTitle = "@DennisBednarz (Design)"; ObjectID = "Yjg-h2-gt3"; */
+"Yjg-h2-gt3.normalTitle" = "@DennisBednarz (디자인)";
+
+/* Class = "UIButton"; normalTitle = "@pwn20wnd "; ObjectID = "Zd3-Uw-Mck"; */
+"Zd3-Uw-Mck.normalTitle" = "@pwn20wnd ";
+
+/* Class = "UILabel"; text = "Exploiting"; ObjectID = "ZwM-0f-kRC"; */
+"ZwM-0f-kRC.text" = "Exploiting";
+
+/* Class = "UITextField"; placeholder = "365 Days"; ObjectID = "Zx2-Kx-0aV"; */
+"Zx2-Kx-0aV.placeholder" = "365일";
+
+/* Class = "UILabel"; text = "Auto respring"; ObjectID = "b6w-j2-Rh6"; */
+"b6w-j2-Rh6.text" = "자동 리스프링";
+
+/* Class = "UILabel"; text = "Load Daemons"; ObjectID = "bBi-OR-hpE"; */
+"bBi-OR-hpE.text" = "Daemons 로드";
+
+/* Class = "UITextView"; text = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container for systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user settings.\n"; ObjectID = "bvv-3a-l9y"; */
+"bvv-3a-l9y.text" = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container for systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user settings.\n";
+
+/* Class = "UIButton"; normalTitle = "@MiscMisty (Development)"; ObjectID = "cUa-LX-1Nb"; */
+"cUa-LX-1Nb.normalTitle" = "@MiscMisty (개발)";
+
+/* Class = "UIButton"; normalTitle = "@realBrightiup (Development)"; ObjectID = "egd-uq-xg0"; */
+"egd-uq-xg0.normalTitle" = "@realBrightiup (개발)";
+
+/* Class = "UILabel"; text = "Reset Cydia Cache"; ObjectID = "fyE-Sj-TNL"; */
+"fyE-Sj-TNL.text" = "Cydia 캐시 초기화";
+
+/* Class = "UIButton"; normalTitle = "@i41nbeer (Development)"; ObjectID = "gQp-2a-3sA"; */
+"gQp-2a-3sA.normalTitle" = "@i41nbeer (개발)";
+
+/* Class = "UIButton"; normalTitle = "@_Matchstic (Development)"; ObjectID = "gSs-Qr-0L6"; */
+"gSs-Qr-0L6.normalTitle" = "@_Matchstic (개발)";
+
+/* Class = "UILabel"; text = "Dump APTicket"; ObjectID = "gi9-pl-mUW"; */
+"gi9-pl-mUW.text" = "APTicket 덤프";
+
+/* Class = "UIButton"; normalTitle = "Samg_is_a_Ninja (Development)"; ObjectID = "h4e-3L-EW3"; */
+"h4e-3L-EW3.normalTitle" = "Samg_is_a_Ninja (개발)";
+
+/* Class = "UIButton"; normalTitle = "Automatically Select Exploit"; ObjectID = "hxh-hf-wUi"; */
+"hxh-hf-wUi.normalTitle" = "자동으로 Exploit 선택";
+
+/* Class = "UIButton"; normalTitle = "@s1guza (Development)"; ObjectID = "ifQ-0r-Hnb"; */
+"ifQ-0r-Hnb.normalTitle" = "@s1guza (개발)";
+
+/* Class = "UIButton"; normalTitle = "@_bazad (Development)"; ObjectID = "k2H-ae-KOW"; */
+"k2H-ae-KOW.normalTitle" = "@_bazad (개발)";
+
+/* Class = "UIButton"; normalTitle = "@sbingner"; ObjectID = "lRa-u8-NKk"; */
+"lRa-u8-NKk.normalTitle" = "@sbingner";
+
+/* Class = "UIButton"; normalTitle = "@iOS_App_Dev"; ObjectID = "lT4-cI-YDK"; */
+"lT4-cI-YDK.normalTitle" = "@iOS_App_Dev";
+
+/* Class = "UITextField"; placeholder = "0x292dd10b56d87a3a"; ObjectID = "lf3-Mh-TY2"; */
+"lf3-Mh-TY2.placeholder" = "0x292dd10b56d87a3a";
+
+/* Class = "UILabel"; text = "jailbreak"; ObjectID = "lko-Ud-SBp"; */
+"lko-Ud-SBp.text" = "탈옥";
+
+/* Class = "UIButton"; normalTitle = "@Cryptiiic (Testing)"; ObjectID = "llG-m4-fQ6"; */
+"llG-m4-fQ6.normalTitle" = "@Cryptiiic (테스팅)";
+
+/* Class = "UITableViewSection"; footerTitle = "PLACEHOLDER"; ObjectID = "mVJ-nV-a4v"; */
+"mVJ-nV-a4v.footerTitle" = "플레이스홀더";
+
+/* Class = "UITableViewSection"; headerTitle = "Utilities"; ObjectID = "mVJ-nV-a4v"; */
+"mVJ-nV-a4v.headerTitle" = "유틸리티";
+
+/* Class = "UITextField"; placeholder = "365 Days"; ObjectID = "min-G7-4yH"; */
+"min-G7-4yH.placeholder" = "365일";
+
+/* Class = "UIButton"; normalTitle = "@AyyItzRob (Testing)"; ObjectID = "nxt-hY-cmG"; */
+"nxt-hY-cmG.normalTitle" = "@AyyItzRob (테스팅)";
+
+/* Class = "UIButton"; normalTitle = "@Apple (Development)"; ObjectID = "pkT-ku-Khx"; */
+"pkT-ku-Khx.normalTitle" = "@Apple (개발)";
+
+/* Class = "UIButton"; normalTitle = "@jailbreakbuster (Testing)"; ObjectID = "qTU-ae-H2n"; */
+"qTU-ae-H2n.normalTitle" = "@jailbreakbuster (테스팅)";
+
+/* Class = "UIButton"; normalTitle = "@Swag_iOS (Testing)"; ObjectID = "r2t-59-cIz"; */
+"r2t-59-cIz.normalTitle" = "@Swag_iOS (테스팅)";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "sY1-7R-L1x"; */
+"sY1-7R-L1x.text" = "&";
+
+/* Class = "UILabel"; text = "Exploit"; ObjectID = "tpd-rk-NGn"; */
+"tpd-rk-NGn.text" = "Exploit";
+
+/* Class = "UIButton"; normalTitle = "@NedWilliamson (Development)"; ObjectID = "uAL-CS-AqY"; */
+"uAL-CS-AqY.normalTitle" = "@NedWilliamson (개발)";
+
+/* Class = "UIButton"; normalTitle = "@nitoTV (Development)"; ObjectID = "usK-kT-lNG"; */
+"usK-kT-lNG.normalTitle" = "@nitoTV (개발)";
+
+/* Class = "UILabel"; text = "Special Thanks"; ObjectID = "usV-YE-yxE"; */
+"usV-YE-yxE.text" = "특별한 감사";
+
+/* Class = "UIButton"; normalTitle = "@FCE365 (Development)"; ObjectID = "w92-OW-keF"; */
+"w92-OW-keF.normalTitle" = "@FCE365 (개발)";
+
+/* Class = "UIButton"; normalTitle = "Generator"; ObjectID = "xim-1p-tCK"; */
+"xim-1p-tCK.normalTitle" = "Generator";
+
+/* Class = "UIButton"; normalTitle = "@xerub (Development)"; ObjectID = "yj7-t7-Qxc"; */
+"yj7-t7-Qxc.normalTitle" = "@xerub (개발)";
+
+/* Class = "UINavigationItem"; title = "Credits"; ObjectID = "ymO-Kj-nkN"; */
+"ymO-Kj-nkN.title" = "제작자";
+
+/* Class = "UILabel"; text = "for iOS 11.0 - 12.4"; ObjectID = "zFb-Nx-58A"; */
+"zFb-Nx-58A.text" = "for iOS 11.0 - 12.4";

@@ -1,0 +1,731 @@
+/* 
+  Localizable.strings
+  Undecimus
+
+  Created by Sam Gardner on 8/26/19.
+  Copyright © 2019 Pwn20wnd. All rights reserved.
+  Edited by Jakub Wołczak (kubba10268)
+*/
+
+"Bundled Resources version missing." = "Powiązana wersja zasobów nie występuje."
+
+"Unsupported" = "Niewspierany"
+
+"Restore RootFS" = "Przywróć system plików Root"
+
+"Ready to restore RootFS" = "Gotowy do przywrócenia systemu plików Root"
+
+"Re-Jailbreak" = "Re-Jailbreak"
+
+"Ready to re-jailbreak" = "Gotowy do re-jailbreak"
+
+"Jailbreak" = "Jailbreak"
+
+"Ready to jailbreak" = "Gotowy do jailbreak"
+
+"Error" = "Błąd"
+
+"Bundled Resources version is missing. This build is invalid." = "Powiązana wersja zasobów nie występuje. Ta wersja jest niepoprawna."
+
+"Days" = "Dni"
+
+"Invalid Entry" = "Niepoprawne wpis"
+
+"The boot nonce entered could not be parsed" = "Wprowadzona wartość rozruchowa nie mogła zostać przeanalizowana"
+
+"OK" = "OK"
+
+"The device will be restarted." = "To urządzenie zostanie uruchomione ponownie."
+
+"Copy boot nonce?" = "Copy boot nonce?"
+
+"Would you like to copy nonce generator to clipboard?" = "Czy chcesz skopiować generator nonce do schowka?"
+
+"Yes" = "Tak"
+
+"No" = "Nie"
+
+"Copy ECID?" = "Skopiować ECID?"
+
+"Would you like to copy ECID to clipboard?" = "Czy chcesz skopiować ECID do schowka?"
+
+"Failed to check for update." = "Nie można sprawdzić dostępności uaktualnień."
+
+"An update is available." = "Dostępne jest nowe uaktualnienie"
+
+"Already up to date." = "Najnowasza wersja została już zainstalowana"
+
+"An update is available." = "Dostępne jest nowe uaktualnienie"
+
+"Already up to date." = "Najnowsza wersja została już zainstalowana"
+
+"SpringBoard will be restarted." = "SpringBoard zostanie uruchomiony ponownie."
+
+"Unable to get task port for backboardd." = "Nie można uzyskać portu zadania dla tablicy"
+
+"Unable to make backboardd exit." = "Nie można utworzyć wyjścia tablicy"
+
+"Cleaned diagnostics data." = "Wyczyszczono dane diagnostyczne."
+
+"Preference was changed. The app will now exit." = "Preferencje zostały zmienione. Aplikacja zostanie teraz zamknięta."
+
+"Preferences were reset. The app will now exit." = "Preferencje zostały zresetowane. Aplikacja zostanie teraz zamknięta."
+
+"Load Tweaks" = "Ładowanie Poprawek "
+
+"Description:\n\nThis option makes Substrate load extensions that are commonly referred to as tweaks in newly started processes.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64 SoCs (A7-A11)." = "Opis:\n\nTa opcja sprawia, że ​​rozszerzenia obciążenia substratu są powszechnie określane jako poprawki w nowo uruchamianych procesach .\n\nCompatibility:\n\niOS 11.0-12.1.2 na arm64 SoCs (A7-A11)."
+
+"Load Daemons" = "Załaduj Demony"
+
+"Description:\n\nThis option makes the jailbreak load the launch daemons located at /Library/LaunchDaemons and execute files located at /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "Description:\n\nTa opcja powoduje, że jailbreak ładuje demony uruchamiania znajdujące się w /Library/LaunchDaemons i wykonuje pliki znajdujące się w /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 na arm64/arm64e SoCs (A7-A12X)."
+
+"Dump APTicket" = "Zrzuć APTicket"
+
+"Description:\n\nThis option makes the jailbreak create a copy of the system APTicket located at /System/Library/Caches/apticket.der at its Documents directory which is accessible via iTunes File Sharing.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "Description:\n\nTa opcja powoduje, że jailbreak tworzy kopię systemu APTicket znajdującego się pod adresem /System/Library/Caches/apticket.der w katalogu Dokumenty, który jest dostępny poprzez Udostępnianie plików iTunes.\n\nCompatibility:\n\niOS 11.0-12.1.2 na arm64/arm64e SoCs (A7-A12X)."
+
+"Refresh Icon Cache" = "Odśwież pamięć podręczną ikon"
+
+"Description:\n\n" = "Opis:"
+
+"This option makes the jailbreak regenerate SpringBoard's system application installation cache to cause newly installed .app bundles to appear on the icon list." = "Ta opcja powoduje, że jailbreak ponownie generuje pamięć podręczną instalacji aplikacji systemowej SpringBoard, dzięki czemu nowo zainstalowane pakiety .app pojawiają się na liście ikon."
+
+"iOS 11.0-12.2 and 12.4 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.2 i 12.4 na arm64/arm64e SoCs A7-A12X."
+
+"Disable Updates" = "Wyłącz uaktualnienia"
+
+"This option makes the jailbreak effectively disable the system's software update mechanism to prevent the system from automatically upgrading to the latest available firmware which may not be supported by the jailbreak at that time." = "Ta opcja powoduje, że jailbreak skutecznie wyłącza mechanizm aktualizacji oprogramowania systemowego, aby uniemożliwić systemowi automatyczną aktualizację do najnowszego dostępnego oprogramowania, które może nie być obsługiwane przez jailbreak w tym czasie."
+
+"iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 na arm64/arm64e SoCs A7-A12X."
+
+"Disable Revokes" = "Wyłącz odwołania"
+
+"This option makes the jailbreak effectively disable the system's online certificate status protocol system to prevent enterprise certificates which the jailbreak may be signed with from getting revoked." = "Ta opcja powoduje, że jailbreak skutecznie wyłącza systemowy system protokołów statusu certyfikatów online, aby zapobiec unieważnieniu certyfikatów korporacyjnych, z którymi jailbreak może zostać podpisany."
+
+"iOS 11.0-11.4.1 on arm64 SoCs A7-A11." = "iOS 11.0-11.4.1 na arm64 SoCs A7-A11."
+
+"Set Boot Nonce" = "Ustaw wartość jednorazową rozruchu"
+
+"Description:" = "Opis:"
+
+"This option makes the jailbreak set the persistent com.apple.System.boot-nonce variable in non-volatile random-access memory NVRAM which may be required to downgrade to an unsigned iOS firmware by using SHSH files." = "Ta opcja powoduje, że jailbreak ustawia trwałą zmienną com.apple.System.boot-nonce w nieulotnej pamięci NVRAM o dostępie swobodnym, która może być wymagana do zmiany wersji na niepodpisane oprogramowanie iOS za pomocą plików SHSH."
+
+"iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 na arm64/arm64e SoCs A7-A12X."
+
+"Export TFP0" = "Eksportuj TFP0"
+
+"This option makes the jailbreak modify the host-port to grant any process access to the host-priv-port." = "Ta opcja powoduje, że jailbreak modyfikuje port hosta, aby udzielić dowolnego procesu dostępu do hosta-portu-prywatnego."
+
+"This option effectively grants any process access to the kernel task port TFP0 and allows re-jailbreaking without exploiting again." = "Ta opcja skutecznie zapewnia każdemu procesowi dostęp do portu zadań jądra TFP0 i umożliwia ponowne złamanie jailbreaka bez ponownego wykorzystywania."
+
+"This option is considered unsafe as the privilege this option effectively grants to processes can be used for bad purposes by malicous apps." = "Ta opcja jest uważana za niebezpieczną, ponieważ przywilej, jaki ta opcja skutecznie nadaje procesom, może być wykorzystywany do złych celów przez złośliwe aplikacje."
+
+"iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 na arm64/arm64e SoCs A7-A12X.",
+
+"Restore RootFS" = "Przywróć system plików Root"
+
+"This option makes the jailbreak restore the root filesystem RootFS to the snapshot which is created by the system when the device is restored." = "Ta opcja powoduje, że jailbreak przywraca główny system plików RootFS do migawki, która jest tworzona przez system podczas przywracania urządzenia."
+
+"This option effectively allows uninstalling the jailbreak without losing any user data." = "Ta opcja skutecznie pozwala odinstalować jailbreak bez utraty danych użytkownika."
+
+"iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.", = "iOS 11.0-12.1.2 na arm64/arm64e SoCs A7-A12X.",
+
+"Max Memory Limit" = "Maksymalny Limit Pamięci"
+
+"This option makes the jailbreak modify the Jetsam configuration file to increase the memory limit that is enforced upon processes by Jetsam to the maximum value to effectively bypass that mechanism." = "Ta opcja powoduje, że jailbreak modyfikuje plik konfiguracyjny Jetsam, aby zwiększyć limit pamięci wymuszany na procesach przez Jetsam do maksymalnej wartości, aby skutecznie ominąć ten mechanizm."
+
+"iOS 11.0-12.1.2 on arm64 SoCs A7-A11." = "iOS 11.0-12.1.2 na arm64 SoCs A7-A11."
+
+"ReInstall OpenSSH" = "Zainstaluj ponownie OpenSSH"
+
+"This option makes the jailbreak reinstall the openssh package." = "Ta opcja powoduje, że jailbreak ponownie instaluje pakiet openssh."
+
+"iOS 11.0-12.1.2 on arm64 SoCs A7-A11." = "iOS 11.0-12.1.2 na arm64 SoCs A7-A11."
+
+"Reinstall Cydia" = "Zainstaluj ponownie Cydia"
+
+"This option makes jailbreak reinstall the cydiainstaller package." = "Ta opcja powoduje, że jailbreak ponownie instaluje pakiet cydiainstaller."
+
+"iOS 11.0-12.1.2 on arm64 SoCs A7-A11." = "iOS 11.0-12.1.2 na arm64 SoCs A7-A11."
+
+"Reload Daemons" = "Przeładuj demony"
+
+"This option makes the jailbreak reload all of the running system daemons to make the Substrate extensions tweaks load in them." = "Ta opcja powoduje, że jailbreak przeładowuje wszystkie działające demony systemowe, aby ulepszyć w nich rozszerzenia Substrate."
+
+"Hide Log Window" = "Ukryj okno dziennika"
+
+"This option hides the log window or console in the jailbreak app for a more clean look." = "Ta opcja ukrywa okno dziennika lub konsolę w aplikacji jailbreak, aby uzyskać bardziej przejrzysty wygląd."
+
+"Reset Cydia Cache" = "Zresetuj pamięć podręczną Cydia"
+
+"This option makes the jailbreak reset Cydia's cache." = "Ta opcja powoduje, że jailbreak resetuje pamięć podręczną Cydii."
+
+"This option will cause Cydia to regenerate the repo lists and its cache." = "Ta opcja spowoduje, że Cydia zregeneruje listy repozytoriów i pamięć podręczną."
+
+"SSH Only" = "Tylko SSH"
+
+"This option makes the jailbreak skip installing Cydia and Substrate." = "Ta opcja powoduje, że jailbreak pomija instalowanie Cydii i Substrate'u."
+
+"This option starts SSH on 127.0.0.1 localhost on port 22 via dropbear." = "Ta opcja uruchamia SSH na localhost 127.0.0.1 na porcie 22 przez dropbear."
+
+"iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.", = "iOS 11.0-12.1.2 na arm64/arm64e SoCs A7-A12X.",
+
+"Set get-task-allow" = "Ustaw get-task-allow"
+
+"This option makes the jailbreak dynamically enable the get-task-allow entitlement for every new process." = "Ta opcja powoduje, że jailbreak dynamicznie włącza uprawnienia get-task-allow dla każdego nowego procesu."
+
+"This option makes dyld treat the processes unrestricted." = "Ta opcja powoduje, że procesy są traktowane bez ograniczeń."
+
+"This option enables dyld environment variables such as DYLD_INSERT_LIBRARIES." = "Ta opcja włącza różne zmienne środowiskowe, takie jak DYLD_INSERT_LIBRARIES."
+
+"Set CS_DEBUGGED" = "Ustaw CS_DEBUGGED"
+
+"This option makes the jailbreak dynamically set the CS_DEBUGGED codesign flag for every new process." = "Ta opcja sprawia, że ​​jailbreak dynamicznie ustawia flagę CS_DEBUGGED dla każdego nowego procesu."
+
+"This option makes the kernel allow processes to run with invalid executable pages." = "Ta opcja powoduje, że jądro pozwala na uruchamianie procesów z nieprawidłowymi stronami wykonywalnymi."
+
+"Auto Respring" = "Auto Respring"
+
+"This option makes the jailbreak automatically restart the SpringBoard as soon as the jailbreak process is completed without the confirmation." = "Ta opcja powoduje, że jailbreak automatycznie restartuje SpringBoard, gdy tylko proces jailbreak zostanie zakończony bez potwierdzenia."
+
+"iOS 11.0-12.1.2 on arm64 SoCs A7-A11." = "iOS 11.0-12.1.2 na arm64 SoCs A7-A11."
+
+"Read-Only RootFS" = "RootFS tylko do odczytu"
+
+"This option makes the jailbreak skip remounting the root filesystem as read-write when combined with the SSH-Only option." = "Ta opcja powoduje, że jailbreak pomija ponowne podłączanie głównego systemu plików jako odczyt-zapis w połączeniu z opcją SSH-Only."
+
+"iOS 11.0-12.1.2 on arm64 SoCs A7-A12." = "iOS 11.0-12.1.2 na arm64 SoCs A7-A12."
+
+"Jailbreaking" = "Jailbreaking"
+
+"Unable to verify my user id." = "Nie można zweryfikować mojego identyfikatora użytkownika."
+
+"Memory allocation failure: %s" = "Błąd alokacji pamięci: %s"
+
+"Unable to clean success file." = "Nie można wyczyścić pliku sukcesu."
+
+"Unable to synchronize app preferences. Please restart the app and try again." = "Nie można zsynchronizować preferencji aplikacji. Uruchom ponownie aplikację i spróbuj ponownie."
+
+"Unable to create test file." = "Nie można utworzyć pliku testowego."
+
+"Unable to clean test file." = "Nie można wyczyścić pliku testowego."
+
+"Unable to inject trust cache" = "Nie można wstrzyknąć pamięci podręcznej zaufania"
+
+"Exploiting kernel..." = "Wykorzystanie jądra ..."
+
+"Unable to get host port." = "Nie można uzyskać portu hosta."
+
+"No exploit selected." = "Nie wybrano exploita."
+
+"Unable to exploit kernel. This is not an error. Reboot and try again." = "Nie można wykorzystać jądra. To nie jest błąd. Uruchom ponownie i spróbuj ponownie."
+
+"Unable to exit." = "Nie można wyjść."
+
+"Exploited kernel.\n" = "Wykorzystane jądro. \n"
+
+"Initializing jailbreak..." = "Inicjowanie jailbreak ..."
+
+"Unable to swap my process sandbox in kernel memory." = "Nie można zamienić obszaru izolowanego procesu w pamięci jądra."
+
+"Unable to find kernel offsets." = "Nie można znaleźć przesunięć jądra."
+
+"Unable to find my process in kernel memory." = "Nie mogę znaleźć mojego procesu w pamięci jądra."
+
+"Unable to find kernel's credentials in kernel memory." = "Nie można znaleźć poświadczeń jądra w pamięci jądra."
+
+"Unable to verify shenanigans in kernel memory." = "Nie można zweryfikować shenanigans w pamięci jądra."
+
+"Unable to overwrite shenanigans in kernel memory." = "Nie można nadpisać shenaniganów w pamięci jądra."
+
+"Unable to steal kernel's credentials." = "Nie można ukraść danych uwierzytelniających jądra."
+
+"Unable to set user id." = "Nie można ustawić identyfikatora użytkownika."
+
+"Unable to verify user id." = "Nie można zweryfikować identyfikatora użytkownika."
+
+"Unable to upgrade host port." = "Nie można zaktualizować portu hosta."
+
+"Unable to initialize kernel code execution." = "Nie można zainicjować wykonania kodu jądra."
+
+"Unable to set HSP#4 as TFP0." = "Nie można ustawić HSP # 4 jako TFP0."
+
+"Set HSP#4 as TFP0.\n" = "Ustaw HSP # 4 jako TFP0.\n"
+
+"Unable to set kernel task info." = "Nie można ustawić informacji o zadaniu jądra."
+
+"Set kernel task info.\n" = "Ustaw informacje o zadaniu jądra.\n"
+
+"Unable to make my task a platform task." = "Nie mogę uczynić mojego zadania zadaniem platformy."
+
+"Unable to make my codesign blob a platform blob." = "Nie można uczynić mojego obiektu blob z kodami obiektowym jako obiektu blob na platformie."
+
+"Exporting kernel task port..." = "Eksportowanie portu zadań jądra ..."
+
+"Unable to export TFP0." = "Nie można wyeksportować TFP0."
+
+"Exported kernel task port.\n" = "Wyeksportowany port zadań jądra.\n"
+
+"Unexporting kernel task port..." = "Nieportowanie portu zadania jądra...”
+
+"Unable to unexport TFP0." = "Nie można wyeksportować TFP0."
+
+"Unexported kernel task port.\n" = "Nieobsługiwany port zadania jądra.\n"
+
+"Writing a test file to UserFS..." = "Zapis pliku testowego do UserFS..."
+
+"Dumping APTicket..." = "Zrzucanie APTicket..."
+
+"Unable to dump APTicket." = "Nie można zrzucić APTicket."
+
+"Dumped APTicket.\n" = "Zrzucono APTicket.\n"
+
+"Unlocking nvram..." = "Odblokowanie nvram..."
+
+"Unable to unlock nvram." = "Nie można odblokować nvram."
+
+"Unable to print nvram variables." = "Nie można wydrukować zmiennych nvram."
+
+"Setting boot-nonce..." = "Ustawienie boot-nonce..."
+
+"Unable to set boot nonce." = "Nie można ustawić wartości jednorazowej rozruchu."
+
+"Unable to synchronize boot nonce." = "Nie można zsynchronizować kodu rozruchowego."
+
+"Unable to print new nvram variables." = "Nie można wydrukować nowych zmiennych nvram."
+
+"Locking nvram..." = "Blokowanie nvram..."
+
+"Unable to lock nvram." = "Nie można zablokować nvram."
+
+"Overwrote boot nonce.\n" = "Nadpisano nonce rozruchu.\n"
+
+"Logging slide..." = "Slajd rejestrowania..."
+
+"Unable to clean old kernel slide log." = "Nie można wyczyścić starego dziennika slajdów jądra."
+
+"Unable to log kernel slide." = "Nie można zarejestrować slajdu jądra."
+
+"Logged slide.\n" = "Zarejestrowany slajd.\n"
+
+"Logging ECID..." = "Logowanie ECID..."
+
+"Logged ECID.\n" = "Zalogowany ECID.\n"
+
+"Disabling Auto Updates..." = "Wyłączanie automatycznych aktualizacji..."
+
+"Unable to disable software update badge." = "Nie można wyłączyć plakietki aktualizacji oprogramowania."
+
+"Disabled Auto Updates.\n" = "Wyłączone automatyczne aktualizacje.\n"
+
+"Enabling Auto Updates..." = "Włączanie automatycznych aktualizacji..."
+
+"Unable to enable software update badge." = "Nie można włączyć plakietki aktualizacji oprogramowania."
+
+"Enabled Auto Updates.\n" = "Włączone automatyczne aktualizacje.\n"
+
+"Remounting RootFS..." = "Ponowne instalowanie systemu plików Root..."
+
+"Unable to open RootFS." = "Nie można otworzyć sustemu plików Root."
+
+
+"Unable to get vnode for RootFS." = "Nie można uzyskać vnode dla systemu plików Root."
+
+"Unable to get mount info for RootFS." = "Nie można uzyskać informacji o montażu dla systemu plików Root."
+
+"Unable to copy system snapshot." = "Nie można skopiować migawki systemu."
+
+"Unable to print mount list." = "Nie można wydrukować listy montowania."
+
+"Unable to get vnode for root device." = "Nie można uzyskać vnode dla urządzenia root."
+
+"Unable to get specinfo for root device." = "Nie można uzyskać specinfo dla urządzenia root."
+
+"RootFS already mounted, delete OTA file from Settings - Storage if present and reboot." = "System Plików Root jest już zamontowany, usuń plik OTA z Ustawienia - Pamięć, jeśli jest obecny i uruchom ponownie."
+
+"Unable to unmount old RootFS mount point." = "Nie można odmontować starego punktu podłączenia Systemu Plików Root."
+
+"Unable to clean old RootFS mount point." = "Nie można wyczyścić starego punktu podłączenia Systemu Plików Root."
+
+"Unable to unmount hardware mount point." = "Nie można odmontować sprzętowego punktu montowania."
+
+"Unable to create RootFS mount point." = "Nie można utworzyć punktu podłączenia Systemu Plków Root."
+
+"Unable to find mount_apfs's process in kernel memory." = "Nie można znaleźć procesu mount_apfs w pamięci jądra."
+
+"Unable to mount RootFS." = "Nie można zamontować Systemu Plików Root."
+
+"Unable to print new mount list." = "Nie można wydrukować nowej listy montowania."
+
+"Unable to verify newly mounted RootFS." = "Nie można zweryfikować nowo zamontowanego Systemu Plików Root."
+
+"Unable to open newly mounted RootFS." = "Nie można otworzyć nowo zamontowanego Systemu Plików Root."
+
+"Unable to get vnode for newly mounted RootFS." = "Nie można uzyskać vnode dla nowo podłączonego systemu Plików Root."
+
+"Unable to get mount info for newly mounted RootFS." = "Nie można uzyskać informacji o montażu dla nowo podłączonego Systemu Plików Root."
+
+"Unable to get snapshots for newly mounted RootFS." = "Nie można uzyskać migawek dla nowo zamontowanego Systemu Plików Root."
+
+"Unable to clear old original system snapshot." = "Nie można wyczyścić starej oryginalnej migawki systemu."
+
+"Unable to get SystemVersion.plist for RootFS." = "Nie można uzyskać SystemVersion.plist dla Systemu Plików Root."
+
+"Unable to get SystemVersion.plist for newly mounted RootFS." = "Nie można uzyskać SystemVersion.plist dla nowo zamontowanego Systemu Plików Root."
+
+"Unable to create test snapshot." = "Nie można utworzyć migawki testowej."
+
+"Unable to delete test snapshot." = "Nie można usunąć migawki testowej."
+
+"Unable to rename system snapshot." = "Nie można zmienić nazwy migawki systemu."
+
+"The system snapshot has been successfully renamed. The device will now be restarted." = "Nazwa migawki systemu została pomyślnie zmieniona. Urządzenie zostanie teraz zrestartowane."
+
+"Unable to call reboot." = "Nie można wywołać restartu."
+
+"Unable to reboot device." = "Nie można ponownie uruchomić urządzenia."
+
+"Unable to remount RootFS." = "Nie można ponownie zainstalować Systemu Plików Root."
+
+"Unable to print new mount list." = "Nie można wydrukować nowej listy montowania."
+
+"Unable to rename oldest snapshot." = "Nie można zmienić nazwy najstarszej migawki."
+
+"Unable to create stock snapshot." = "Nie można utworzyć migawki giełdowej."
+
+"Remounted RootFS.\n" = "Zmieniono System Plików Root.\n"
+
+"Writing a test file to RootFS..." = "Zapisywanie pliku testowego do Systemu Plików Root..."
+
+"Disabling app revokes..." = "Wyłączam odwołanie aplikacjis..."
+
+"Disabled App Revokes.\n" = "Wyłączono odwołania aplikacji.\n"
+
+"Enabling app revokes..." = "Włączanie odwołań aplikacji..."
+
+"Enabled App Revokes.\n" = "Włączono odwołania aplikacji.\n"
+
+"Restoring RootFS..." = "Przywracanie Systemu Plików Root..."
+
+"Will restore RootFS. This may take a while. Don't exit the app and don't let the device lock." = "Przywróci System Plików Root. To może zająć chwilę. Nie zamykaj aplikacji i nie blokuj urządzenia."
+
+"Unable to open RootFS." = "Nie można otworzyć Systemu Plików Root."
+
+"Unable to get snapshots for RootFS." = "Nie można uzyskać migawek dla Systemu Plików Root."
+
+"Found no snapshot for RootFS." = "Nie znaleziono migawki dla Systemu Plików Root."
+
+"Unable to copy system snapshot." = "Nie można skopiować migawki systemu."
+
+"Unable to rename original snapshot." = "Nie można zmienić nazwy oryginalnej migawki."
+
+"Unable to duplicate string." = "Nie można powielić ciągu."
+
+"Unable to unmount old snapshot mount point." = "Nie można odmontować starego punktu montażu migawki."
+
+"Unable to clean old snapshot mount point." = "Nie można wyczyścić starego punktu montażu migawki."
+
+"Unable to create snapshot mount point." = "Nie można utworzyć punktu montowania migawki."
+
+"Unable to mount original snapshot." = "Nie można zamontować oryginalnej migawki."
+
+"Unable to verify mounted snapshot." = "Nie można zweryfikować zamontowanej migawki."
+
+"Unable to extract rsync." = "Nie można wyodrębnić rsync."
+
+"Unable to extract uikittools." = "Nie można wyodrębnić uikittools."
+
+"Unable to sync /." = "Nie można zsynchronizować /."
+
+"Unable to sync /Applications." = "Nie można zsynchronizować /Applications."
+
+"Unable to unmount original snapshot mount point." = "Nie można odmontować oryginalnego punktu montażu migawki."
+
+"Unable to refresh icon cache." = "Nie można odświeżyć pamięci podręcznej ikon."
+
+"Unable to clean uicache binary." = "Nie można wyczyścić pliku binarnego uicache."
+
+"Unable to clean find binary." = "Nie można wyczyścić znaleźć pliku binarnego."
+
+"Unable to update SpringBoard preferences." = "Nie można zaktualizować preferencji SpringBoard."
+
+"Restored RootFS.\n" = "Przywrócono System Plików Root.\n"
+
+"RootFS has been successfully restored. The device will now be restarted." = "System Plików Root został pomyślnie przywrócony. Urządzenie zostanie teraz zrestartowane."
+
+"Unable to call reboot." = "Nie można wywołać restartu."
+
+"Unable to reboot device." = "Nie można ponownie uruchomić urządzenia."
+
+"Allowing SpringBoard to show non-default system apps..." = "Zezwolenie SpringBoard na wyświetlanie niestandardowych aplikacji systemowych..."
+
+"Unable to update SpringBoard preferences." = "Nie można zaktualizować preferencji SpringBoard."
+
+"Allowed SpringBoard to show non-default system apps.\n" = "Zezwolono SpringBoard na wyświetlanie aplikacji domyślnych.\n"
+
+"Creating jailbreak directory..." = "Tworzenie katalogu jailbreak..."
+
+"Unable to create jailbreak directory." = "Nie można utworzyć katalogu jailbreak."
+
+"Unable to change working directory to jailbreak directory." = "Nie można zmienić katalogu roboczego na katalog jailbreak."
+
+"Created jailbreak directory.\n" = "Utworzono katalog jailbreak.\n"
+
+"Caching offsets..." = "Przesunięcia buforowania..."
+
+"Unable to cache offsets to file." = "Nie można buforować przesunięć do pliku."
+
+"Unable to set permissions for offset cache file." = "Nie można ustawić uprawnień do pliku pamięci podręcznej przesunięcia."
+
+"Cached Offsets.\n" = "Przesunięte pamięci podręczne.\n"
+
+"Enabling SSH..." = "Włączanie SSH..."
+
+"Unable to open binpack." = "Nie można otworzyć binpack."
+
+"Unable to extract binpack." = "Nie można wyodrębnić binpack."
+
+"Unable to create directory enumerator." = "Nie można utworzyć modułu wyliczającego katalog."
+
+"Unable to initialize jailbreak code execution" = "Nie można zainicjować wykonania kodu jailbreak"
+
+"Unable to obtain unsigned code execution" = "Nie można uzyskać wykonania niepodpisanego kodu"
+
+"Unable to setup binpack." = "Nie można skonfigurować binpack."
+
+"Unable to start dropbear" = "Nie można uruchomić dropbear"
+
+"Unable to refresh icon cache." = "Nie można odświeżyć pamięci podręcznej ikon."
+
+"Unable to flush preference cache." = "Nie można opróżnić pamięci podręcznej preferencji."
+
+"Enabled SSH.\n" = "Włączono SSH.\n"
+
+"Copying over resources to RootFS..." = "Kopiowanie zasobów do Systemu Plików Root..."
+
+"Unable to change working directory to RootFS." = "Nie można zmienić katalogu roboczego na System Plików Root."
+
+"Unable to uninstall RootLessJB." = "Nie można odinstalować RootLessJB."
+
+"Unable to extract apt package lists." = "Nie można wyodrębnić list pakietów apt."
+
+"Unable to get deb for %s." = "Nie można uzyskać deb %s."
+
+"Unable to extract %s." = "Nie można wyodrębnić %s."
+
+"Unable to get resource packages." = "Nie można uzyskać pakietów zasobów."
+
+"Unable to get debs for packages to repair." = "Nie można uzyskać debetów na pakiety do naprawy."
+
+"Unable to repair packages." = "Nie można naprawić pakietów."
+
+"Unable to access ldid." = "Nie można uzyskać dostępu do ldid."
+
+"Unable to create symlink for ldid." = "Nie można utworzyć dowiązania symbolicznego dla ldid."
+
+"Copied over resources to RootFS.\n" = "Skopiowano zasoby do Systemu Plików Root.\n"
+
+"Injecting trust cache..." = "Wstrzykiwanie pamięci podręcznej zaufania..."
+
+"Injected trust cache.\n" = "Wstrzyknięto pamięć podręczna zaufania.\n"
+
+"Repairing filesystem..." = "Naprawianie systemu plików..."
+
+"Unable to repair state information directory." = "Nie można naprawić katalogu informacji o stanie."
+
+"Unable to clean old dpkg database." = "Nie można wyczyścić starej bazy danych dpkg."
+
+"Unable to restore dpkg database." = "Nie można przywrócić bazy danych dpkg."
+
+"Unable to symlink dpkg database." = "Nie można dowiązać do bazy danych dpkg."
+
+"Unable to repair dpkg status file." = "Nie można naprawić pliku statusu dpkg."
+
+"Unable to repair dpkg available file." = "Nie można naprawić dostępnego pliku dpkg."
+
+"Unable to repair ncurses." = "Nie można naprawić ncurses."
+
+"Unable to repair caches directory for %s." = "Nie można naprawić katalogu pamięci podręcznej dla %s."
+
+"Repaired Filesystem.\n" = "Naprawiono system plików.\n"
+
+"Configuring %s..." = "Konfigurowanie %s..."
+
+"Unable to disable %s's loader." = "Nie można wyłączyć modułu ładującego %s."
+
+"Starting %s..." = "Startowanie %s..."
+
+"Unable to clean old %s bootstrap tools directory." = "Nie można wyczyścić starego katalogu narzędzi bootstrap %s."
+
+"Unable to move %s bootstrap tools directory." = "Nie można przenieść katalogu narzędzi bootstrap %s."
+
+"Unable to % %s." = "Nie można % %s."
+
+"Loaded %s.\n" = "Załadowano %s.\n"
+
+"Extracting bootstrap..." = "Wyodrębnianie bootstrapu..."
+
+"Unable to extract dpkg." = "Nie można wyodrębnić dpkg."
+
+"Unable to install deb for dpkg." = "Nie można zainstalować deb dla dpkg."
+
+"Unable to get firmware debs." = "Nie można uzyskać debugowania oprogramowania układowego."
+
+"Unable to install firmware debs." = "Nie można zainstalować debugowania oprogramowania układowego."
+
+"Unable to create virtual dependencies." = "Nie można utworzyć wirtualnych zależności."
+
+"Unable to remove old resources." = "Nie można usunąć starych zasobów."
+
+"Unable to remove old-development resources." = "Nie można usunąć starych zasobów programistycznych."
+
+"Unable to get debs for apt7." = "Nie można uzyskać debetów dla apt7."
+
+"Unable to install manually extracted debs." = "Nie można zainstalować ręcznie wyodrębnionych debów."
+
+"Unable to create local repo." = "Nie można utworzyć lokalnego repozytorium."
+
+"Unable to get repo path." = "Nie można uzyskać ścieżki repo."
+
+"Unable to resolve dependencies for apt." = "Nie można rozwiązać zależności dla apt."
+
+"Unable to install debs for apt." = "Nie można zainstalować deb dla apt."
+
+"Unable to update apt package index." = "Nie można zaktualizować indeksu pakietu apt."
+
+"Unable to repair system." = "Nie można naprawić systemu."
+
+"Unable to remove Substitute." = "Nie można usunąć substytutu."
+
+"Unable to install %s." = "Nie można zainstalować %s."
+
+"Unable to remove NoBetaAlert." = "Nie można usunąć NoBetaAlert."
+
+"Unable to remove LetMeBlock." = "Nie można usunąć LetMeBlock."
+
+"Unable to clean old bootstrap marker file." = "Nie można wyczyścić starego pliku znacznika ładowania początkowego."
+
+"Unable to create bootstrap marker file." = "Nie można utworzyć pliku znacznika ładowania początkowego."
+
+"Unable to disable stashing." = "Nie można wyłączyć ukrywania."
+
+"Unable to configure installed packages." = "Nie można skonfigurować zainstalowanych pakietów."
+
+"Unable to upgrade apt packages." = "Nie można zaktualizować pakietów apt."
+
+"Extracted Bootstrap.\n" = "Wyodrębniono Bootstrap.\n"
+
+"Fixing storage preferences..." = "Naprawianie preferencji przechowywania..."
+
+"Unable to to fix path for softwareupdated." = "Nie można ustalić ścieżki aktualizacji oprogramowania."
+
+"Unable to fix path for softwareupdateservicesd." = "Nie można ustalić ścieżki dla aktualizacji oprogramowania."
+
+"Unable to fix path for softwareupdated launch daemon." = "Nie można ustalić ścieżki demona uruchamiania z aktualizacją oprogramowania."
+
+"Unable to load softwareupdated launch daemon." = "Nie można załadować zaktualizowanego demona uruchamiania oprogramowania."
+
+"Unable to fix path for softwareupdateservicesd launch daemon." = "Nie można ustalić ścieżki demona uruchamiania aktualizacji oprogramowania."
+
+"Unable to load softwareupdateservicesd launch daemon." = "Nie można załadować demona uruchamiania aktualizacji oprogramowania."
+
+"Fixed Storage Preferences.\n" = "Naprawiono preferencje przechowywania.\n"
+
+"Unable to get hardware targettype." = "Nie można uzyskać sprzętowego typu docelowego."
+
+"Increasing memory limit..." = "Zwiększenie limitu pamięci..."
+
+"Unable to update Jetsam plist to increase memory limit." = "Nie można zaktualizować listy Jetsam, aby zwiększyć limit pamięci."
+
+"Increased Memory Limit.\n" = "Zwiększony limit pamięci.\n"
+
+"Restoring memory limit..." = "Przywracanie limitu pamięci..."
+
+"Unable to update Jetsam plist to restore memory limit." = "Nie można zaktualizować listy Jetsam, aby przywrócić limit pamięci."
+
+"Restored Memory Limit.\n" = "Przywrócono limit pamięci.\n"
+
+"Installing OpenSSH..." = "Instalowanie OpenSSH..."
+
+"Unable to install OpenSSH." = "Nie można zainstalować OpenSSH."
+
+"Installed OpenSSH.\n" = "Zainstalowano OpenSSH.\n"
+
+"Removing Cydia Dummy Package..." = "Usuwanie pakietu atrapy Cydii..."
+
+"Unable to remove Cydia Dummy Package." = "Nie można usunąć pakietu Cydia Dummy."
+
+"Removed Cydia Dummy Package.\n" = "Usunięto pakiet atrapy Cydii.\n"
+
+"Removing Electra's Cydia Upgrade Helper..." = "Usuwanie pomocnika ulepszenia Cydii Electry..."
+
+"Unable to remove Electra's Cydia Upgrade Helper." = "Nie można usunąć pomocnika ulepszenia Cydii Electry."
+
+"Installing Cydia..." = "Instalowanie Cydii..."
+
+"Unable to get Cydia version." = "Nie można uzyskać wersji Cydii."
+
+"Unable to reinstall Cydia." = "Nie można ponownie zainstalować Cydii."
+
+"Installed Cydia.\n" = "Zainstalowano Cydia.\n"
+
+"Loading Daemons..." = "Ładowanie demonów..."
+
+"Loaded Daemons.\n" = "Załadowano demony.\n"
+
+"Resetting Cydia cache..." = "Resetowanie pamięci podręcznej Cydii..."
+
+"Unable to clean Cydia's directory." = "Nie można wyczyścić katalogu Cydii."
+
+"Unable to clean Cydia's cache directory." = "Nie można wyczyścić katalogu pamięci podręcznej Cydii."
+
+"Reset Cydia Cache.\n" = "Zresetuj pamięć podręczną Cydia.\n"
+
+"Refreshing icon cache..." = "Odświeżanie pamięci podręcznej ikon..."
+
+"Unable to refresh icon cache." = "Nie można odświeżyć pamięci podręcznej ikon."
+
+"Ran uicache.\n" = "Ran uicache.\n"
+
+"Flushing preference cache..." = "Pamięć podręczna preferencji opróżniania..."
+
+"Unable to flush preference cache." = "Nie można opróżnić pamięci podręcznej preferencji."
+
+"Flushed preference cache.\n" = "Opróżniona pamięć podręczna preferencji.\n"
+
+"Loading Tweaks..." = "Ładowanie poprawek..."
+
+"Unable to load tweaks." = "Nie można załadować poprawek."
+
+"Loaded Tweaks.\n" = "Załadowane poprawki.\n"
+
+"Deinitializing jailbreak..." = "Deinitializacja jailbreak..."
+
+"Unable to make my task a non-platform task." = "Nie mogę uczynić mojego zadania zadaniem innym niż platforma."
+
+"Unable to make my codesign blob a non-platform blob." = "Nie można uczynić mojego obiektu blob z kodem znakiem innego niż platforma."
+
+"Unable to drop kernel's credentials." = "Nie można usunąć poświadczeń jądra."
+
+"Unable to set user id." = "Nie można ustawić identyfikatora użytkownika."
+
+"Unable to verify user id." = "Nie można zweryfikować identyfikatora użytkownika."
+
+"Unable to restore shenanigans in kernel memory." = "Nie można przywrócić shenaniganów w pamięci jądra."
+
+"Unable to deallocate new host port." = "Nie można cofnąć przydziału nowego portu hosta."
+
+"Unable to deallocate my original host port." = "Nie można cofnąć przydziału mojego oryginalnego portu hosta."
+
+"Jailbroken" = "Jailbroken"
+
+"Unable to create success file." = "Nie można utworzyć pliku sukcesu."
+
+"Jailbreak Completed with Status:" = "Jailbreak zakończony statusem:"
+
+"The device will now respring." = "Urządzenie będzie teraz reagować."
+
+"The app will now exit." = "Aplikacja zostanie teraz zamknięta."
+
+"Unable to restart SpringBoard." = "Nie można zrestartować SpringBoard."
+
+"Unable to exit." = "Nie można wyjść."
