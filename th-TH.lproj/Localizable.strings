@@ -350,7 +350,7 @@
 "Flushed preference cache.\n" = "Flushed preference cache.\n"
 "Loading Tweaks..." = "Loading Tweaks..."
 "Unable to load tweaks." = "Unable to load tweaks."
-"Loaded Tweaks.\n" = "Loaded Tweaks.\n"
+"Loaded Tweaks.\n" = "โหลด Tweaks แล้ว\n"
 "Deinitializing jailbreak..." = "Deinitializing jailbreak..."
 "Unable to make my task a non-platform task." = "Unable to make my task a non-platform task."
 "Unable to make my codesign blob a non-platform blob." = "Unable to make my codesign blob a non-platform blob."
