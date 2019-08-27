@@ -192,7 +192,7 @@
 "Unable to delete test snapshot." = "Kan de test snapshot niet verwijderen."
 "Unable to rename system snapshot." = "Kan de systeem snapshot niet hernoemen."
 "The system snapshot has been successfully renamed. The device will now be restarted." = "De systeem snapshot is hernoemd. Het apparaat wordt nu opnieuw gestart."
-"Unable to call reboot." = "Unable to call reboot."
+"Unable to call reboot." = "Kan reboot niet aanroepen."
 "Unable to reboot device." = "Unable to reboot device."
 "Unable to remount RootFS." = "Unable to remount RootFS."
 "Unable to print new mount list." = "Unable to print new mount list."
