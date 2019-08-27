@@ -1,1 +1,300 @@
-<html><body>You are being <a href="https://github-production-repository-file-5c1aeb.s3.amazonaws.com/204538484/3547318?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190827%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20190827T181808Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=d78860adb17a0e94edf5e8da3a569892d960fb292b9a8842328bcf6390578fb9&amp;X-Amz-SignedHeaders=host&amp;actor_id=0&amp;response-content-disposition=attachment%3Bfilename%3DMain.txt&amp;response-content-type=text%2Fplain">redirected</a>.</body></html>
+
+/* Class = "UILabel"; text = "Export TFP0"; ObjectID = "0lM-oV-NGn"; */
+"0lM-oV-NGn.text" = "Export TFP0";
+
+/* Class = "UIKnapp"; normalTitle = "Rensa diagnosdata"; ObjectID = "2He-sb-oZG"; */
+"2He-sb-oZG.normalTitle" = "Rensa diagnosdata";
+
+/* Class = "UINavigationItem"; title = "Inställningar"; ObjectID = "2mQ-1t-c11"; */
+"2mQ-1t-c11.title" = "Inställningar";
+
+/* Class = "UIKnapp"; normalTitle = "Klar"; ObjectID = "36t-As-Rhs"; */
+"36t-As-Rhs.normalTitle" = "Klar";
+
+/* Class = "UIKnapp"; normalTitle = "Klar"; ObjectID = "380-mY-NVs"; */
+"380-mY-NVs.normalTitle" = "Klar";
+
+/* Class = "UIKnapp"; normalTitle = "@benjweaverdev (Utveckling)"; ObjectID = "4tc-UD-CU7"; */
+"4tc-UD-CU7.normalTitle" = "@benjweaverdev (Utveckling)";
+
+/* Class = "UILabel"; text = "Sätt Start Nouce"; ObjectID = "5Ee-VR-cUR"; */
+"5Ee-VR-cUR.text" = "Sätt Start Nouce";
+
+/* Class = "UIKnapp"; normalTitle = "@Jakeashacks (Utveckling)"; ObjectID = "6Ub-TS-0eH"; */
+"6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Utveckling)";
+
+/* Class = "UINavigationItem"; title = "Speciellt tack"; ObjectID = "6zY-vq-3l3"; */
+"6zY-vq-3l3.title" = "Speciellt tack";
+
+/* Class = "UILabel"; text = "Inaktivera uppdateringar"; ObjectID = "78K-TY-Swa"; */
+"78K-TY-Swa.text" = "Inaktivera uppdateringar";
+
+/* Class = "UIKnapp"; normalTitle = "@Externalist (Utveckling)"; ObjectID = "7IF-fV-7yG"; */
+"7IF-fV-7yG.normalTitle" = "@Externalist (Utveckling)";
+
+/* Class = "UILabel"; text = "25/33"; ObjectID = "7Jo-bD-IJb"; */
+"7Jo-bD-IJb.text" = "25/33";
+
+/* Class = "UIKnapp"; normalTitle = "Dela diagnosdata"; ObjectID = "8U8-1D-Tj2"; */
+"8U8-1D-Tj2.normalTitle" = "Dela diagnosdata";
+
+/* Class = "UIKnapp"; normalTitle = "Knapp"; ObjectID = "9r5-4K-fy9"; */
+"9r5-4K-fy9.normalTitle" = "Knapp";
+
+/* Class = "UILabel"; text = "u0"; ObjectID = "A1X-qf-Qzr"; */
+"A1X-qf-Qzr.text" = "u0";
+
+/* Class = "UITextField"; platshållare  = "exploit"; ObjectID = "ATy-h0-ALy"; */
+"ATy-h0-ALy.platshållare " = "exploit";
+
+/* Class = "UITextField"; text = "exploit"; ObjectID = "ATy-h0-ALy"; */
+"ATy-h0-ALy.text" = "exploit";
+
+/* Class = "UIKnapp"; normalTitle = "@iBSparkes (Utveckling)"; ObjectID = "Aay-Mz-cvw"; */
+"Aay-Mz-cvw.normalTitle" = "@iBSparkes (Utveckling)";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "BXF-lt-fpr"; */
+"BXF-lt-fpr.text" = "&";
+
+/* Class = "UIKnapp"; normalTitle = "@saurik (Utveckling)"; ObjectID = "BXZ-in-r3I"; */
+"BXZ-in-r3I.normalTitle" = "@saurik (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "@stek29 (Utveckling)"; ObjectID = "BYM-yS-ubl"; */
+"BYM-yS-ubl.normalTitle" = "@stek29 (Utveckling)";
+
+/* Class = "UILabel"; text = "Upphörande"; ObjectID = "DB2-gn-cs4"; */
+"DB2-gn-cs4.text" = "Upphörande";
+
+/* Class = "UIKnapp"; normalTitle = "@xerusdesign (Testning)"; ObjectID = "DMu-MO-TiW"; */
+"DMu-MO-TiW.normalTitle" = "@xerusdesign (Testning)";
+
+/* Class = "UILabel"; text = "(Om)Installera ÖppnaSSH"; ObjectID = "Dhz-O8-Ohi"; */
+"Dhz-O8-Ohi.text" = "(Om)Installera ÖppnaSSH";
+
+/* Class = "UIKnapp"; normalTitle = "@Morpheus______ (Utveckling)"; ObjectID = "Dwp-7m-i0T"; */
+"Dwp-7m-i0T.normalTitle" = "@Morpheus______ (Utveckling)";
+
+/* Class = "UILabel"; text = "av "; ObjectID = "E4E-uK-b4Q"; */
+"E4E-uK-b4Q.text" = "av ";
+
+/* Class = "UILabel"; text = "UI av"; ObjectID = "EAd-Mn-rsm"; */
+"EAd-Mn-rsm.text" = "UI av";
+
+/* Class = "UIKnapp"; normalTitle = "platshållare "; ObjectID = "ELb-9J-7YK"; */
+"ELb-9J-7YK.normalTitle" = "platshållare ";
+
+/* Class = "UILabel"; text = "Sätt CS_DEBUGGED"; ObjectID = "Eq9-Ns-zey"; */
+"Eq9-Ns-zey.text" = "Sätt CS_DEBUGGED";
+
+/* Class = "UILabel"; text = "Substitutor"; ObjectID = "Ffi-fg-qBW"; */
+"Ffi-fg-qBW.text" = "Substitutor";
+
+/* Class = "UILabel"; text = "Ladda om Daemons"; ObjectID = "GIt-S3-wBe"; */
+"GIt-S3-wBe.text" = "Ladda om Daemons";
+
+/* Class = "UILabel"; text = "Läs-Bara RootFS"; ObjectID = "GsM-At-dw9"; */
+"GsM-At-dw9.text" = "Läs-Bara RootFS";
+
+/* Class = "UIKnapp"; normalTitle = "Omstart"; ObjectID = "HS8-A8-Kos"; */
+"HS8-A8-Kos.normalTitle" = "Omstart";
+
+/* Class = "UILabel"; text = "platshållare "; ObjectID = "ITG-pW-yHc"; */
+"ITG-pW-yHc.text" = "platshållare ";
+
+/* Class = "UIKnapp"; normalTitle = "ECID"; ObjectID = "K0V-OH-Xnc"; */
+"K0V-OH-Xnc.normalTitle" = "ECID";
+
+/* Class = "UILabel"; text = "Stäng av Revokes"; ObjectID = "Lop-s2-QoX"; */
+"Lop-s2-QoX.text" = "Stäng av Revokes";
+
+/* Class = "UITextField"; platshållare  = "exploit"; ObjectID = "M40-fy-KdS"; */
+"M40-fy-KdS.platshållare " = "exploit";
+
+/* Class = "UITextField"; text = "substitutor"; ObjectID = "M40-fy-KdS"; */
+"M40-fy-KdS.text" = "substitutor";
+
+/* Class = "UIKnapp"; normalTitle = "Öppna Cydia"; ObjectID = "MCD-u6-GW4"; */
+"MCD-u6-GW4.normalTitle" = "Öppna Cydia";
+
+/* Class = "UIKnapp"; normalTitle = "Omstart SpringBoard"; ObjectID = "MKZ-Zb-eq1"; */
+"MKZ-Zb-eq1.normalTitle" = "Omstart SpringBoard";
+
+/* Class = "UIKnapp"; normalTitle = "Visa källkod"; ObjectID = "MpC-W0-1eR"; */
+"MpC-W0-1eR.normalTitle" = "Visa källkod";
+
+/* Class = "UILabel"; text = "Återställ RootFS"; ObjectID = "Mpp-g3-bNI"; */
+"Mpp-g3-bNI.text" = "Återställ RootFS";
+
+/* Class = "UILabel"; text = "Ladda Tweaks"; ObjectID = "MyV-qW-zdt"; */
+"MyV-qW-zdt.text" = "Ladda Tweaks";
+
+/* Class = "UIKnapp"; normalTitle = "@umanghere (Utveckling)"; ObjectID = "N6S-5q-UzE"; */
+"N6S-5q-UzE.normalTitle" = "@umanghere (Utveckling)";
+
+/* Class = "UILabel"; text = "Göm Log Fönstret"; ObjectID = "NGj-U7-Rke"; */
+"NGj-U7-Rke.text" = "Göm Log Fönstret";
+
+/* Class = "UIKnapp"; normalTitle = "Knapp"; ObjectID = "NHc-vO-PPf"; */
+"NHc-vO-PPf.normalTitle" = "Knapp";
+
+/* Class = "UILabel"; text = "Max minnesgräns"; ObjectID = "PFy-VA-xz7"; */
+"PFy-VA-xz7.text" = "Max minnesgräns";
+
+/* Class = "UILabel"; text = "Ställ in get-task-allow"; ObjectID = "S6S-NE-WJ9"; */
+"S6S-NE-WJ9.text" = "Ställ in get-task-allow";
+
+/* Class = "UILabel"; text = "Installera om Cydia"; ObjectID = "SRa-i1-KjM"; */
+"SRa-i1-KjM.text" = "Installera om Cydia";
+
+/* Class = "UILabel"; text = "Uppdatera ikon cache"; ObjectID = "SVp-PX-97M"; */
+"SVp-PX-97M.text" = "Uppdatera ikon cache";
+
+/* Class = "UITextField"; platshållare  = "XXXXXXXXXXXXXXXX"; ObjectID = "T5g-8V-gBQ"; */
+"T5g-8V-gBQ.platshållare " = "XXXXXXXXXXXXXXXX";
+
+/* Class = "UILabel"; text = "Uppetid"; ObjectID = "TmA-aA-qbT"; */
+"TmA-aA-qbT.text" = "Uppetid";
+
+/* Class = "UIKnapp"; normalTitle = "@theninjaprawn (Utveckling)"; ObjectID = "V0w-3F-HRY"; */
+"V0w-3F-HRY.normalTitle" = "@theninjaprawn (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "@HiMyNameIsUbik"; ObjectID = "V2Q-wP-Ruc"; */
+"V2Q-wP-Ruc.normalTitle" = "@HiMyNameIsUbik";
+
+/* Class = "UINavigationItem"; title = "Inställningar"; ObjectID = "VHD-vl-rR6"; */
+"VHD-vl-rR6.title" = "Inställningar";
+
+/* Class = "UIKnapp"; normalTitle = "@MidnightChip (Testning)"; ObjectID = "Vdc-gW-04x"; */
+"Vdc-gW-04x.normalTitle" = "@MidnightChip (Testning)";
+
+/* Class = "UITabBarItem"; title = "Jailbreak"; ObjectID = "W8d-XC-the"; */
+"W8d-XC-the.title" = "Jailbreak";
+
+/* Class = "UIKnapp"; normalTitle = "@AppleDry05 (Testning)"; ObjectID = "Wla-bb-g2P"; */
+"Wla-bb-g2P.normalTitle" = "@AppleDry05 (Testning)";
+
+/* Class = "UILabel"; text = "Bara SSH"; ObjectID = "Wpf-g8-fV1"; */
+"Wpf-g8-fV1.text" = "Bara SSH";
+
+/* Class = "UIKnapp"; normalTitle = "Sök efter uppdatering"; ObjectID = "XvB-ex-qh5"; */
+"XvB-ex-qh5.normalTitle" = "Sök efter uppdatering";
+
+/* Class = "UILabel"; text = "unc0ver"; ObjectID = "YW6-UO-a5e"; */
+"YW6-UO-a5e.text" = "unc0ver";
+
+/* Class = "UIKnapp"; normalTitle = "@DennisBednarz (Design)"; ObjectID = "Yjg-h2-gt3"; */
+"Yjg-h2-gt3.normalTitle" = "@DennisBednarz (Design)";
+
+/* Class = "UIKnapp"; normalTitle = "@pwn20wnd "; ObjectID = "Zd3-Uw-Mck"; */
+"Zd3-Uw-Mck.normalTitle" = "@pwn20wnd ";
+
+/* Class = "UILabel"; text = "Exploiting"; ObjectID = "ZwM-0f-kRC"; */
+"ZwM-0f-kRC.text" = "Exploiting";
+
+/* Class = "UITextField"; platshållare  = "365 Dagar"; ObjectID = "Zx2-Kx-0aV"; */
+"Zx2-Kx-0aV.platshållare " = "365 Dagar";
+
+/* Class = "UILabel"; text = "Auto Omstart"; ObjectID = "b6w-j2-Rh6"; */
+"b6w-j2-Rh6.text" = "Auto Omstart";
+
+/* Class = "UILabel"; text = "Ladda Daemons"; ObjectID = "bBi-OR-hpE"; */
+"bBi-OR-hpE.text" = "Ladda Daemons";
+
+/* Class = "UITextView"; text = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container för systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user Inställningar.\n"; ObjectID = "bvv-3a-l9y"; */
+"bvv-3a-l9y.text" = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container för systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user Inställningar.\n";
+
+/* Class = "UIKnapp"; normalTitle = "@MiscMisty (Utveckling)"; ObjectID = "cUa-LX-1Nb"; */
+"cUa-LX-1Nb.normalTitle" = "@MiscMisty (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "@realBrightiup (Utveckling)"; ObjectID = "egd-uq-xg0"; */
+"egd-uq-xg0.normalTitle" = "@realBrightiup (Utveckling)";
+
+/* Class = "UILabel"; text = "Återställ Cydia Cache"; ObjectID = "fyE-Sj-TNL"; */
+"fyE-Sj-TNL.text" = "Återställ Cydia Cache";
+
+/* Class = "UIKnapp"; normalTitle = "@i41nbeer (Utveckling)"; ObjectID = "gQp-2a-3sA"; */
+"gQp-2a-3sA.normalTitle" = "@i41nbeer (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "@_Matchstic (Utveckling)"; ObjectID = "gSs-Qr-0L6"; */
+"gSs-Qr-0L6.normalTitle" = "@_Matchstic (Utveckling)";
+
+/* Class = "UILabel"; text = "Dumpa APTicket"; ObjectID = "gi9-pl-mUW"; */
+"gi9-pl-mUW.text" = "Dumpa APTicket";
+
+/* Class = "UIKnapp"; normalTitle = "Samg_is_a_Ninja (Utveckling)"; ObjectID = "h4e-3L-EW3"; */
+"h4e-3L-EW3.normalTitle" = "Samg_is_a_Ninja (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "Välj automatiskt Exploit"; ObjectID = "hxh-hf-wUi"; */
+"hxh-hf-wUi.normalTitle" = "Välj automatiskt Exploit";
+
+/* Class = "UIKnapp"; normalTitle = "@s1guza (Utveckling)"; ObjectID = "ifQ-0r-Hnb"; */
+"ifQ-0r-Hnb.normalTitle" = "@s1guza (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "@_bazad (Utveckling)"; ObjectID = "k2H-ae-KOW"; */
+"k2H-ae-KOW.normalTitle" = "@_bazad (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "@sbingner"; ObjectID = "lRa-u8-NKk"; */
+"lRa-u8-NKk.normalTitle" = "@sbingner";
+
+/* Class = "UIKnapp"; normalTitle = "@iOS_App_Dev"; ObjectID = "lT4-cI-YDK"; */
+"lT4-cI-YDK.normalTitle" = "@iOS_App_Dev";
+
+/* Class = "UITextField"; platshållare  = "0x292dd10b56d87a3a"; ObjectID = "lf3-Mh-TY2"; */
+"lf3-Mh-TY2.platshållare " = "0x292dd10b56d87a3a";
+
+/* Class = "UILabel"; text = "jailbreak"; ObjectID = "lko-Ud-SBp"; */
+"lko-Ud-SBp.text" = "jailbreak";
+
+/* Class = "UIKnapp"; normalTitle = "@Cryptiiic (Testning)"; ObjectID = "llG-m4-fQ6"; */
+"llG-m4-fQ6.normalTitle" = "@Cryptiiic (Testning)";
+
+/* Class = "UITableViewSection"; footerTitle = "platshållare "; ObjectID = "mVJ-nV-a4v"; */
+"mVJ-nV-a4v.footerTitle" = "platshållare ";
+
+/* Class = "UITableViewSection"; headerTitle = "Verktyg"; ObjectID = "mVJ-nV-a4v"; */
+"mVJ-nV-a4v.headerTitle" = "Verktyg";
+
+/* Class = "UITextField"; platshållare  = "365 Dagar"; ObjectID = "min-G7-4yH"; */
+"min-G7-4yH.platshållare " = "365 Dagar";
+
+/* Class = "UIKnapp"; normalTitle = "@AyyItzRob (Testning)"; ObjectID = "nxt-hY-cmG"; */
+"nxt-hY-cmG.normalTitle" = "@AyyItzRob (Testning)";
+
+/* Class = "UIKnapp"; normalTitle = "@Apple (Utveckling)"; ObjectID = "pkT-ku-Khx"; */
+"pkT-ku-Khx.normalTitle" = "@Apple (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "@jailbreakbuster (Testning)"; ObjectID = "qTU-ae-H2n"; */
+"qTU-ae-H2n.normalTitle" = "@jailbreakbuster (Testning)";
+
+/* Class = "UIKnapp"; normalTitle = "@Swag_iOS (Testning)"; ObjectID = "r2t-59-cIz"; */
+"r2t-59-cIz.normalTitle" = "@Swag_iOS (Testning)";
+
+/* Class = "UILabel"; text = "&"; ObjectID = "sY1-7R-L1x"; */
+"sY1-7R-L1x.text" = "&";
+
+/* Class = "UILabel"; text = "Exploit"; ObjectID = "tpd-rk-NGn"; */
+"tpd-rk-NGn.text" = "Exploit";
+
+/* Class = "UIKnapp"; normalTitle = "@NedWilliamson (Utveckling)"; ObjectID = "uAL-CS-AqY"; */
+"uAL-CS-AqY.normalTitle" = "@NedWilliamson (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "@nitoTV (Utveckling)"; ObjectID = "usK-kT-lNG"; */
+"usK-kT-lNG.normalTitle" = "@nitoTV (Utveckling)";
+
+/* Class = "UILabel"; text = "Speciellt tack"; ObjectID = "usV-YE-yxE"; */
+"usV-YE-yxE.text" = "Speciellt tack";
+
+/* Class = "UIKnapp"; normalTitle = "@FCE365 (Utveckling)"; ObjectID = "w92-OW-keF"; */
+"w92-OW-keF.normalTitle" = "@FCE365 (Utveckling)";
+
+/* Class = "UIKnapp"; normalTitle = "Generator"; ObjectID = "xim-1p-tCK"; */
+"xim-1p-tCK.normalTitle" = "Generator";
+
+/* Class = "UIKnapp"; normalTitle = "@xerub (Utveckling)"; ObjectID = "yj7-t7-Qxc"; */
+"yj7-t7-Qxc.normalTitle" = "@xerub (Utveckling)";
+
+/* Class = "UINavigationItem"; title = "Credits"; ObjectID = "ymO-Kj-nkN"; */
+"ymO-Kj-nkN.title" = "Credits";
+
+/* Class = "UILabel"; text = "för iOS 11.0 - 12.4"; ObjectID = "zFb-Nx-58A"; */
+"zFb-Nx-58A.text" = "för iOS 11.0 - 12.4";
