@@ -1,96 +1,96 @@
 
-/* Class = "UILabel"; text = "تصدير TFP0"; ObjectID = "0lM-oV-NGn"; */
-"0lM-oV-NGn.text" = "تصدير TFP0";
+/* Class = "UILabel"; text = "Export TFP0"; ObjectID = "0lM-oV-NGn"; */
+"0lM-oV-NGn.text" = "Export TFP0";
 
-/* Class = "UIButton"; normalTitle = "مسح بيانات التشخيص"; ObjectID = "2He-sb-oZG"; */
-"2He-sb-oZG.normalTitle" = "مسح بيانات التشخيص";
+/* Class = "UIButton"; normalTitle = "Clean Diagnostics Data"; ObjectID = "2He-sb-oZG"; */
+"2He-sb-oZG.normalTitle" = "Clean Diagnostics Data";
 
-/* Class = "UINavigationItem"; title = "الإعدادات"; ObjectID = "2mQ-1t-c11"; */
-"2mQ-1t-c11.title" = "الإعدادات";
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2mQ-1t-c11"; */
+"2mQ-1t-c11.title" = "Settings";
 
-/* Class = "UIButton"; normalTitle = "تم"; ObjectID = "36t-As-Rhs"; */
-"36t-As-Rhs.normalTitle" = "تم";
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "36t-As-Rhs"; */
+"36t-As-Rhs.normalTitle" = "Done";
 
-/* Class = "UIButton"; normalTitle = "تم"; ObjectID = "380-mY-NVs"; */
-"380-mY-NVs.normalTitle" = "تم";
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "380-mY-NVs"; */
+"380-mY-NVs.normalTitle" = "Done";
 
-/* Class = "UIButton"; normalTitle = "@benjweaverdev (التطوير)"; ObjectID = "4tc-UD-CU7"; */
-"4tc-UD-CU7.normalTitle" = "@benjweaverdev (التطوير)";
+/* Class = "UIButton"; normalTitle = "@benjweaverdev (Development)"; ObjectID = "4tc-UD-CU7"; */
+"4tc-UD-CU7.normalTitle" = "@benjweaverdev (Development)";
 
-/* Class = "UILabel"; text = "تعيين Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
-"5Ee-VR-cUR.text" = "تعيين Boot Nonce";
+/* Class = "UILabel"; text = "Set Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
+"5Ee-VR-cUR.text" = "Set Boot Nonce";
 
-/* Class = "UIButton"; normalTitle = "@Jakeashacks (التطوير)"; ObjectID = "6Ub-TS-0eH"; */
-"6Ub-TS-0eH.normalTitle" = "@Jakeashacks (التطوير)";
+/* Class = "UIButton"; normalTitle = "@Jakeashacks (Development)"; ObjectID = "6Ub-TS-0eH"; */
+"6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Development)";
 
-/* Class = "UINavigationItem"; title = "شكر خاص"; ObjectID = "6zY-vq-3l3"; */
-"6zY-vq-3l3.title" = "شكر خاص";
+/* Class = "UINavigationItem"; title = "Special Thanks"; ObjectID = "6zY-vq-3l3"; */
+"6zY-vq-3l3.title" = "Special Thanks";
 
-/* Class = "UILabel"; text = "تعطيل التحديثات"; ObjectID = "78K-TY-Swa"; */
-"78K-TY-Swa.text" = "تعطيل التحديثات";
+/* Class = "UILabel"; text = "Disable Updates"; ObjectID = "78K-TY-Swa"; */
+"78K-TY-Swa.text" = "Disable Updates";
 
-/* Class = "UIButton"; normalTitle = "@Externalist (التطوير)"; ObjectID = "7IF-fV-7yG"; */
-"7IF-fV-7yG.normalTitle" = "@Externalist (التطوير)";
+/* Class = "UIButton"; normalTitle = "@Externalist (Development)"; ObjectID = "7IF-fV-7yG"; */
+"7IF-fV-7yG.normalTitle" = "@Externalist (Development)";
 
-/* Class = "UILabel"; text = "٢٥/٣٣"; ObjectID = "7Jo-bD-IJb"; */
-"7Jo-bD-IJb.text" = "٢٥/٣٣";
+/* Class = "UILabel"; text = "25/33"; ObjectID = "7Jo-bD-IJb"; */
+"7Jo-bD-IJb.text" = "25/33";
 
-/* Class = "UIButton"; normalTitle = "مشاركة البيانات التحليلية"; ObjectID = "8U8-1D-Tj2"; */
-"8U8-1D-Tj2.normalTitle" = "مشاركة البيانات التحليلية";
+/* Class = "UIButton"; normalTitle = "Share Diagnostics Data"; ObjectID = "8U8-1D-Tj2"; */
+"8U8-1D-Tj2.normalTitle" = "Share Diagnostics Data";
 
-/* Class = "UIButton"; normalTitle = "زر"; ObjectID = "9r5-4K-fy9"; */
-"9r5-4K-fy9.normalTitle" = "زر";
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9r5-4K-fy9"; */
+"9r5-4K-fy9.normalTitle" = "Button";
 
 /* Class = "UILabel"; text = "u0"; ObjectID = "A1X-qf-Qzr"; */
 "A1X-qf-Qzr.text" = "u0";
 
-/* Class = "UITextField"; placeholder = "الثغرة"; ObjectID = "ATy-h0-ALy"; */
-"ATy-h0-ALy.placeholder" = "الثغرة";
+/* Class = "UITextField"; placeholder = "exploit"; ObjectID = "ATy-h0-ALy"; */
+"ATy-h0-ALy.placeholder" = "exploit";
 
-/* Class = "UITextField"; text = "الثغرة"; ObjectID = "ATy-h0-ALy"; */
-"ATy-h0-ALy.text" = "الثغرة";
+/* Class = "UITextField"; text = "exploit"; ObjectID = "ATy-h0-ALy"; */
+"ATy-h0-ALy.text" = "exploit";
 
-/* Class = "UIButton"; normalTitle = "@iBSparkes (التطوير)"; ObjectID = "Aay-Mz-cvw"; */
-"Aay-Mz-cvw.normalTitle" = "@iBSparkes (التطوير)";
+/* Class = "UIButton"; normalTitle = "@iBSparkes (Development)"; ObjectID = "Aay-Mz-cvw"; */
+"Aay-Mz-cvw.normalTitle" = "@iBSparkes (Development)";
 
-/* Class = "UILabel"; text = "و"; ObjectID = "BXF-lt-fpr"; */
-"BXF-lt-fpr.text" = "و";
+/* Class = "UILabel"; text = "&"; ObjectID = "BXF-lt-fpr"; */
+"BXF-lt-fpr.text" = "&";
 
-/* Class = "UIButton"; normalTitle = "@saurik (التطوير)"; ObjectID = "BXZ-in-r3I"; */
-"BXZ-in-r3I.normalTitle" = "@saurik (التطوير)";
+/* Class = "UIButton"; normalTitle = "@saurik (Development)"; ObjectID = "BXZ-in-r3I"; */
+"BXZ-in-r3I.normalTitle" = "@saurik (Development)";
 
-/* Class = "UIButton"; normalTitle = "@stek29 (التطوير)"; ObjectID = "BYM-yS-ubl"; */
-"BYM-yS-ubl.normalTitle" = "@stek29 (التطوير)";
+/* Class = "UIButton"; normalTitle = "@stek29 (Development)"; ObjectID = "BYM-yS-ubl"; */
+"BYM-yS-ubl.normalTitle" = "@stek29 (Development)";
 
-/* Class = "UILabel"; text = "موعد الانتهاء"; ObjectID = "DB2-gn-cs4"; */
-"DB2-gn-cs4.text" = "موعد الانتهاء";
+/* Class = "UILabel"; text = "Expiry"; ObjectID = "DB2-gn-cs4"; */
+"DB2-gn-cs4.text" = "Expiry";
 
-/* Class = "UIButton"; normalTitle = "@xerusdesign (الاختبار)"; ObjectID = "DMu-MO-TiW"; */
-"DMu-MO-TiW.normalTitle" = "@xerusdesign (الاختبار)";
+/* Class = "UIButton"; normalTitle = "@xerusdesign (Testing)"; ObjectID = "DMu-MO-TiW"; */
+"DMu-MO-TiW.normalTitle" = "@xerusdesign (Testing)";
 
-/* Class = "UILabel"; text = "إعادة تثبيت OpenSSH"; ObjectID = "Dhz-O8-Ohi"; */
-"Dhz-O8-Ohi.text" = "إعادة تثبيت OpenSSH";
+/* Class = "UILabel"; text = "(Re)Install OpenSSH"; ObjectID = "Dhz-O8-Ohi"; */
+"Dhz-O8-Ohi.text" = "(Re)Install OpenSSH";
 
-/* Class = "UIButton"; normalTitle = "@Morpheus______ (التطوير)"; ObjectID = "Dwp-7m-i0T"; */
-"Dwp-7m-i0T.normalTitle" = "@Morpheus______ (التطوير)";
+/* Class = "UIButton"; normalTitle = "@Morpheus______ (Development)"; ObjectID = "Dwp-7m-i0T"; */
+"Dwp-7m-i0T.normalTitle" = "@Morpheus______ (Development)";
 
-/* Class = "UILabel"; text = "بواسطة "; ObjectID = "E4E-uK-b4Q"; */
-"E4E-uK-b4Q.text" = "بواسطة ";
+/* Class = "UILabel"; text = "by "; ObjectID = "E4E-uK-b4Q"; */
+"E4E-uK-b4Q.text" = "by ";
 
-/* Class = "UILabel"; text = "الواجهة بواسطة"; ObjectID = "EAd-Mn-rsm"; */
-"EAd-Mn-rsm.text" = "الواجهة بواسطة";
+/* Class = "UILabel"; text = "UI by"; ObjectID = "EAd-Mn-rsm"; */
+"EAd-Mn-rsm.text" = "UI by";
 
 /* Class = "UIButton"; normalTitle = "placeholder"; ObjectID = "ELb-9J-7YK"; */
 "ELb-9J-7YK.normalTitle" = "placeholder";
 
-/* Class = "UILabel"; text = "تعيين CS_DEBUGGED"; ObjectID = "Eq9-Ns-zey"; */
-"Eq9-Ns-zey.text" = "تعيين CS_DEBUGGED";
+/* Class = "UILabel"; text = "Set CS_DEBUGGED"; ObjectID = "Eq9-Ns-zey"; */
+"Eq9-Ns-zey.text" = "Set CS_DEBUGGED";
 
 /* Class = "UILabel"; text = "Substitutor"; ObjectID = "Ffi-fg-qBW"; */
 "Ffi-fg-qBW.text" = "Substitutor";
 
-/* Class = "UILabel"; text = "إعادة تحميل العمليات الخفية"; ObjectID = "GIt-S3-wBe"; */
-"GIt-S3-wBe.text" = "إعادة تحميل العمليات الخفية";
+/* Class = "UILabel"; text = "Reload Daemons"; ObjectID = "GIt-S3-wBe"; */
+"GIt-S3-wBe.text" = "Reload Daemons";
 
 /* Class = "UILabel"; text = "Read-Only RootFS"; ObjectID = "GsM-At-dw9"; */
 "GsM-At-dw9.text" = "Read-Only RootFS";
