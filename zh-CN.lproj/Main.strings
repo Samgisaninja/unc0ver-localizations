@@ -45,10 +45,10 @@
 "A1X-qf-Qzr.text" = "u0";
 
 /* Class = "UITextField"; placeholder = "exploit"; ObjectID = "ATy-h0-ALy"; */
-"ATy-h0-ALy.placeholder" = "漏洞";
+"ATy-h0-ALy.placeholder" = "利用漏洞";
 
 /* Class = "UITextField"; text = "exploit"; ObjectID = "ATy-h0-ALy"; */
-"ATy-h0-ALy.text" = "漏洞";
+"ATy-h0-ALy.text" = "利用漏洞";
 
 /* Class = "UIButton"; normalTitle = "@iBSparkes (Development)"; ObjectID = "Aay-Mz-cvw"; */
 "Aay-Mz-cvw.normalTitle" = "@iBSparkes (Development)";
@@ -93,13 +93,13 @@
 "GIt-S3-wBe.text" = "重载进程";
 
 /* Class = "UILabel"; text = "Read-Only RootFS"; ObjectID = "GsM-At-dw9"; */
-"GsM-At-dw9.text" = "根目录只读";
+"GsM-At-dw9.text" = "根文件系统只读";
 
 /* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "HS8-A8-Kos"; */
 "HS8-A8-Kos.normalTitle" = "重启";
 
 /* Class = "UILabel"; text = "placeholder"; ObjectID = "ITG-pW-yHc"; */
-"ITG-pW-yHc.text" = "placeholder";
+"ITG-pW-yHc.text" = "变量";
 
 /* Class = "UIButton"; normalTitle = "ECID"; ObjectID = "K0V-OH-Xnc"; */
 "K0V-OH-Xnc.normalTitle" = "ECID";
@@ -108,7 +108,7 @@
 "Lop-s2-QoX.text" = "禁用吊销";
 
 /* Class = "UITextField"; placeholder = "exploit"; ObjectID = "M40-fy-KdS"; */
-"M40-fy-KdS.placeholder" = "漏洞";
+"M40-fy-KdS.placeholder" = "利用漏洞";
 
 /* Class = "UITextField"; text = "substitutor"; ObjectID = "M40-fy-KdS"; */
 "M40-fy-KdS.text" = "调谐器";
@@ -123,7 +123,7 @@
 "MpC-W0-1eR.normalTitle" = "查看源代码";
 
 /* Class = "UILabel"; text = "Restore RootFS"; ObjectID = "Mpp-g3-bNI"; */
-"Mpp-g3-bNI.text" = "还原根目录";
+"Mpp-g3-bNI.text" = "还原根文件系统";
 
 /* Class = "UILabel"; text = "Load Tweaks"; ObjectID = "MyV-qW-zdt"; */
 "MyV-qW-zdt.text" = "加载插件";
@@ -249,7 +249,7 @@
 "llG-m4-fQ6.normalTitle" = "@Cryptiiic (Testing)";
 
 /* Class = "UITableViewSection"; footerTitle = "PLACEHOLDER"; ObjectID = "mVJ-nV-a4v"; */
-"mVJ-nV-a4v.footerTitle" = "PLACEHOLDER";
+"mVJ-nV-a4v.footerTitle" = "变量";
 
 /* Class = "UITableViewSection"; headerTitle = "Utilities"; ObjectID = "mVJ-nV-a4v"; */
 "mVJ-nV-a4v.headerTitle" = "组件";
@@ -294,7 +294,7 @@
 "yj7-t7-Qxc.normalTitle" = "@xerub (Development)";
 
 /* Class = "UINavigationItem"; title = "Credits"; ObjectID = "ymO-Kj-nkN"; */
-"ymO-Kj-nkN.title" = "Credits";
+"ymO-Kj-nkN.title" = "贡献";
 
 /* Class = "UILabel"; text = "for iOS 11.0 - 12.4"; ObjectID = "zFb-Nx-58A"; */
 "zFb-Nx-58A.text" = "为 iOS 11.0 - 12.4 设计";
