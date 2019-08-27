@@ -18,7 +18,7 @@
 "Bundled Resources version is missing. This build is invalid." = "ไม่พบหมายเลขเวอร์ชั่นของระบบ. หมายเลขผไม่ถูกต้อง."
 "Days" = "Days"
 "Invalid Entry" = "Invalid Entry"
-"The boot nonce entered could not be parsed" = "The boot nonce entered could not be parsed"
+"The boot nonce entered could not be parsed" = "ค่า boot nonce ที่ป้อนไว้ไม่สามารถใช้งานได้"
 "OK" = "OK"
 "The device will be restarted." = "อุปกรณ์จะเริ่มต้นใหม่."
 "Copy boot nonce?" = "คัดลอกค่า boot nonce?"
