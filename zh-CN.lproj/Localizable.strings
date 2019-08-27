@@ -277,7 +277,7 @@
 "Unable to repair dpkg available file." = "无法修复 dpkg 可用文件。"
 "Unable to repair ncurses." = "无法修复 ncurses。"
 "Unable to repair caches directory for %s." = "无法为 %s 修复缓存目录。"
-"Repaired Filesystem.\n" = "已修复文件系统。\n""
+"Repaired Filesystem.\n" = "已修复文件系统。\n"
 "Configuring %s..." = "正在配置 %s..."
 "Unable to disable %s's loader." = "无法禁用 %s 的加载器。"
 "Starting %s..." = "正在启动 %s..."
