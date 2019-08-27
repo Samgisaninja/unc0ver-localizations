@@ -123,7 +123,7 @@
 "MpC-W0-1eR.normalTitle" = "ดูซอสโค้ด";
 
 /* Class = "UILabel"; text = "Restore RootFS"; ObjectID = "Mpp-g3-bNI"; */
-"Mpp-g3-bNI.text" = "คืนค่า RootFS";
+"Mpp-g3-bNI.text" = "กู้คืน RootFS";
 
 /* Class = "UILabel"; text = "Load Tweaks"; ObjectID = "MyV-qW-zdt"; */
 "MyV-qW-zdt.text" = "เรียกใช้งาน Tweaks";
@@ -147,13 +147,13 @@
 "SRa-i1-KjM.text" = "ติดตั้ง Cydia ใหม่";
 
 /* Class = "UILabel"; text = "Refresh Icon Cache"; ObjectID = "SVp-PX-97M"; */
-"SVp-PX-97M.text" = "รีเฟรช Icon Cache";
+"SVp-PX-97M.text" = "ฟื้นฟู Icon Cache";
 
 /* Class = "UITextField"; placeholder = "XXXXXXXXXXXXXXXX"; ObjectID = "T5g-8V-gBQ"; */
 "T5g-8V-gBQ.placeholder" = "XXXXXXXXXXXXXXXX";
 
 /* Class = "UILabel"; text = "Uptime"; ObjectID = "TmA-aA-qbT"; */
-"TmA-aA-qbT.text" = "เวลาระบบ";
+"TmA-aA-qbT.text" = "เวลาการใช้งานระบบ";
 
 /* Class = "UIButton"; normalTitle = "@theninjaprawn (Development)"; ObjectID = "V0w-3F-HRY"; */
 "V0w-3F-HRY.normalTitle" = "@theninjaprawn (Development)";
