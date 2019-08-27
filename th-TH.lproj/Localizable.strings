@@ -8,7 +8,7 @@
 
 "Bundled Resources version missing." = "เวอร์ชันของ Bundled Resources หายไป"
 "Unsupported" = "ไม่รองรับ"
-"Restore RootFS" = "คืนค่า RootFS"
+"Restore RootFS" = "กู้คืน RootFS"
 "Ready to restore RootFS" = "พร้อมสำหรับการคืนค่า RootFS"
 "Re-Jailbreak" = "เจลเบรคอีกครั้ง"
 "Ready to re-jailbreak" = "พร้อมสำหรับการเจลเบรคอีกครั้ง"
