@@ -1,4 +1,3 @@
-# Working in Process for translate Korean!
 # unc0ver-localizations
 Translations of the unc0ver jailbreak
 
