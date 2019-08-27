@@ -18,7 +18,7 @@
 "4tc-UD-CU7.normalTitle" = "@benjweaverdev (Розробка)";
 
 /* Class = "UILabel"; text = "Set Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
-"5Ee-VR-cUR.text" = "Встановити завантажувальний Nonce";
+"5Ee-VR-cUR.text" = "Задати завантажувальний Nonce";
 
 /* Class = "UIButton"; normalTitle = "@Jakeashacks (Development)"; ObjectID = "6Ub-TS-0eH"; */
 "6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Розробка)";
@@ -45,7 +45,7 @@
 "A1X-qf-Qzr.text" = "u0";
 
 /* Class = "UITextField"; placeholder = "exploit"; ObjectID = "ATy-h0-ALy"; */
-"ATy-h0-ALy.placeholder" = "експойт";
+"ATy-h0-ALy.placeholder" = "експлойт";
 
 /* Class = "UITextField"; text = "exploit"; ObjectID = "ATy-h0-ALy"; */
 "ATy-h0-ALy.text" = "експлойт";
@@ -84,7 +84,7 @@
 "ELb-9J-7YK.normalTitle" = "заповнювач";
 
 /* Class = "UILabel"; text = "Set CS_DEBUGGED"; ObjectID = "Eq9-Ns-zey"; */
-"Eq9-Ns-zey.text" = "Встановити CS_DEBUGGED";
+"Eq9-Ns-zey.text" = "Задати CS_DEBUGGED";
 
 /* Class = "UILabel"; text = "Substitutor"; ObjectID = "Ffi-fg-qBW"; */
 "Ffi-fg-qBW.text" = "Замінник";
@@ -141,7 +141,7 @@
 "PFy-VA-xz7.text" = "Максимальний ліміт пам'яті";
 
 /* Class = "UILabel"; text = "Set get-task-allow"; ObjectID = "S6S-NE-WJ9"; */
-"S6S-NE-WJ9.text" = "Встановити get-task-allow";
+"S6S-NE-WJ9.text" = "Задати get-task-allow";
 
 /* Class = "UILabel"; text = "Reinstall Cydia"; ObjectID = "SRa-i1-KjM"; */
 "SRa-i1-KjM.text" = "Переінсталювати Cydia";
