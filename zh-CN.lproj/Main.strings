@@ -84,7 +84,7 @@
 "ELb-9J-7YK.normalTitle" = "placeholder";
 
 /* Class = "UILabel"; text = "Set CS_DEBUGGED"; ObjectID = "Eq9-Ns-zey"; */
-"Eq9-Ns-zey.text" = "设为 CS_DEBUGGED";
+"Eq9-Ns-zey.text" = "设定 CS_DEBUGGED";
 
 /* Class = "UILabel"; text = "Substitutor"; ObjectID = "Ffi-fg-qBW"; */
 "Ffi-fg-qBW.text" = "调谐器";
