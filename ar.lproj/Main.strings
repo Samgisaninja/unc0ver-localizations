@@ -105,7 +105,7 @@
 "K0V-OH-Xnc.normalTitle" = "ECID";
 
 /* Class = "UILabel"; text = "Disable Revokes"; ObjectID = "Lop-s2-QoX"; */
-"Lop-s2-QoX.text" = "تعطيل إلإبطال";
+"Lop-s2-QoX.text" = "تعطيل الإبطال";
 
 /* Class = "UITextField"; placeholder = "exploit"; ObjectID = "M40-fy-KdS"; */
 "M40-fy-KdS.placeholder" = "الثغرة";
@@ -138,7 +138,7 @@
 "NHc-vO-PPf.normalTitle" = "زر";
 
 /* Class = "UILabel"; text = "Max Memory Limit"; ObjectID = "PFy-VA-xz7"; */
-"PFy-VA-xz7.text" = "حد الداكرة الأقصى";
+"PFy-VA-xz7.text" = "حد الذاكرة الأقصى";
 
 /* Class = "UILabel"; text = "Set get-task-allow"; ObjectID = "S6S-NE-WJ9"; */
 "S6S-NE-WJ9.text" = "تعيين get-task-allow";
@@ -294,7 +294,7 @@
 "yj7-t7-Qxc.normalTitle" = "@xerub (التطوير)";
 
 /* Class = "UINavigationItem"; title = "Credits"; ObjectID = "ymO-Kj-nkN"; */
-"ymO-Kj-nkN.title" = "الاعتنادات";
+"ymO-Kj-nkN.title" = "الاعتمادات";
 
 /* Class = "UILabel"; text = "for iOS 11.0 - 12.4"; ObjectID = "zFb-Nx-58A"; */
-"zFb-Nx-58A.text" = "لـ iOS 11.0 - 12.4";
+"zFb-Nx-58A.text" = "لنظام التشغيل 11.0 - 12.4";
