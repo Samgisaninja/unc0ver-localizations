@@ -30,6 +30,8 @@
 "Failed to check for update." = "Δεν είναι δυνατός ο έλεγχος για ενημέρωση."
 "An update is available." = "Υπάρχει διαθέσιμη ενημέρωση."
 "Already up to date." = "Ήδη ενημερωμένη."
+"An update is available." = "Υπάρχει διαθέσιμη ενημέρωση."
+"Already up to date." = "Ήδη ενημερωμένη."
 "SpringBoard will be restarted." = "Το SpringBoard θα επανεκκινηθεί."
 "Unable to get task port for backboardd." = "Δεν είναι δυνατή η λήψη της θύρας των εργασιών για το backboardd."
 "Unable to make backboardd exit." = "Δεν είναι δυνατή η δημιουργία εξόδου του backboardd."
