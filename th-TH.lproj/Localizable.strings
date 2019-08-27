@@ -6,7 +6,7 @@
   Copyright © 2019 Pwn20wnd. All rights reserved.
 */
 
-"Bundled Resources version missing." = "ไม่พบหมายเลขเวอร์ชั่นของระบบ."
+"Bundled Resources version missing." = "เวอร์ชันของ Bundled Resources หายไป"
 "Unsupported" = "ไม่รองรับ"
 "Restore RootFS" = "คืนค่า RootFS"
 "Ready to restore RootFS" = "พร้อมสำหรับการคืนค่า RootFS"
