@@ -355,7 +355,7 @@
 "Unable to make my task a non-platform task." = "Unable to make my task a non-platform task."
 "Unable to make my codesign blob a non-platform blob." = "Unable to make my codesign blob a non-platform blob."
 "Unable to drop kernel's credentials." = "Unable to drop kernel's credentials."
-"Unable to set user id." = "Unable to set user id."
+"Unable to set user id." = "ไม่สามารถตั้ง user id ได้"
 "Unable to verify user id." = "ไม่สามารถยืนยัน user id ได้"
 "Unable to restore shenanigans in kernel memory." = "Unable to restore shenanigans in kernel memory."
 "Unable to deallocate new host port." = "Unable to deallocate new host port."
