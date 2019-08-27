@@ -233,7 +233,7 @@
 "Allowing SpringBoard to show non-default system apps..." = "Позволяет SpringBoard показывать нестандартные системные приложения..."
 "Unable to update SpringBoard preferences." = "Невозможно обновить настройки SpringBoard."
 "Allowed SpringBoard to show non-default system apps.\n" = "Разрешен SpringBoard для показа нестандартных системных приложений.\n"
-"Creating jailbreak directory..." = "Creating jailbreak directory..." = "Не удалось создать каталог джейлбрейка."
+"Creating jailbreak directory..." = "создание каталога джейлбрейка"
 "Unable to create jailbreak directory." = "Не удалось создать каталог джейлбрейка."
 "Unable to change working directory to jailbreak directory." = "Невозможно изменить рабочий каталог на каталог джейлбрейка."
 "Created jailbreak directory.\n" = "создан каталог джейлбрейка..\n"
