@@ -24,7 +24,7 @@
 "6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Ontwikkeling)";
 
 /* Class = "UINavigationItem"; title = "Special Thanks"; ObjectID = "6zY-vq-3l3"; */
-"6zY-vq-3l3.title" = "Special dank";
+"6zY-vq-3l3.title" = "Met dank aan";
 
 /* Class = "UILabel"; text = "Disable Updates"; ObjectID = "78K-TY-Swa"; */
 "78K-TY-Swa.text" = "Updates uitschakelen";
@@ -39,7 +39,7 @@
 "8U8-1D-Tj2.normalTitle" = "Diagnosegegevens delen";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9r5-4K-fy9"; */
-"9r5-4K-fy9.normalTitle" = "Button";
+"9r5-4K-fy9.normalTitle" = "Knop";
 
 /* Class = "UILabel"; text = "u0"; ObjectID = "A1X-qf-Qzr"; */
 "A1X-qf-Qzr.text" = "u0";
@@ -126,7 +126,7 @@
 "Mpp-g3-bNI.text" = "Herstel RootFS";
 
 /* Class = "UILabel"; text = "Load Tweaks"; ObjectID = "MyV-qW-zdt"; */
-"MyV-qW-zdt.text" = "Laad Tweaks";
+"MyV-qW-zdt.text" = "Laad tweaks";
 
 /* Class = "UIButton"; normalTitle = "@umanghere (Development)"; ObjectID = "N6S-5q-UzE"; */
 "N6S-5q-UzE.normalTitle" = "@umanghere (Ontwikkeling)";
@@ -135,10 +135,10 @@
 "NGj-U7-Rke.text" = "Logvenster verbergen";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NHc-vO-PPf"; */
-"NHc-vO-PPf.normalTitle" = "Button";
+"NHc-vO-PPf.normalTitle" = "Knop";
 
 /* Class = "UILabel"; text = "Max Memory Limit"; ObjectID = "PFy-VA-xz7"; */
-"PFy-VA-xz7.text" = "Max geheugenlimiet";
+"PFy-VA-xz7.text" = "Maximale geheugenlimiet";
 
 /* Class = "UILabel"; text = "Set get-task-allow"; ObjectID = "S6S-NE-WJ9"; */
 "S6S-NE-WJ9.text" = "Stel get-task-allow in";
@@ -201,7 +201,7 @@
 "bBi-OR-hpE.text" = "Laad Daemons";
 
 /* Class = "UITextView"; text = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container for systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user settings.\n"; ObjectID = "bvv-3a-l9y"; */
-"bvv-3a-l9y.text" = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container for systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user settings.\n";
+"bvv-3a-l9y.text" = "[*] unc0ver Versie: 3.1.3+7.gf5833f2\n[*] Machine Naam: iPhone10,5\n[*] Model Naam: D211AP\n[*] Kernel Versie: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Pagina Grootte: 0x4000\n[*] Systeem Versie: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Versie: 1.0~b21\n[*] Status: Niet ondersteund\n[*] Progressie: Niet ondersteund\n[MC] Systeem groep container voor systemgroup.com.apple.configurationprofiles pad is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Lezen uit publieke gebruikersinstellingen.\n";
 
 /* Class = "UIButton"; normalTitle = "@MiscMisty (Development)"; ObjectID = "cUa-LX-1Nb"; */
 "cUa-LX-1Nb.normalTitle" = "@MiscMisty (Ontwikkeling)";
@@ -273,7 +273,7 @@
 "sY1-7R-L1x.text" = "&";
 
 /* Class = "UILabel"; text = "Exploit"; ObjectID = "tpd-rk-NGn"; */
-"tpd-rk-NGn.text" = "Exploiteren";
+"tpd-rk-NGn.text" = "Exploit";
 
 /* Class = "UIButton"; normalTitle = "@NedWilliamson (Development)"; ObjectID = "uAL-CS-AqY"; */
 "uAL-CS-AqY.normalTitle" = "@NedWilliamson (Ontwikkeling)";
@@ -282,7 +282,7 @@
 "usK-kT-lNG.normalTitle" = "@nitoTV (Ontwikkeling)";
 
 /* Class = "UILabel"; text = "Special Thanks"; ObjectID = "usV-YE-yxE"; */
-"usV-YE-yxE.text" = "Special dank";
+"usV-YE-yxE.text" = "Met dank aan";
 
 /* Class = "UIButton"; normalTitle = "@FCE365 (Development)"; ObjectID = "w92-OW-keF"; */
 "w92-OW-keF.normalTitle" = "@FCE365 (Ontwikkeling)";
