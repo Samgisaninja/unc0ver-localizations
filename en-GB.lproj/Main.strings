@@ -258,16 +258,16 @@
 "min-G7-4yH.placeholder" = "365 Gün";
 
 /* Class = "UIButton"; normalTitle = "@AyyItzRob (Testing)"; ObjectID = "nxt-hY-cmG"; */
-"nxt-hY-cmG.normalTitle" = "@AyyItzRob (Testing)";
+"nxt-hY-cmG.normalTitle" = "@AyyItzRob (Test Etme)";
 
 /* Class = "UIButton"; normalTitle = "@Apple (Development)"; ObjectID = "pkT-ku-Khx"; */
-"pkT-ku-Khx.normalTitle" = "@Apple (Development)";
+"pkT-ku-Khx.normalTitle" = "@Apple (Geliştirme)";
 
 /* Class = "UIButton"; normalTitle = "@jailbreakbuster (Testing)"; ObjectID = "qTU-ae-H2n"; */
-"qTU-ae-H2n.normalTitle" = "@jailbreakbuster (Testing)";
+"qTU-ae-H2n.normalTitle" = "@jailbreakbuster (Test Etme)";
 
 /* Class = "UIButton"; normalTitle = "@Swag_iOS (Testing)"; ObjectID = "r2t-59-cIz"; */
-"r2t-59-cIz.normalTitle" = "@Swag_iOS (Testing)";
+"r2t-59-cIz.normalTitle" = "@Swag_iOS (Test Etme)";
 
 /* Class = "UILabel"; text = "&"; ObjectID = "sY1-7R-L1x"; */
 "sY1-7R-L1x.text" = "&";
@@ -276,25 +276,25 @@
 "tpd-rk-NGn.text" = "Exploit";
 
 /* Class = "UIButton"; normalTitle = "@NedWilliamson (Development)"; ObjectID = "uAL-CS-AqY"; */
-"uAL-CS-AqY.normalTitle" = "@NedWilliamson (Development)";
+"uAL-CS-AqY.normalTitle" = "@NedWilliamson (Geliştirme)";
 
 /* Class = "UIButton"; normalTitle = "@nitoTV (Development)"; ObjectID = "usK-kT-lNG"; */
-"usK-kT-lNG.normalTitle" = "@nitoTV (Development)";
+"usK-kT-lNG.normalTitle" = "@nitoTV (Geliştirme)";
 
 /* Class = "UILabel"; text = "Special Thanks"; ObjectID = "usV-YE-yxE"; */
-"usV-YE-yxE.text" = "Special Thanks";
+"usV-YE-yxE.text" = "Özel Teşekkürler";
 
 /* Class = "UIButton"; normalTitle = "@FCE365 (Development)"; ObjectID = "w92-OW-keF"; */
-"w92-OW-keF.normalTitle" = "@FCE365 (Development)";
+"w92-OW-keF.normalTitle" = "@FCE365 (Geliştirme)";
 
 /* Class = "UIButton"; normalTitle = "Generator"; ObjectID = "xim-1p-tCK"; */
 "xim-1p-tCK.normalTitle" = "Generator";
 
 /* Class = "UIButton"; normalTitle = "@xerub (Development)"; ObjectID = "yj7-t7-Qxc"; */
-"yj7-t7-Qxc.normalTitle" = "@xerub (Development)";
+"yj7-t7-Qxc.normalTitle" = "@xerub (Geliştirme)";
 
 /* Class = "UINavigationItem"; title = "Credits"; ObjectID = "ymO-Kj-nkN"; */
-"ymO-Kj-nkN.title" = "Credits";
+"ymO-Kj-nkN.title" = "Jenerik";
 
 /* Class = "UILabel"; text = "for iOS 11.0 - 12.4"; ObjectID = "zFb-Nx-58A"; */
-"zFb-Nx-58A.text" = "for iOS 11.0 - 12.4";
+"zFb-Nx-58A.text" = "iOS 11.0 - 12.4 için";
