@@ -39,7 +39,7 @@
 "Preference was changed. The app will now exit." = "การตั้งค่าถูกเปลี่ยน แอปจะถูกปิด"
 "Preferences were reset. The app will now exit." = "การตั้งค่าถูกรีเซ็ต แอปจะถูกปิด"
 "Load Tweaks" = "โหลด Tweaks"
-"Description:\n\nThis option makes Substrate load extensions that are commonly referred to as tweaks in newly started processes.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64 SoCs (A7-A11)." = "Description:\n\nThis option makes Substrate load extensions that are commonly referred to as tweaks in newly started processes.\n\nCompatibility:\n\niOS 11.0-12.1.2 บน arm64 SoCs (A7-A11)"
+"Description:\n\nThis option makes Substrate load extensions that are commonly referred to as tweaks in newly started processes.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64 SoCs (A7-A11)." = "คำอธิบาย:\n\nตัวเลือกนี้จะทำให้ Substrate โหลดส่วนเสริม ที่เรียกกันว่า tweaks ในขั้นตอนที่เริ่มขึ้นใหม่.\n\nสามารถใช้งานได้กับ:\n\niOS 11.0-12.1.2 บน arm64 SoCs (A7-A11)"
 "Load Daemons" = "โหลด Daemons"
 "Description:\n\nThis option makes the jailbreak load the launch daemons located at /Library/LaunchDaemons and execute files located at /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "คำอธิบาย:\n\nตัวเลือกนี้ทำให้การเจลเบรค โหลด launch daemons ซึ่งอยู่ที่ /Library/LaunchDaemons และไฟล์ที่จะใช้งาน ซึ่งอยู่ที่ /etc/rc.d.\n\nสามารถใช้งานได้กับ:\n\niOS 11.0-12.1.2 บน arm64/arm64e SoCs (A7-A12X)"
 "Dump APTicket" = "Dump APTicket"
