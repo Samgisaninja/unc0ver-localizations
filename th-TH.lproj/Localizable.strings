@@ -1,4 +1,4 @@
-/* 
+/*
   Localizable.strings
   Undecimus
 
@@ -353,7 +353,7 @@
 "Loaded Tweaks.\n" = "โหลด Tweaks แล้ว\n"
 "Deinitializing jailbreak..." = "กำลังคืนทรัพยากรที่ใช้ในการเจลเบรค..."
 "Unable to make my task a non-platform task." = "ไม่สามารถทำงานของฉันได้ a non-platform task"
-"Unable to make my codesign blob a non-platform blob." = "ไม่สามารถสร้างรหัสเครื่องหมายบน blob a non-platform blob."
+"Unable to make my codesign blob a non-platform blob." = "ไม่สามารถสร้าง codesign blob ของฉันได้ a non-platform blob"
 "Unable to drop kernel's credentials." = "ไม่สามารถลดค่า kernel's credentials."
 "Unable to set user id." = "ไม่สามารถตั้ง user id ได้"
 "Unable to verify user id." = "ไม่สามารถยืนยัน user id ได้"
