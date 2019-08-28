@@ -292,11 +292,7 @@
 "Unable to remove old resources." = "ไม่สามารถลบ resources เดิมได้"
 "Unable to remove old-development resources." = "ไม่สามารถลบ old-development resources"
 "Unable to get debs for apt7." = "ไม่สามารถรับ debs สำหรับ apt7"
-<<<<<<< HEAD
-"Unable to install manually extracted debs." = "ไม่สามารถถิดตั้ง debs ที่ถูกคัดแยก เองได้."
-=======
-"Unable to install manually extracted debs." = "ไม่สามารถถิดตั้ง extracted debs เองได้"
->>>>>>> 8a9c9076e6d35fe9f53bc69bf3f0ef9cb24d064a
+"Unable to install manually extracted debs." = "ไม่สามารถถิดตั้ง debs ที่ถูกคัดแยก เองได้"
 "Unable to create local repo." = "ไม่สามารถสร้าง repo ภายใน"
 "Unable to get repo path." = "ไม่สามารถรับพาธของ repo"
 "Unable to resolve dependencies for apt." = "ไม่สามารถ resolve dependencies สำหรับ apt"
