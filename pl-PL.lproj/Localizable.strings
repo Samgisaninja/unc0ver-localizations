@@ -4,16 +4,16 @@
 
   Created by Sam Gardner on 8/26/19.
   Copyright © 2019 Pwn20wnd. All rights reserved.
-  Edited by Jakub Wołczak (kubba10268)
+  Edited by Jakub Wołczak (kubba10268) & D34D 514R
 */
 
 "Bundled Resources version missing." = "Powiązana wersja zasobów nie występuje."
 
 "Unsupported" = "Niewspierany"
 
-"Restore RootFS" = "Przywróć system plików Root"
+"Restore RootFS" = "Przywróć RootFS"
 
-"Ready to restore RootFS" = "Gotowy do przywrócenia systemu plików Root"
+"Ready to restore RootFS" = "Gotowy do przywrócenia RootFS"
 
 "Re-Jailbreak" = "Re-Jailbreak"
 
@@ -29,7 +29,7 @@
 
 "Days" = "Dni"
 
-"Invalid Entry" = "Niepoprawne wpis"
+"Invalid Entry" = "Niepoprawny wpis"
 
 "The boot nonce entered could not be parsed" = "Wprowadzona wartość rozruchowa nie mogła zostać przeanalizowana"
 
@@ -51,13 +51,13 @@
 
 "Failed to check for update." = "Nie można sprawdzić dostępności uaktualnień."
 
-"An update is available." = "Dostępne jest nowe uaktualnienie"
+"An update is available." = "Dostępna jest aktualizacja"
 
-"Already up to date." = "Najnowasza wersja została już zainstalowana"
+"Already up to date." = "Nie ma nowych aktualizacji"
 
-"An update is available." = "Dostępne jest nowe uaktualnienie"
+"An update is available." = "Dostępne jest nowa aktualizacja"
 
-"Already up to date." = "Najnowsza wersja została już zainstalowana"
+"Already up to date." = "Nie ma nowych aktualizacji"
 
 "SpringBoard will be restarted." = "SpringBoard zostanie uruchomiony ponownie."
 
@@ -97,7 +97,7 @@
 
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 na arm64/arm64e SoCs A7-A12X."
 
-"Disable Revokes" = "Wyłącz odwołania"
+"Disable Revokes" = "Wyłącz unieważnienia"
 
 "This option makes the jailbreak effectively disable the system's online certificate status protocol system to prevent enterprise certificates which the jailbreak may be signed with from getting revoked." = "Ta opcja powoduje, że jailbreak skutecznie wyłącza systemowy system protokołów statusu certyfikatów online, aby zapobiec unieważnieniu certyfikatów korporacyjnych, z którymi jailbreak może zostać podpisany."
 
@@ -121,7 +121,7 @@
 
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 na arm64/arm64e SoCs A7-A12X.",
 
-"Restore RootFS" = "Przywróć system plików Root"
+"Restore RootFS" = "Przywróć RootFS"
 
 "This option makes the jailbreak restore the root filesystem RootFS to the snapshot which is created by the system when the device is restored." = "Ta opcja powoduje, że jailbreak przywraca główny system plików RootFS do migawki, która jest tworzona przez system podczas przywracania urządzenia."
 
@@ -135,7 +135,7 @@
 
 "iOS 11.0-12.1.2 on arm64 SoCs A7-A11." = "iOS 11.0-12.1.2 na arm64 SoCs A7-A11."
 
-"ReInstall OpenSSH" = "Zainstaluj ponownie OpenSSH"
+"ReInstall OpenSSH" = "(Ponownie) Zainstaluj OpenSSH"
 
 "This option makes the jailbreak reinstall the openssh package." = "Ta opcja powoduje, że jailbreak ponownie instaluje pakiet openssh."
 
@@ -183,7 +183,7 @@
 
 "This option makes the kernel allow processes to run with invalid executable pages." = "Ta opcja powoduje, że jądro pozwala na uruchamianie procesów z nieprawidłowymi stronami wykonywalnymi."
 
-"Auto Respring" = "Auto Respring"
+"Auto Respring" = "Automatyczny Respring"
 
 "This option makes the jailbreak automatically restart the SpringBoard as soon as the jailbreak process is completed without the confirmation." = "Ta opcja powoduje, że jailbreak automatycznie restartuje SpringBoard, gdy tylko proces jailbreak zostanie zakończony bez potwierdzenia."
 
