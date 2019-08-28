@@ -1,3 +1,14 @@
+/* 
+  Main.strings
+  Undecimus
+
+  Created by Sam Gardner on 8/26/19.
+  Copyright © 2019 Pwn20wnd. All rights reserved.
+  Created by Jakub Stochmal @Narc7zz
+*/
+
+
+
 /* Class = "UILabel"; text = "Export TFP0"; ObjectID = "0lM-oV-NGn"; */
 "0lM-oV-NGn.text" = "Export TFP0";
 
