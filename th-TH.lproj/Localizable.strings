@@ -64,7 +64,7 @@
 "This option is considered unsafe as the privilege this option effectively grants to processes can be used for bad purposes by malicous apps." = "ตัวเลือกนี้จะพิจารณาสิทธ์ที่ไม่ปลอดภัยอนุญาตไปยัง processes ทำให้แอพพลิเคชั่นที่มีความเสียงสามารถใช้งานได้."
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X." = "iOS 11.0-12.1.2 บน arm64/arm64e SoCs A7-A12X.",
 "Restore RootFS" = "กู้คืน RootFS"
-"This option makes the jailbreak restore the root filesystem RootFS to the snapshot which is created by the system when the device is restored." = ""ตัวเลือกนี้จะทำให้การเจลเบรคกู้คืนไฟล์ root ของ RootFS ไปยัง snapshot ที่สร้างโดยระบบในขณะที่อุปกรณ์กำลังกู้คืน"
+"This option makes the jailbreak restore the root filesystem RootFS to the snapshot which is created by the system when the device is restored." = "ตัวเลือกนี้จะทำให้การเจลเบรคกู้คืนไฟล์ root ของ RootFS ไปยัง snapshot ที่สร้างโดยระบบในขณะที่อุปกรณ์กำลังกู้คืน"
 "This option effectively allows uninstalling the jailbreak without losing any user data." = "ตัวเลือกนี้จะส่งผลให้การถอนการติดตั้งการเจลเบรคไม่สูญเสียข้อมูลใดๆ ของผู้ใช้"
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.", = "iOS 11.0-12.1.2 บน arm64/arm64e SoCs A7-A12X.",
 "Max Memory Limit" = "ค่าขีดจำกัดหน่วยความจำสูงสุด"
