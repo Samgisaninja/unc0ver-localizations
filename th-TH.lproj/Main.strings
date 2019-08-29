@@ -1,12 +1,12 @@
 
 /* Class = "UILabel"; text = "Export TFP0"; ObjectID = "0lM-oV-NGn"; */
-"0lM-oV-NGn.text" = "ส่งออก TFP0";
+"0lM-oV-NGn.text" = "Export TFP0";
 
 /* Class = "UIButton"; normalTitle = "Clean Diagnostics Data"; ObjectID = "2He-sb-oZG"; */
-"2He-sb-oZG.normalTitle" = "ล้างข้อมูล การวินิจฉัย ข้อมูล";
+"2He-sb-oZG.normalTitle" = "ล้างการวินิจฉัยข้อมูล";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2mQ-1t-c11"; */
-"2mQ-1t-c11.title" = "ตั่งค่า";
+"2mQ-1t-c11.title" = "ตั้งค่า";
 
 /* Class = "UIButton"; normalTitle = "Done"; ObjectID = "36t-As-Rhs"; */
 "36t-As-Rhs.normalTitle" = "เสร็จสิ้น";
@@ -18,16 +18,16 @@
 "4tc-UD-CU7.normalTitle" = "@benjweaverdev (Development)";
 
 /* Class = "UILabel"; text = "Set Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
-"5Ee-VR-cUR.text" = "ตั่งค่า Boot Nonce";
+"5Ee-VR-cUR.text" = "ตั้งค่า Boot Nonce";
 
 /* Class = "UIButton"; normalTitle = "@Jakeashacks (Development)"; ObjectID = "6Ub-TS-0eH"; */
 "6Ub-TS-0eH.normalTitle" = "@Jakeashacks (Development)";
 
 /* Class = "UINavigationItem"; title = "Special Thanks"; ObjectID = "6zY-vq-3l3"; */
-"6zY-vq-3l3.title" = "ขอขอบคุณ";
+"6zY-vq-3l3.title" = "ขอขอบคุณเป็นพิเศษ";
 
 /* Class = "UILabel"; text = "Disable Updates"; ObjectID = "78K-TY-Swa"; */
-"78K-TY-Swa.text" = "ปิดการอัพเดทระบบ";
+"78K-TY-Swa.text" = "ปิดใช้งานการอัปเดต";
 
 /* Class = "UIButton"; normalTitle = "@Externalist (Development)"; ObjectID = "7IF-fV-7yG"; */
 "7IF-fV-7yG.normalTitle" = "@Externalist (Development)";
@@ -78,25 +78,25 @@
 "E4E-uK-b4Q.text" = "โดย ";
 
 /* Class = "UILabel"; text = "UI by"; ObjectID = "EAd-Mn-rsm"; */
-"EAd-Mn-rsm.text" = "ออกแบบ UI โดย";
+"EAd-Mn-rsm.text" = "UI โดย";
 
 /* Class = "UIButton"; normalTitle = "placeholder"; ObjectID = "ELb-9J-7YK"; */
 "ELb-9J-7YK.normalTitle" = "placeholder";
 
 /* Class = "UILabel"; text = "Set CS_DEBUGGED"; ObjectID = "Eq9-Ns-zey"; */
-"Eq9-Ns-zey.text" = "ตั่งค่า CS_DEBUGGED";
+"Eq9-Ns-zey.text" = "ตั้งค่า CS_DEBUGGED";
 
 /* Class = "UILabel"; text = "Substitutor"; ObjectID = "Ffi-fg-qBW"; */
 "Ffi-fg-qBW.text" = "Substitutor";
 
 /* Class = "UILabel"; text = "Reload Daemons"; ObjectID = "GIt-S3-wBe"; */
-"GIt-S3-wBe.text" = "เรียกใช้  Daemons ใหม่";
+"GIt-S3-wBe.text" = "โหลด  Daemons ใหม่";
 
 /* Class = "UILabel"; text = "Read-Only RootFS"; ObjectID = "GsM-At-dw9"; */
-"GsM-At-dw9.text" = "อ่าน RootFS เท่านั้น";
+"GsM-At-dw9.text" = "RootFS สำหรับอ่านเท่านั้น";
 
 /* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "HS8-A8-Kos"; */
-"HS8-A8-Kos.normalTitle" = "เริ่มต้นระบบใหม่";
+"HS8-A8-Kos.normalTitle" = "เริ่มต้นใหม่";
 
 /* Class = "UILabel"; text = "placeholder"; ObjectID = "ITG-pW-yHc"; */
 "ITG-pW-yHc.text" = "placeholder";
@@ -105,7 +105,7 @@
 "K0V-OH-Xnc.normalTitle" = "ECID";
 
 /* Class = "UILabel"; text = "Disable Revokes"; ObjectID = "Lop-s2-QoX"; */
-"Lop-s2-QoX.text" = "ปิดการ Revokes แอพ";
+"Lop-s2-QoX.text" = "ปิดใช้งานการ Revokes";
 
 /* Class = "UITextField"; placeholder = "exploit"; ObjectID = "M40-fy-KdS"; */
 "M40-fy-KdS.placeholder" = "ช่องโหว่";
@@ -126,22 +126,22 @@
 "Mpp-g3-bNI.text" = "กู้คืน RootFS";
 
 /* Class = "UILabel"; text = "Load Tweaks"; ObjectID = "MyV-qW-zdt"; */
-"MyV-qW-zdt.text" = "เรียกใช้งาน Tweaks";
+"MyV-qW-zdt.text" = "โหลด Tweaks";
 
 /* Class = "UIButton"; normalTitle = "@umanghere (Development)"; ObjectID = "N6S-5q-UzE"; */
 "N6S-5q-UzE.normalTitle" = "@umanghere (Development)";
 
 /* Class = "UILabel"; text = "Hide Log Window"; ObjectID = "NGj-U7-Rke"; */
-"NGj-U7-Rke.text" = "ปิดหน้าต่างประมวลผล";
+"NGj-U7-Rke.text" = "ซ่อนหน้าต่างสื่อสารกับผู้ใช้งาน";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NHc-vO-PPf"; */
 "NHc-vO-PPf.normalTitle" = "ปุ่ม";
 
 /* Class = "UILabel"; text = "Max Memory Limit"; ObjectID = "PFy-VA-xz7"; */
-"PFy-VA-xz7.text" = "ค่าจำกัดหน่วยความจำสูงสุด";
+"PFy-VA-xz7.text" = "ค่าขีดจำกัดหน่วยความจำสูงสุด";
 
 /* Class = "UILabel"; text = "Set get-task-allow"; ObjectID = "S6S-NE-WJ9"; */
-"S6S-NE-WJ9.text" = "Set get-task-allow";
+"S6S-NE-WJ9.text" = "ตั้งค่า get-task-allow";
 
 /* Class = "UILabel"; text = "Reinstall Cydia"; ObjectID = "SRa-i1-KjM"; */
 "SRa-i1-KjM.text" = "ติดตั้ง Cydia ใหม่";
@@ -153,7 +153,7 @@
 "T5g-8V-gBQ.placeholder" = "XXXXXXXXXXXXXXXX";
 
 /* Class = "UILabel"; text = "Uptime"; ObjectID = "TmA-aA-qbT"; */
-"TmA-aA-qbT.text" = "เวลาการใช้งานระบบ";
+"TmA-aA-qbT.text" = "เวลาที่ใช้งานระบบ";
 
 /* Class = "UIButton"; normalTitle = "@theninjaprawn (Development)"; ObjectID = "V0w-3F-HRY"; */
 "V0w-3F-HRY.normalTitle" = "@theninjaprawn (Development)";
@@ -162,7 +162,7 @@
 "V2Q-wP-Ruc.normalTitle" = "@HiMyNameIsUbik";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "VHD-vl-rR6"; */
-"VHD-vl-rR6.title" = "ตั่งค่า";
+"VHD-vl-rR6.title" = "ตั้งค่า";
 
 /* Class = "UIButton"; normalTitle = "@MidnightChip (Testing)"; ObjectID = "Vdc-gW-04x"; */
 "Vdc-gW-04x.normalTitle" = "@MidnightChip (Testing)";
@@ -177,7 +177,7 @@
 "Wpf-g8-fV1.text" = "SSH เท่านั้น";
 
 /* Class = "UIButton"; normalTitle = "Check For Update"; ObjectID = "XvB-ex-qh5"; */
-"XvB-ex-qh5.normalTitle" = "ตรวจสอบ unc0ver อัพเดท";
+"XvB-ex-qh5.normalTitle" = "ตรวจสอบการอัพเดต";
 
 /* Class = "UILabel"; text = "unc0ver"; ObjectID = "YW6-UO-a5e"; */
 "YW6-UO-a5e.text" = "unc0ver";
@@ -189,16 +189,16 @@
 "Zd3-Uw-Mck.normalTitle" = "@pwn20wnd ";
 
 /* Class = "UILabel"; text = "Exploiting"; ObjectID = "ZwM-0f-kRC"; */
-"ZwM-0f-kRC.text" = "ดำเนินการช่องโหว่";
+"ZwM-0f-kRC.text" = "กำลังใช้ช่องโหว่";
 
 /* Class = "UITextField"; placeholder = "365 Days"; ObjectID = "Zx2-Kx-0aV"; */
 "Zx2-Kx-0aV.placeholder" = "365 Days";
 
 /* Class = "UILabel"; text = "Auto respring"; ObjectID = "b6w-j2-Rh6"; */
-"b6w-j2-Rh6.text" = "รีสปริงอัตโนมัติ";
+"b6w-j2-Rh6.text" = "Respring อัตโนมัติ";
 
 /* Class = "UILabel"; text = "Load Daemons"; ObjectID = "bBi-OR-hpE"; */
-"bBi-OR-hpE.text" = "เรียกใช้ Daemons";
+"bBi-OR-hpE.text" = "โหลด Daemons";
 
 /* Class = "UITextView"; text = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container for systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user settings.\n"; ObjectID = "bvv-3a-l9y"; */
 "bvv-3a-l9y.text" = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container for systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user settings.\n";
@@ -210,7 +210,7 @@
 "egd-uq-xg0.normalTitle" = "@realBrightiup (Development)";
 
 /* Class = "UILabel"; text = "Reset Cydia Cache"; ObjectID = "fyE-Sj-TNL"; */
-"fyE-Sj-TNL.text" = "ล้างค่า Cydia Cache";
+"fyE-Sj-TNL.text" = "คืนค่า Cydia Cache";
 
 /* Class = "UIButton"; normalTitle = "@i41nbeer (Development)"; ObjectID = "gQp-2a-3sA"; */
 "gQp-2a-3sA.normalTitle" = "@i41nbeer (Development)";
@@ -252,7 +252,7 @@
 "mVJ-nV-a4v.footerTitle" = "PLACEHOLDER";
 
 /* Class = "UITableViewSection"; headerTitle = "Utilities"; ObjectID = "mVJ-nV-a4v"; */
-"mVJ-nV-a4v.headerTitle" = "ยูทิลิตี้";
+"mVJ-nV-a4v.headerTitle" = "Utilities";
 
 /* Class = "UITextField"; placeholder = "365 Days"; ObjectID = "min-G7-4yH"; */
 "min-G7-4yH.placeholder" = "365 วัน";
@@ -282,7 +282,7 @@
 "usK-kT-lNG.normalTitle" = "@nitoTV (Development)";
 
 /* Class = "UILabel"; text = "Special Thanks"; ObjectID = "usV-YE-yxE"; */
-"usV-YE-yxE.text" = "ขอขอบคุณ";
+"usV-YE-yxE.text" = "ขอขอบคุณเป็นพิเศษ";
 
 /* Class = "UIButton"; normalTitle = "@FCE365 (Development)"; ObjectID = "w92-OW-keF"; */
 "w92-OW-keF.normalTitle" = "@FCE365 (Development)";
