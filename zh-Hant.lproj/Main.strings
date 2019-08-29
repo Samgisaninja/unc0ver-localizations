@@ -2,7 +2,7 @@
 "0lM-oV-NGn.text" = "匯出 TFP0";
 
 /* Class = "UIButton"; normalTitle = "Clean Diagnostics Data"; ObjectID = "2He-sb-oZG"; */
-"2He-sb-oZG.normalTitle" = "清理診斷資料";
+"2He-sb-oZG.normalTitle" = "清除診斷資料";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2mQ-1t-c11"; */
 "2mQ-1t-c11.title" = "設定";
@@ -17,7 +17,7 @@
 "4tc-UD-CU7.normalTitle" = "@benjweaverdev（開發）";
 
 /* Class = "UILabel"; text = "Set Boot Nonce"; ObjectID = "5Ee-VR-cUR"; */
-"5Ee-VR-cUR.text" = "設置引導隨機數";
+"5Ee-VR-cUR.text" = "設置引導參數";
 
 /* Class = "UIButton"; normalTitle = "@Jakeashacks (Development)"; ObjectID = "6Ub-TS-0eH"; */
 "6Ub-TS-0eH.normalTitle" = "@Jakeashacks（開發）";
@@ -62,7 +62,7 @@
 "BYM-yS-ubl.normalTitle" = "@stek29（開發）";
 
 /* Class = "UILabel"; text = "Expiry"; ObjectID = "DB2-gn-cs4"; */
-"DB2-gn-cs4.text" = "憑證到期時間";
+"DB2-gn-cs4.text" = "憑證剩餘時間";
 
 /* Class = "UIButton"; normalTitle = "@xerusdesign (Testing)"; ObjectID = "DMu-MO-TiW"; */
 "DMu-MO-TiW.normalTitle" = "@xerusdesign（測試）";
@@ -86,13 +86,13 @@
 "Eq9-Ns-zey.text" = "設置 CS_DEBUGGED";
 
 /* Class = "UILabel"; text = "Substitutor"; ObjectID = "Ffi-fg-qBW"; */
-"Ffi-fg-qBW.text" = "Substitutor";
+"Ffi-fg-qBW.text" = "代碼添加器";
 
 /* Class = "UILabel"; text = "Reload Daemons"; ObjectID = "GIt-S3-wBe"; */
-"GIt-S3-wBe.text" = "重載守護程序";
+"GIt-S3-wBe.text" = "重載背景服務程式";
 
 /* Class = "UILabel"; text = "Read-Only RootFS"; ObjectID = "GsM-At-dw9"; */
-"GsM-At-dw9.text" = "唯讀根檔案系統";
+"GsM-At-dw9.text" = "唯讀根系統分區";
 
 /* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "HS8-A8-Kos"; */
 "HS8-A8-Kos.normalTitle" = "重新開始";
@@ -110,19 +110,19 @@
 "M40-fy-KdS.placeholder" = "漏洞";
 
 /* Class = "UITextField"; text = "substitutor"; ObjectID = "M40-fy-KdS"; */
-"M40-fy-KdS.text" = "substitutor";
+"M40-fy-KdS.text" = "代碼添加器";
 
 /* Class = "UIButton"; normalTitle = "Open Cydia"; ObjectID = "MCD-u6-GW4"; */
 "MCD-u6-GW4.normalTitle" = "打開 Cydia";
 
 /* Class = "UIButton"; normalTitle = "Restart SpringBoard"; ObjectID = "MKZ-Zb-eq1"; */
-"MKZ-Zb-eq1.normalTitle" = "重新啟動";
+"MKZ-Zb-eq1.normalTitle" = "重啟主畫面";
 
 /* Class = "UIButton"; normalTitle = "View Source Code"; ObjectID = "MpC-W0-1eR"; */
 "MpC-W0-1eR.normalTitle" = "檢視原始碼";
 
 /* Class = "UILabel"; text = "Restore RootFS"; ObjectID = "Mpp-g3-bNI"; */
-"Mpp-g3-bNI.text" = "還原根檔案系統";
+"Mpp-g3-bNI.text" = "還原根系統分區";
 
 /* Class = "UILabel"; text = "Load Tweaks"; ObjectID = "MyV-qW-zdt"; */
 "MyV-qW-zdt.text" = "載入插件";
@@ -146,7 +146,7 @@
 "SRa-i1-KjM.text" = "重新安裝 Cydia";
 
 /* Class = "UILabel"; text = "Refresh Icon Cache"; ObjectID = "SVp-PX-97M"; */
-"SVp-PX-97M.text" = "重新整理圖示快取";
+"SVp-PX-97M.text" = "重整圖示快取";
 
 /* Class = "UITextField"; placeholder = "XXXXXXXXXXXXXXXX"; ObjectID = "T5g-8V-gBQ"; */
 "T5g-8V-gBQ.placeholder" = "XXXXXXXXXXXXXXXX";
@@ -173,7 +173,7 @@
 "Wla-bb-g2P.normalTitle" = "@AppleDry05（測試）";
 
 /* Class = "UILabel"; text = "SSH Only"; ObjectID = "Wpf-g8-fV1"; */
-"Wpf-g8-fV1.text" = "僅 SSH";
+"Wpf-g8-fV1.text" = "僅限 SSH";
 
 /* Class = "UIButton"; normalTitle = "Check For Update"; ObjectID = "XvB-ex-qh5"; */
 "XvB-ex-qh5.normalTitle" = "檢查更新";
@@ -197,7 +197,7 @@
 "b6w-j2-Rh6.text" = "自動重啟";
 
 /* Class = "UILabel"; text = "Load Daemons"; ObjectID = "bBi-OR-hpE"; */
-"bBi-OR-hpE.text" = "載入守護程序";
+"bBi-OR-hpE.text" = "載入背景服務程式";
 
 /* Class = "UITextView"; text = "[*] unc0ver Version: 3.1.3+7.gf5833f2\n[*] Machine Name: iPhone10,5\n[*] Model Name: D211AP\n[*] Kernel Version: Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page Size: 0x4000\n[*] System Version: iOS 12.4 (Beta) (Build: 16G5038d)\n[*] Bundled Resources Version: 1.0~b21\n[*] Status: Unsupported\n[*] Progress: Unsupported\n[MC] System group container for systemgroup.com.apple.configurationprofiles path is /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] Reading from public effective user settings.\n"; ObjectID = "bvv-3a-l9y"; */
 "bvv-3a-l9y.text" = "[*] unc0ver 版本： 3.1.3+7.gf5833f2\n[*] 裝置名稱：iPhone10,5\n[*] 裝置類型：D211AP\n[*] 內核版本： Darwin Kernel Version 18.7.0: Tue May 21 01:53:36 PDT 2019; root:xnu-4903.270.29~10/RELEASE_ARM64_T8015\n[*] Kernel Page 大小：0x4000\n[*] 系統版本：iOS 12.4 (Beta) (Build: 16G5038d)\n[*] 安裝包資源版本：1.0~b21\n[*] 狀態：不支援\n[*] 進度：不支援\n[MC] 系統群組容器 systemgroup.com.apple.configurationprofiles 的位置是 /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles\n[MC] 讀取有效的公用設定。\n";
