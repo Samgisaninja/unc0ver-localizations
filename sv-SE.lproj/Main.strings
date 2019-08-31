@@ -1,9 +1,9 @@
 
 /* Class = "UILabel"; text = "Export TFP0"; ObjectID = "0lM-oV-NGn"; */
-"0lM-oV-NGn.text" = "Export TFP0";
+"0lM-oV-NGn.text" = "Exportera TFP0";
 
 /* Class = "UIButton"; normalTitle = "Clean Diagnostics Data"; ObjectID = "2He-sb-oZG"; */
-"2He-sb-oZG.normalTitle" = "Rensa diagnosdata";
+"2He-sb-oZG.normalTitle" = "Rensa diagnostikdata";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "2mQ-1t-c11"; */
 "2mQ-1t-c11.title" = "Inställningar";
@@ -27,7 +27,7 @@
 "6zY-vq-3l3.title" = "Speciellt tack";
 
 /* Class = "UILabel"; text = "Disable Updates"; ObjectID = "78K-TY-Swa"; */
-"78K-TY-Swa.text" = "Inaktivera uppdateringar";
+"78K-TY-Swa.text" = "Avaktivera uppdateringar";
 
 /* Class = "UIButton"; normalTitle = "@Externalist (Development)"; ObjectID = "7IF-fV-7yG"; */
 "7IF-fV-7yG.normalTitle" = "@Externalist (Utveckling)";
@@ -36,7 +36,7 @@
 "7Jo-bD-IJb.text" = "25/33";
 
 /* Class = "UIButton"; normalTitle = "Share Diagnostics Data"; ObjectID = "8U8-1D-Tj2"; */
-"8U8-1D-Tj2.normalTitle" = "Dela diagnosdata";
+"8U8-1D-Tj2.normalTitle" = "Dela diagnostikdata";
 
 /* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9r5-4K-fy9"; */
 "9r5-4K-fy9.normalTitle" = "Knapp";
@@ -63,13 +63,13 @@
 "BYM-yS-ubl.normalTitle" = "@stek29 (Utveckling)";
 
 /* Class = "UILabel"; text = "Expiry"; ObjectID = "DB2-gn-cs4"; */
-"DB2-gn-cs4.text" = "Upphörande";
+"DB2-gn-cs4.text" = "Upphör";
 
 /* Class = "UIButton"; normalTitle = "@xerusdesign (Testing)"; ObjectID = "DMu-MO-TiW"; */
 "DMu-MO-TiW.normalTitle" = "@xerusdesign (Testning)";
 
 /* Class = "UILabel"; text = "(Re)Install OpenSSH"; ObjectID = "Dhz-O8-Ohi"; */
-"Dhz-O8-Ohi.text" = "(Om)Installera ÖppnaSSH";
+"Dhz-O8-Ohi.text" = "(Om)installera OpenSSH";
 
 /* Class = "UIButton"; normalTitle = "@Morpheus______ (Development)"; ObjectID = "Dwp-7m-i0T"; */
 "Dwp-7m-i0T.normalTitle" = "@Morpheus______ (Utveckling)";
@@ -81,7 +81,7 @@
 "EAd-Mn-rsm.text" = "UI av";
 
 /* Class = "UIButton"; normalTitle = "placeholder"; ObjectID = "ELb-9J-7YK"; */
-"ELb-9J-7YK.normalTitle" = "platshållare ";
+"ELb-9J-7YK.normalTitle" = "platshållare";
 
 /* Class = "UILabel"; text = "Set CS_DEBUGGED"; ObjectID = "Eq9-Ns-zey"; */
 "Eq9-Ns-zey.text" = "Sätt CS_DEBUGGED";
