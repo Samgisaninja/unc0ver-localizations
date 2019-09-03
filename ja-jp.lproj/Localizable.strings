@@ -22,7 +22,7 @@
 "OK" = "OK"
 "The device will be restarted." = "このデバイスは再起動されます。"
 "Copy boot nonce?" = "ブートナンスをコピーしますか？"
-"Would you like to copy nonce generator to clipboard?" = "ナンスジェネレーターをクリップボードにコピーしますか？"
+"Would you like to copy nonce generator to clipboard?" = "nonce generator をクリップボードにコピーしますか？"
 "Yes" = "はい"
 "No" = "いいえ"
 "Copy ECID?" = "ECID コピーしますか？"
