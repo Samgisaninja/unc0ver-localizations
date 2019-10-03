@@ -31,15 +31,15 @@
 
 "Invalid Entry" = "Niepoprawny wpis"
 
-"The boot nonce entered could not be parsed" = "Wprowadzona wartość rozruchowa nie mogła zostać przeanalizowana"
+"The boot nonce entered could not be parsed" = "Wprowadzony boot nonce nie mógł zostać przeanalizowany"
 
 "OK" = "OK"
 
 "The device will be restarted." = "To urządzenie zostanie uruchomione ponownie."
 
-"Copy boot nonce?" = "Copy boot nonce?"
+"Copy boot nonce?" = "Skopiować boot nonce?"
 
-"Would you like to copy nonce generator to clipboard?" = "Czy chcesz skopiować generator nonce do schowka?"
+"Would you like to copy nonce generator to clipboard?" = "Czy chcesz skopiować boot nonce do schowka?"
 
 "Yes" = "Tak"
 
@@ -61,27 +61,27 @@
 
 "SpringBoard will be restarted." = "SpringBoard zostanie uruchomiony ponownie."
 
-"Unable to get task port for backboardd." = "Nie można uzyskać portu zadania dla tablicy"
+"Unable to get task port for backboardd." = "Nie można uzyskać identyfikatora zadania dla backboard-u"
 
-"Unable to make backboardd exit." = "Nie można utworzyć wyjścia tablicy"
+"Unable to make backboardd exit." = "Nie można utworzyć wyjścia z backboard-u"
 
 "Cleaned diagnostics data." = "Wyczyszczono dane diagnostyczne."
 
-"Preference was changed. The app will now exit." = "Preferencje zostały zmienione. Aplikacja zostanie teraz zamknięta."
+"Preference was changed. The app will now exit." = "Ustawienia zostały zmienione. Aplikacja zostanie teraz zamknięta."
 
-"Preferences were reset. The app will now exit." = "Preferencje zostały zresetowane. Aplikacja zostanie teraz zamknięta."
+"Preferences were reset. The app will now exit." = "Ustawienia zostały zresetowane. Aplikacja zostanie teraz zamknięta."
 
-"Load Tweaks" = "Ładowanie Poprawek "
+"Load Tweaks" = "Załaduj Tweak-i"
 
-"Description:\n\nThis option makes Substrate load extensions that are commonly referred to as tweaks in newly started processes.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64 SoCs (A7-A11)." = "Opis:\n\nTa opcja sprawia, że ​​rozszerzenia obciążenia substratu są powszechnie określane jako poprawki w nowo uruchamianych procesach .\n\nCompatibility:\n\niOS 11.0-12.1.2 na arm64 SoCs (A7-A11)."
+"Description:\n\nThis option makes Substrate load extensions that are commonly referred to as tweaks in newly started processes.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64 SoCs (A7-A11)." = "Opis:\n\nTa opcja sprawia, że Substrate wczytuje rozszerzenia, które są powszechnie określane jako Tweaki-i w nowo uruchamianych procesach .\n\nCompatibility:\n\niOS 11.0-12.1.2 na procesorach arm64 (A7-A11)."
 
 "Load Daemons" = "Załaduj Demony"
 
-"Description:\n\nThis option makes the jailbreak load the launch daemons located at /Library/LaunchDaemons and execute files located at /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "Description:\n\nTa opcja powoduje, że jailbreak ładuje demony uruchamiania znajdujące się w /Library/LaunchDaemons i wykonuje pliki znajdujące się w /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 na arm64/arm64e SoCs (A7-A12X)."
+"Description:\n\nThis option makes the jailbreak load the launch daemons located at /Library/LaunchDaemons and execute files located at /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "Description:\n\nTa opcja powoduje, że jailbreak ładuje, a następnie uruchamia demony znajdujące się w /Library/LaunchDaemons i wykonuje pliki znajdujące się w /etc/rc.d.\n\nCompatibility:\n\niOS 11.0-12.1.2 na procesorach arm64/arm64e (A7-A12X)."
 
 "Dump APTicket" = "Zrzuć APTicket"
 
-"Description:\n\nThis option makes the jailbreak create a copy of the system APTicket located at /System/Library/Caches/apticket.der at its Documents directory which is accessible via iTunes File Sharing.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "Description:\n\nTa opcja powoduje, że jailbreak tworzy kopię systemu APTicket znajdującego się pod adresem /System/Library/Caches/apticket.der w katalogu Dokumenty, który jest dostępny poprzez Udostępnianie plików iTunes.\n\nCompatibility:\n\niOS 11.0-12.1.2 na arm64/arm64e SoCs (A7-A12X)."
+"Description:\n\nThis option makes the jailbreak create a copy of the system APTicket located at /System/Library/Caches/apticket.der at its Documents directory which is accessible via iTunes File Sharing.\n\nCompatibility:\n\niOS 11.0-12.1.2 on arm64/arm64e SoCs (A7-A12X)." = "Description:\n\nTa opcja powoduje, że jailbreak tworzy kopię pliku APTicket znajdującego się pod adresem /System/Library/Caches/apticket.der w katalogu Dokumenty, który jest dostępny poprzez Udostępnianie plików iTunes.\n\nCompatibility:\n\niOS 11.0-12.1.2 na procesrach arm64/arm64e (A7-A12X)."
 
 "Refresh Icon Cache" = "Odśwież pamięć podręczną ikon"
 
@@ -103,7 +103,7 @@
 
 "iOS 11.0-11.4.1 on arm64 SoCs A7-A11." = "iOS 11.0-11.4.1 na arm64 SoCs A7-A11."
 
-"Set Boot Nonce" = "Ustaw wartość jednorazową rozruchu"
+"Set Boot Nonce" = "Ustaw wartość boot nonce dla rozruchu"
 
 "Description:" = "Opis:"
 
@@ -115,7 +115,7 @@
 
 "This option makes the jailbreak modify the host-port to grant any process access to the host-priv-port." = "Ta opcja powoduje, że jailbreak modyfikuje port hosta, aby udzielić dowolnego procesu dostępu do hosta-portu-prywatnego."
 
-"This option effectively grants any process access to the kernel task port TFP0 and allows re-jailbreaking without exploiting again." = "Ta opcja skutecznie zapewnia każdemu procesowi dostęp do portu zadań jądra TFP0 i umożliwia ponowne złamanie jailbreaka bez ponownego wykorzystywania."
+"This option effectively grants any process access to the kernel task port TFP0 and allows re-jailbreaking without exploiting again." = "Ta opcja skutecznie zapewnia każdemu procesowi dostęp do portu zadań jądra TFP0 i umożliwia ponowne wykonanie jailbreaka bez ponownego wykonywania exploit-u."
 
 "This option is considered unsafe as the privilege this option effectively grants to processes can be used for bad purposes by malicous apps." = "Ta opcja jest uważana za niebezpieczną, ponieważ przywilej, jaki ta opcja skutecznie nadaje procesom, może być wykorzystywany do złych celów przez złośliwe aplikacje."
 
@@ -125,11 +125,11 @@
 
 "This option makes the jailbreak restore the root filesystem RootFS to the snapshot which is created by the system when the device is restored." = "Ta opcja powoduje, że jailbreak przywraca główny system plików RootFS do migawki, która jest tworzona przez system podczas przywracania urządzenia."
 
-"This option effectively allows uninstalling the jailbreak without losing any user data." = "Ta opcja skutecznie pozwala odinstalować jailbreak bez utraty danych użytkownika."
+"This option effectively allows uninstalling the jailbreak without losing any user data." = "Ta opcja skutecznie pozwala odinstalować jailbreak-a bez utraty danych użytkownika."
 
 "iOS 11.0-12.1.2 on arm64/arm64e SoCs A7-A12X.", = "iOS 11.0-12.1.2 na arm64/arm64e SoCs A7-A12X.",
 
-"Max Memory Limit" = "Maksymalny Limit Pamięci"
+"Max Memory Limit" = "Zwiększ Limit Pamięci"
 
 "This option makes the jailbreak modify the Jetsam configuration file to increase the memory limit that is enforced upon processes by Jetsam to the maximum value to effectively bypass that mechanism." = "Ta opcja powoduje, że jailbreak modyfikuje plik konfiguracyjny Jetsam, aby zwiększyć limit pamięci wymuszany na procesach przez Jetsam do maksymalnej wartości, aby skutecznie ominąć ten mechanizm."
 
@@ -149,11 +149,11 @@
 
 "Reload Daemons" = "Przeładuj demony"
 
-"This option makes the jailbreak reload all of the running system daemons to make the Substrate extensions tweaks load in them." = "Ta opcja powoduje, że jailbreak przeładowuje wszystkie działające demony systemowe, aby ulepszyć w nich rozszerzenia Substrate."
+"This option makes the jailbreak reload all of the running system daemons to make the Substrate extensions tweaks load in them." = "Ta opcja powoduje, że jailbreak przeładowuje wszystkie działające demony systemowe, aby uruchomić w nich Tweak-i."
 
-"Hide Log Window" = "Ukryj okno dziennika"
+"Hide Log Window" = "Ukryj okno konsoli"
 
-"This option hides the log window or console in the jailbreak app for a more clean look." = "Ta opcja ukrywa okno dziennika lub konsolę w aplikacji jailbreak, aby uzyskać bardziej przejrzysty wygląd."
+"This option hides the log window or console in the jailbreak app for a more clean look." = "Ta opcja ukrywa konsolę w aplikacji jailbreak, aby uzyskać bardziej przejrzysty wygląd."
 
 "Reset Cydia Cache" = "Zresetuj pamięć podręczną Cydia"
 
@@ -211,19 +211,19 @@
 
 "Unable to inject trust cache" = "Nie można wstrzyknąć pamięci podręcznej zaufania"
 
-"Exploiting kernel..." = "Wykorzystanie jądra ..."
+"Exploiting kernel..." = "Wykonywanie exploit-u jądra"
 
 "Unable to get host port." = "Nie można uzyskać portu hosta."
 
-"No exploit selected." = "Nie wybrano exploita."
+"No exploit selected." = "Nie wybrano exploit-u."
 
-"Unable to exploit kernel. This is not an error. Reboot and try again." = "Nie można wykorzystać jądra. To nie jest błąd. Uruchom ponownie i spróbuj ponownie."
+"Unable to exploit kernel. This is not an error. Reboot and try again." = "Niepowodzenie wykonywania exploit-u jądra. To nie jest błąd. Uruchom ponownie i spróbuj ponownie."
 
 "Unable to exit." = "Nie można wyjść."
 
-"Exploited kernel.\n" = "Wykorzystane jądro. \n"
+"Exploited kernel.\n" = "Exploit jądra wykonany pomyślnie\n"
 
-"Initializing jailbreak..." = "Inicjowanie jailbreak ..."
+"Initializing jailbreak..." = "Inicjowanie jailbreak-u ..."
 
 "Unable to swap my process sandbox in kernel memory." = "Nie można zamienić obszaru izolowanego procesu w pamięci jądra."
 
@@ -628,7 +628,7 @@
 
 "Unable to load softwareupdateservicesd launch daemon." = "Nie można załadować demona uruchamiania aktualizacji oprogramowania."
 
-"Fixed Storage Preferences.\n" = "Naprawiono preferencje przechowywania.\n"
+"Fixed Storage Preferences.\n" = "Naprawiono ustawienia przechowywania.\n"
 
 "Unable to get hardware targettype." = "Nie można uzyskać sprzętowego typu docelowego."
 
